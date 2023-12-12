@@ -54,8 +54,9 @@ This is an awesome GitHub list of information about the current collection of AI
 
 ## Meta Resources
 
-- [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
-- [42share](https://42share.io/)
+* [Text-to-video model - Wikipedia --- 文本到视频模型 - 维基百科](https://en.wikipedia.org/wiki/Text-to-video_model)
+
+* [Generative artificial intelligence - Wikipedia --- 生成人工智能 - 维基百科](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 
 ### General
 
@@ -348,12 +349,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 Thank you to all contributors (in no particular order and in alphabetical order):
 
-- [Alex](https://github.com/ipruning) - [@ipruning](https://github.com/ipruning)
-- [张天立](https://github.com/TL-Zhang) - [@TL-Zhang](https://github.com/TL-Zhang)
-- [林向东](https://github.com/eastling) - [@eastling](https://github.com/eastling)
-- [边心竹](https://reading.zhubai.love/) - [@bxz400](https://github.com/bxz400)
-- [郑嘻嘻](https://github.com/zhengxixuan) - [@zhengxixuan](https://github.com/zhengxixuan)
-- [黄啸锐](https://github.com/Lilhxr) - [@Lilhxr](https://github.com/Lilhxr)
+- [虞骏豪](https://github.com/freejacklee) - [@freejacklee](https://github.com/freejacklee)
 
 ## Contact
 
