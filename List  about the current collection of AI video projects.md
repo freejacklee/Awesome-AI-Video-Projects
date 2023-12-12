@@ -153,6 +153,6 @@ WonderJourney：是一个由斯坦福大学和谷歌合作开发的项目。
 
 Logging
 
-202312121246 Jack Lee 今天搬运* [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT --- OpenMindClub/awesome-chatgpt：⚡ 关于 ChatGPT 的一切](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general)的README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科文本到视频模型和生成式人工智能，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2562词
+202312121246 Jack Lee 今天搬运* [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT --- OpenMindClub/awesome-chatgpt：⚡ 关于 ChatGPT 的一切](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general)的README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科中文本到视频模型词条和生成式人工智能词条，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2567词
 
 202312112138 Jack Lee init 今天完成初稿500字 20000字/42天=477字/天
