@@ -72,6 +72,9 @@ About: https://research.runwayml.com/about
     With Gen-2 AI, the days of being limited by available footage or budget constraints are numbered, as this innovative technology brings endless creative possibilities to the table.
     有了第二代人工智能，受可用镜头或预算限制的日子已经屈指可数了，因为这项创新技术带来了无限的创意可能性。
 
+* [全面开放，无需排队，Runway视频生成工具Gen-2开启免费试用](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650885185&idx=3&sn=d8042976cd29c23e0c0ba8ee1923a645)
+  * Runway 宣布，Gen-1 和 Gen-2 已经彻底开放，任何人都可以注册一个账号免费尝试。生成的视频长度为 4 秒，每秒消耗 5 个积分，利用免费额度可以生成二十几个视频。如果免费积分耗尽，付费标准为 0.01 美元 / 积分，也就是生成一个视频需要 0.2 美元。*2023-07-25 13:24* *机器之心 发表于北京*
+
 * [Gen-2颠覆AI生成视频，一句话秒出4K高清大片，网友：彻底改变游戏规则-36氪](https://36kr.com/p/2501983674115975)
 
 * [只要输入一段话就能生成视频？Gen-2实测\_精彩视频为您呈现\_36氪](https://36kr.com/video/2307964668027272)
@@ -153,6 +156,6 @@ WonderJourney：是一个由斯坦福大学和谷歌合作开发的项目。
 
 Logging
 
-202312121246 Jack Lee 今天搬运* [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT --- OpenMindClub/awesome-chatgpt：⚡ 关于 ChatGPT 的一切](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general)的README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科中文本到视频模型词条和生成式人工智能词条，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2567词
+202312121246 Jack Lee 今天搬运* [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT --- OpenMindClub/awesome-chatgpt：⚡ 关于 ChatGPT 的一切](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general)的README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科中文本到视频模型词条和生成式人工智能词条，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2771词
 
-202312112138 Jack Lee init 今天完成初稿500字 20000字/42天=477字/天
+202312112138 Jack Lee init 今天完成初稿500词 20000字/42天=477字/天
