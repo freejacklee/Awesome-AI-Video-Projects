@@ -35,10 +35,14 @@ Website: https://pika.art
 Discord: http://discord.gg/pika 
 About: https://pika.art/about
 
+个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。
+
 * [AI生成视频工具Pika爆火，估值超2亿美元-虎嗅网](https://m.huxiu.com/article/2361484.html#:~:text=%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%8D%8E%E4%BA%BA%E5%AD%A6%E7%94%9F%E9%80%80%E5%AD%A6%E5%88%9B%E5%8A%9E,%E7%BC%96%E8%BE%91%E5%92%8C%E9%87%8D%E6%96%B0%E6%9E%84%E6%83%B3%E5%9C%BA%E6%99%AF%E3%80%82&text=%F0%9F%92%A5%20Pika%201.0%E4%BD%BF%E7%94%A8AI,%E7%AE%80%E5%8D%95%E4%B8%94%E9%A3%8E%E6%A0%BC%E5%A4%9A%E5%8F%98%E3%80%82)
   * 斯坦福华人学生退学创办的AI视频生成工具Pika 1.0正式推出，估值超过2亿美元。 该工具可以通过文字、图片和视频生成高质量的各种风格视频，并且支持用户上传视频片段进行编辑和重新构想场景。 💥 Pika 1.0使用AI模型生成非常贴近生动的视频，使用简单且风格多变。
 
-* [斯坦福华人博士文生视频Pika 1.0爆火，4人公司估值2亿，OpenAI联创参投-36氪](https://36kr.com/p/2539021165094660)
+* [斯坦福华人博士文生视频Pika 1.0爆火，4人公司估值2亿，OpenAI联创参投-36氪](https://36kr.com/p/2539021165094660) 
+
+  * [新智元](https://36kr.com/user/574825230)*·*发表于2023-11-29 15:30
 
   * Runway Gen-2最强竞品Pika，暌违半年忽然放出大招——Pika 1.0正式发布！
 
@@ -57,6 +61,14 @@ Website: https://research.runwayml.com/gen2
 Discord: https://discord.com/invite/runwayml
 
 About: https://research.runwayml.com/about
+
+Gen-2 Explained：
+
+Not too long ago, runway pushed the boundaries of generative Ai with Gen Onea video to video model that allows you to use words and images to generate new videos out of existing ones in the week since launching, the model has constantly gotten better temporal consistency, better fidelity better results and as more and more people gained access, we unlocked entirely new use cases and displays of creativity and today we're excited to announce our biggest unlock yettext to Video with Gen Two now. You can generate a video with nothing but words, no driving video no input image gen 2 represents yet another major research milestone and another monumental step forward for generative Ai with Gen 2, anyone anywhere can suddenly realize entire worlds, animations stories anything you can imagine gen two coming, very soon to https://runwayml.com/
+
+不久前，runway通过Gen Onea视频到视频模型突破了生成式AI的界限，该模型允许您使用文字和图像从现有视频中生成新视频 自推出以来的一周内，该模型不断获得更好的时间一致性，更好的保真度，更好的结果，并且随着越来越多的人获得访问权限， 我们解锁了全新的用例和创造力展示，今天我们很高兴地宣布，我们迄今为止最大的解锁版本是第二代视频。你可以生成一个只有文字的视频，没有驾驶视频，没有输入图像，第二代代表了另一个重要的研究里程碑，也是生成式人工智能向前迈出的又一重大一步，第二代，任何地方的任何人都可以突然意识到整个世界，动画故事、任何你能想象到的第二代即将到来，很快就会 https://runwayml.com/
+
+个人体验：20231212尝试了一次，用一张弹古筝的女子图片和一句简短的文字生成视频，生成的视频中随着时间流逝人物面部会有点变形。
 
 * [What is Gen-2 AI and How to Use It? A Step-by-Step Guide --- 什么是第二代人工智能以及如何使用它？分步指南](https://ambcrypto.com/blog/what-is-gen-2-and-how-to-use-it-a-step-by-step-guide/)
 
@@ -88,6 +100,24 @@ About: https://research.runwayml.com/about
 * [Generative AI’s Next Frontier Is Video - Bloomberg --- 生成式人工智能的下一个前沿领域是视频 - Bloomberg](https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video)
 
 * [Runway Gen-2 Update Brings Striking Improvements to AI Video Fidelity and Realism --- Runway Gen-2 更新为 AI 视频保真度和真实度带来了显着改进](https://www.maginative.com/article/runway-gen-2-video-ai-takes-major-step-forward-in-fidelity-and-length/)
+
+
+
+Runway Gen-1
+
+Website: https://research.runwayml.com/gen1
+
+About: https://research.runwayml.com/about
+
+Paper:* [[2302.03011] Structure and Content-Guided Video Synthesis with Diffusion Models --- [2302.03011]具有扩散模型的结构和内容引导视频合成](https://arxiv.org/abs/2302.03011)
+
+Gen-1 Explained：
+
+Gen 1 is able to realistically and consistently apply the composition and style of an image or text prompt to the target video allowing you to generate new video content using an existing video.We call this approach video to video, and we're incredibly excited to share a few early use casesstylization mode, transfer the style of any image or prompt to every frame of your video storyboard mode, turn mockups into fully stylized and animated rendersmask mode, isolate subjects in your video and modify them with simple text prompts.Render mode, turn untextured renders into realistic outputs by applying an input imageor prompt.
+To realizing the future of storytelling.
+
+Gen 1 能够逼真且一致地将图像或文本提示的构图和样式应用于目标视频，从而允许您使用现有视频生成新的视频内容。我们将这种方法称为视频到视频，我们非常高兴地分享一些早期的用例风格化模式，将任何图像或提示的样式传输到视频故事板模式的每一帧，将模型转换为完全风格化和动画渲染蒙版模式，隔离视频中的主题并使用简单的文本提示对其进行修改。渲染模式，通过应用输入图像或提示将无纹理渲染转换为逼真的输出。
+实现讲故事的未来。
 
 
 
@@ -142,6 +172,8 @@ WonderJourney：是一个由斯坦福大学和谷歌合作开发的项目。
 4、连贯性和多样性：生成的3D场景在视觉上连贯，同时在风格和类型上多样化。形成一种连续的视觉旅程，模拟在一个虚拟“奇妙世界”中的体验。
 
 * [小互 on X: "WonderJourney：是一个由斯坦福大学和谷歌合作开发的项目。 它能够根据用户提供的文本描述或图片，自动生成一系列3D场景的连续画面。 这些场景不仅多样化，而且彼此之间还能紧密衔接，形成一种虚拟的“奇妙旅程”场景。 而且你只需要输入一段描述或上传一张图片即可... 主要功能特点：… https://t.co/gptrWSyWBz" / X](https://twitter.com/xiaohuggg/status/1733779657722622449)
+  * 发表于2023-12-10 17:24 
+
 
 
 
@@ -150,11 +182,86 @@ WonderJourney：是一个由斯坦福大学和谷歌合作开发的项目。
 
 
 
-4、
+4、Text-to-Video Tool（Create mini AI videos from text）
+
+URL： [TextToVideo | Create videos from text](https://text-to-video.vercel.app/)
+
+Newsletter Post Title：ChatGPT business ideas with a billionaire
+
+Newsletter Post URL：https://bensbites.beehiiv.com/p/government-bans-will-ai-emerge-victorious
+
+Date：2023年4月3日
+
+This link leads to a website that offers a text-to-video tool. Users can input text and the tool will generate a video based on the content. The website also offers customization options for the video's appearance and background music.
+
+此链接指向一个提供文本转视频工具的网站。用户可以输入文本，该工具将根据内容生成视频。该网站还提供视频外观和背景音乐的自定义选项。
+
+来自 Airtable - Grid view AI Project Tracker 人工智能项目追踪器 Ben's Bites 中提到的所有链接的数据库。https://airtable.com/appuMJo2TCnijMLkz/shrbLgcCayYdxucC7/tblcTEsr9aeCYdIRw
+
+* [Text to Video AI - Product Information, Latest Updates, and Reviews 2023 | Product Hunt --- 文本转视频 AI - 2023 年产品信息、最新更新和评论 |产品搜索](https://www.producthunt.com/products/text-to-video-ai)
+
+  * Text to Video AI 文本转视频人工智能
+
+  * Launched on March 31st, 2023
+
+    Text to Video is my latest project, which allows you to create videos using AI. Currently AI videos are in their "monstrous stage", just like Dalle 2 MINI a while back. The project seeks that people can have a first approach to text-to-video.
+    文本到视频是我的最新项目，它允许您使用人工智能创建视频。目前人工智能视频正处于“怪物阶段”，就像不久前的 Dalle 2 MINI 一样。该项目旨在让人们能够拥有第一种将文本转为视频的方法。
+
+
+
+
+
+
+
+先不管 
+
+Imagen Video
+
+A New Text-Conditioned Video Diffusion Model
+
+一种新的文本条件视频扩散模型
 
 
 
 Logging
+
+20231213 Jack Lee 今天目标完成500词，最终推进到了4509词
+
+今天主要增加了Gen-1部分和Gen-1 Explained、Gen-2 Explained，Text-to-Video Tool
+
+主要思路是借助https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general 中的
+
+- [Find AI Tools Using AI](https://theresanaiforthat.com/?message=subscribed) - AI tools. Updated daily.
+  使用 AI 查找 AI 工具 - AI 工具。每日更新。
+
+进一步明确关键词为**Video generation**，配合阳志平老师提供的方法：从自己能拿到的最优质的公开数据，掌握的最优质的信息入手，我由此联想到我拥有**Ben's Bites**两个每天更新的数据库的访问权限，于是分别在以下两个数据库中用关键词**Video generation**进行搜索，在表格里面用关键词**Video generation**进行过滤搜索（Filtered by Tags），然后完成了今天的500词。
+
+We have two databases that are updated every day;
+我们有两个每天更新的数据库；
+
+All 10k+ links we’ve covered, easily filterable
+我们涵盖的所有 10k+ 链接都可轻松过滤
+
+6k+ AI company funding rounds from Jan 2022, including investors, amounts, stage etc
+2022年1月起超过6k+轮AI公司融资，包括投资者、金额、阶段等
+
+数据库1：Airtable - Grid view AI Project Tracker 人工智能项目追踪器 Ben's Bites 中提到的所有链接的数据库。可过滤和可搜索。包括相关的筹款和投资者数据。
+
+> It includes all links mentioned in the emails, from the first issue. It'll keep updating over time.
+>
+> 它包括电子邮件中提到的从第一期开始的所有链接。它将随着时间的推移不断更新。
+
+https://airtable.com/appuMJo2TCnijMLkz/shrbLgcCayYdxucC7/tblcTEsr9aeCYdIRw
+
+数据库2：Airtable - Funding Rounds AI Funding Rounds 人工智能融资轮次 人工智能领域所有公司融资轮次的最新数据库 https://airtable.com/appLPuy8wEZ8dbiHI/shrNYsG0mStB7NY06/tblBbns8QETdkqrXC
+
+> The database contains of all AI company funding rounds, the amounts, location, investors and much more.
+>
+> We populate the information where possible but as with private company data, it may be inaccurate or missing, unfortunately. We verify the data from Crunchbase, Pitchbook and other sources where possible.
+>
+> 该数据库包含所有人工智能公司的融资回合、金额、地点、投资者等信息。
+>
+> 我们尽可能填充信息，但遗憾的是，与私人公司数据一样，这些信息可能不准确或丢失。我们尽可能从 Crunchbase, Pitchbook 和其他来源核实数据。
 
 202312121246 Jack Lee 今天搬运* [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT --- OpenMindClub/awesome-chatgpt：⚡ 关于 ChatGPT 的一切](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general)的README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科中文本到视频模型词条和生成式人工智能词条，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2771词
 

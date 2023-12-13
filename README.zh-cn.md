@@ -326,7 +326,7 @@
 
 ### 社会影响
 
-- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130) 研究表明，大约 80% 的美国劳动力可能有至少 10% 的工作任务受到 GPT 引入的影响，而约 19% 的工作者可能有至少 50% 的任务受到影响。影响涵盖了所有工资水平，高收入工作可能面临更大的风险。。
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130) 研究表明，大约 80% 的美国劳动力可能有至少 10% 的工作任务受到 GPT 引入的影响，而约 19% 的工作者可能有至少 50% 的任务受到影响。影响涵盖了所有工资水平，高收入工作可能面临更大的风险。
 
 ## 贡献
 
