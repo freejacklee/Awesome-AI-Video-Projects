@@ -37,7 +37,7 @@ About: https://pika.art/about
 
 来自公众号 数字生命卡兹克的用户测评：* [【全网首发】PIKA1.0上手评测 - 你就是传奇](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647660666&idx=1&sn=0e9e2a11d5c06cd512479d35ca84bf3f&sharer_shareinfo=d3d03bfa8311534acd00b7003123ed3c&sharer_shareinfo_first=d3d03bfa8311534acd00b7003123ed3c#rd)
 
-我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。
+我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。我在Pika Labs的Discord上用一张图片生成的视频中人物的脸也会变形。
 
 温馨提示：目前可以在Pika Labs的Discord上直接用文字生成视频
 
