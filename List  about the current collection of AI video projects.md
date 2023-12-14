@@ -462,9 +462,9 @@ GitHub：https://github.com/microsoft/GAIA  12月14日访问该网页显示404�
 
 * [Dreaming Tulpa 🥓👑 on X: "High quality AI generated talking heads are coming! GAIA can generate talking avatars from a single portrait image and speech clip. It even supports text prompts like \`sad\`, \`open mouth\` or \`surprise\` to guide video generation. Crazy times ahead 🤯 https://t.co/20WZOLMypz https://t.co/kgYLyzE1RJ" / X](https://twitter.com/dreamingtulpa/status/1730514359317590234)
 
-* 高品质人工智能生成的头像来了！
+  * 高品质人工智能生成的头像来了！
 
-  GAIA 可以从单个肖像图像和语音片段生成会说话的化身。它甚至支持“悲伤”、“张开嘴”或“惊讶”等文字提示来指导视频生成。疯狂的时代即将来临
+    GAIA 可以从单个肖像图像和语音片段生成会说话的化身。它甚至支持“悲伤”、“张开嘴”或“惊讶”等文字提示来指导视频生成。疯狂的时代即将来临
 
 
 
