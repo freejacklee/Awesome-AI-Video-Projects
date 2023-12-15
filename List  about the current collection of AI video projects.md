@@ -589,6 +589,6 @@ https://airtable.com/appuMJo2TCnijMLkz/shrbLgcCayYdxucC7/tblcTEsr9aeCYdIRw
 >
 > 我们尽可能填充信息，但遗憾的是，与私人公司数据一样，这些信息可能不准确或丢失。我们尽可能从 Crunchbase, Pitchbook 和其他来源核实数据。
 
-202312121246 Jack Lee 今天搬运* [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT --- OpenMindClub/awesome-chatgpt：⚡ 关于 ChatGPT 的一切](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general)的README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科中文本到视频模型词条和生成式人工智能词条，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2771词
+20231212  Jack Lee 今天搬运* [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT --- OpenMindClub/awesome-chatgpt：⚡ 关于 ChatGPT 的一切](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general)的README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科中文本到视频模型词条和生成式人工智能词条，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2771词
 
-202312112138 Jack Lee init 今天完成初稿500词 20000字/42天=477字/天
+20231211  Jack Lee init 今天完成初稿500词 20000字/42天=477字/天
