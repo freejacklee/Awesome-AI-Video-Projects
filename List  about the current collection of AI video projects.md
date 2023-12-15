@@ -1,8 +1,10 @@
-仓库地址：* [freejacklee/Awesome-AI-Video-Projects: This is an awesome GitHub list of information about the current collection of AI video projects] https://github.com/freejacklee/Awesome-AI-Video-Projects
+## 仓库地址：freejacklee/Awesome-AI-Video-Projects: This is an awesome GitHub list of information about the current collection of AI video projects
 
-提交内容：List  about the current collection of AI video projects.md
+* [freejacklee/Awesome-AI-Video-Projects: This is an awesome GitHub list of information about the current collection of AI video projects] https://github.com/freejacklee/Awesome-AI-Video-Projects
 
 
+
+## 提交内容：List  about the current collection of AI video projects.md
 
 This is an awesome GitHub list of information about the current collection of AI video projects
 
@@ -27,9 +29,9 @@ List  about the current collection of AI video projects
 
 
 
-AI generated video tool
+## AI generated video tool
 
-1、Pika
+### 1、Pika
 
 Website: https://pika.art 
 Discord: http://discord.gg/pika 
@@ -84,13 +86,19 @@ AI视频生产，新兴产品Pika和老牌产品Runway
 
 
 
-2、Runway Gen-2
+### 2、Runway Gen-2
 
 Website: https://research.runwayml.com/gen2
 
 Discord: https://discord.com/invite/runwayml
 
 About: https://research.runwayml.com/about
+
+Date：2023年6月8日
+
+Summary：Runway's Gen-2 allows users to create videos in any style using Text to Video generation. Runway 的 Gen-2 允许用户使用文本到视频生成功能创建任何风格的视频。
+
+Tags：AI, video generation, Runway
 
 Gen-2 Explained：
 
@@ -133,7 +141,7 @@ Not too long ago, runway pushed the boundaries of generative Ai with Gen Onea vi
 
 
 
-Runway Gen-1
+#### Runway Gen-1
 
 Website: https://research.runwayml.com/gen1
 
@@ -151,7 +159,7 @@ Gen 1 能够逼真且一致地将图像或文本提示的构图和样式应用�
 
 
 
-3、WonderJourney
+### 3、WonderJourney
 
 项目及演示：https://kovenyu.com/wonderjourney/
 论文：https://arxiv.org/pdf/2312.03884.pdf
@@ -212,7 +220,7 @@ WonderJourney：是一个由斯坦福大学和谷歌合作开发的项目。
 
 
 
-4、Text-to-Video Tool（Create mini AI videos from text）
+### 4、Text-to-Video Tool（Create mini AI videos from text）
 
 URL： [TextToVideo | Create videos from text](https://text-to-video.vercel.app/)
 
@@ -222,9 +230,11 @@ Newsletter Post URL：https://bensbites.beehiiv.com/p/government-bans-will-ai-em
 
 Date：2023年4月3日
 
-This link leads to a website that offers a text-to-video tool. Users can input text and the tool will generate a video based on the content. The website also offers customization options for the video's appearance and background music.
+Summary：This link leads to a website that offers a text-to-video tool. Users can input text and the tool will generate a video based on the content. The website also offers customization options for the video's appearance and background music.
 
 此链接指向一个提供文本转视频工具的网站。用户可以输入文本，该工具将根据内容生成视频。该网站还提供视频外观和背景音乐的自定义选项。
+
+Tags：text-to-video, video generation, AI tool
 
 来自 Airtable - Grid view AI Project Tracker 人工智能项目追踪器 Ben's Bites 中提到的所有链接的数据库。https://airtable.com/appuMJo2TCnijMLkz/shrbLgcCayYdxucC7/tblcTEsr9aeCYdIRw
 
@@ -255,7 +265,7 @@ This link leads to a website that offers a text-to-video tool. Users can input t
 
 * [全网都在模仿的“科目三”，梅西、钢铁侠、二次元小姐姐马上拿下-36氪](https://36kr.com/p/2543100034213636)
 
-5、阿里的Animate Anyone
+### 5、阿里的Animate Anyone
 
 阿里推出了Animate Anyone，该项目由阿里巴巴智能计算研究院开发，你只需提供一个静态的角色图像（包括真人、动漫/卡通角色等）和一些动作、姿势（比如跳舞、走路），便可将其动画化，同时保留角色的细节特征（如面部表情、服装细节等）。
 
@@ -327,7 +337,7 @@ This link leads to a website that offers a text-to-video tool. Users can input t
 
 Animate Anyone在Huggingface上的在线测试地址：暂未发现已经开源 * [AnimateAnyone (AnimateAnyone)](https://huggingface.co/AnimateAnyone)
 
-6、字节跳动的MagicAnimate
+### 6、字节跳动的MagicAnimate
 
 Magic Animate是一项开创性的开源项目，简化了动画创作，允许您从单个图像和动态[视频](https://www.yjpoo.com/shipinsucai/)制作动画视频，简单来说，给定一张参考图像和一个姿态序列（视频），它可以生成一个跟随姿态运动，并保持参考图像身份特征的动画视频。由新加坡国立大学的Show Lab和字节跳动打造。
 
@@ -376,7 +386,7 @@ MagicAnimate在Huggingface上的在线测试地址：https://huggingface.co/spac
 
 
 
-7、微软的GAIA
+### 7、微软的GAIA
 
 项目地址：https://microsoft.github.io/GAIA/       12月14日访问该网页显示404错误
 
@@ -468,6 +478,55 @@ GitHub：https://github.com/microsoft/GAIA  12月14日访问该网页显示404�
 
 
 
+### 8、GitHub - arpitbansal297/Universal-Guided-Diffusion
+
+论文链接： [[2302.07121v1] Universal Guidance for Diffusion Models](https://arxiv.org/abs/2302.07121v1)
+
+GitHub（代码地址）：https://github.com/arpitbansal297/Universal-Guided-Diffusion
+
+Newsletter Post Title：AI in the workplace
+
+Newsletter Post URL：
+
+* [AI in the workplace](https://bensbites.beehiiv.com/p/ai-workplace)
+  * Multimodal universal guidance for diffusion models without retraining.
+
+Date：2023年6月8日
+
+Summary：This is a GitHub repository for Universal Guided Diffusion, which is a machine learning model for image and video generation. 这是通用引导扩散的 GitHub 存储库，通用引导扩散是一种用于图像和视频生成的机器学习模型。
+
+Tags：machine learning, image generation, video generation, GitHub
+
+* [Universal-Guided-Diffusion/README.md at main · arpitbansal297/Universal-Guided-Diffusion](https://github.com/arpitbansal297/Universal-Guided-Diffusion/blob/main/README.md)
+  * The official PyTorch implementation of [Universal Guidance for Diffusion Models](https://arxiv.org/abs/2302.07121). This repository has python implementation of universal guidance algorithm that enables controlling diffusion models by arbitrary guidance modalities without the need to retrain any use-specific components. Different guidance modalities we demonstrate are Human Identity, Segmentation Maps, Object Location, Image Style and Clip. Our implementation is based on the text-to-img model from [Stable Diffusion](https://github.com/CompVis/stable-diffusion) and Imagenet Diffusion Model from [OpenAI's guided diffusion](https://github.com/openai/guided-diffusion).
+    扩散模型通用指南的官方 PyTorch 实现。该存储库具有通用制导算法的 python 实现，可以通过任意制导方式控制扩散模型，而无需重新训练任何特定用途的组件。我们展示的不同引导模式包括人类身份、分割图、对象位置、图像样式和剪辑。我们的实现基于来自稳定扩散的文本到图像模型和来自 OpenAI 引导扩散的 Imagenet 扩散模型。
+
+* [Universal Guidance for Diffusion Models,arXiv - CS - Machine Learning - X-MOL](https://newsletter.x-mol.com/paper/1626022089827893248?adv)
+
+  * **扩散模型的通用指南**
+
+    典型的扩散模型经过训练可以接受特定形式的调节，最常见的是文本，并且不能在没有重新训练的情况下以其他形式为条件。在这项工作中，我们提出了一种通用的指导算法，使扩散模型能够由任意指导方式控制，而无需重新训练任何特定于使用的组件。我们展示了我们的算法成功地生成了具有引导功能的高质量图像，包括分割、人脸识别、对象检测和分类器信号。代码可在 https://github.com/arpitbansal297/Universal-Guided-Diffusion 获得。
+
+* [扩散模型的通用指导手册\_Zilliz\_InfoQ写作社区](https://xie.infoq.cn/article/c3c7dfb1947a98fddb858a36d)
+
+  * **出品人：Towhee 技术团队 张晨、顾梦佳**
+
+    典型的扩散模型经过训练可以接受特定形式的条件指导（比如文本），但不能在没有重新训练的情况下允许其他形式为条件。 为此研究者提出一种通用的指导算法，使扩散模型无需重新训练任何指定用处的组件，就能由任意指导模式控制。 该算法成功地生成了具有引导功能的高质量图像，包括分割、人脸识别、对象检测和分类器信号。
+
+    论文提出的引导算法增强了扩散模型的图像采样方法，包含了来自现成辅助网络的引导。实验发现，重建的干净图像虽然不够自然和完美，但仍然适用于通用指导函数，以提供具有信息的反馈并指导图像生成。 然后通过拓展分类器指导来激发前向的通用指导，该发现能够被用来处理通用指导。另外，反向通用指导的补充可以帮助强制生成的图像，以满足基于指导函数的约束。该算法最后使用了一种简单但有用的自复现技巧，根据经验提高生成图像的保真度。
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
 先不管 
 
 Imagen Video
@@ -479,6 +538,12 @@ A New Text-Conditioned Video Diffusion Model
 
 
 Logging
+
+20231215 Jack Lee 今天目标完成500词，最终推进到了12288词
+
+今天继续整理**Ben's Bites**两个数据库中的每天更新的人工智能项目追踪器数据库中的内容
+
+今天主要增加了GitHub - arpitbansal297/Universal-Guided-Diffusion
 
 20231214 Jack Lee 今天目标完成500词，最终推进到了11231词
 
