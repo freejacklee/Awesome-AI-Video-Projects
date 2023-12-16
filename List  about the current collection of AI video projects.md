@@ -96,7 +96,15 @@ About: https://research.runwayml.com/about
 
 Date：2023年6月8日
 
-Summary：Runway's Gen-2 allows users to create videos in any style using Text to Video generation. Runway 的 Gen-2 允许用户使用文本到视频生成功能创建任何风格的视频。
+
+
+Summary：
+
+Runway's Gen-2 allows users to create videos in any style using Text to Video generation. Runway 的 Gen-2 
+
+允许用户使用文本到视频生成功能创建任何风格的视频。
+
+
 
 Tags：AI, video generation, Runway
 
@@ -143,11 +151,29 @@ Not too long ago, runway pushed the boundaries of generative Ai with Gen Onea vi
 
 #### Runway Gen-1
 
+Introducing Gen-1: A New AI Model for Video Generation
+
 Website: https://research.runwayml.com/gen1
 
 About: https://research.runwayml.com/about
 
 Paper:  [[2302.03011] Structure and Content-Guided Video Synthesis with Diffusion Models --- [2302.03011]具有扩散模型的结构和内容引导视频合成](https://arxiv.org/abs/2302.03011)
+
+URL：https://twitter.com/runwayml/status/1622594989384519682
+
+Date：2023年2月7日
+
+
+
+Summary：
+
+Runway has announced the launch of Gen-1, a new AI model that uses language and images to generate new videos out of existing ones. Early research access is available by signing up on their website. 
+
+Runway 宣布推出 Gen-1，这是一种新的人工智能模型，可以使用语言和图像从现有视频中生成新视频。通过在其网站上注册即可获得早期研究访问权限。
+
+
+
+Tags：AI, video generation, Generative AI, Runway
 
 Gen-1 Explained：
 
@@ -230,9 +256,15 @@ Newsletter Post URL：https://bensbites.beehiiv.com/p/government-bans-will-ai-em
 
 Date：2023年4月3日
 
-Summary：This link leads to a website that offers a text-to-video tool. Users can input text and the tool will generate a video based on the content. The website also offers customization options for the video's appearance and background music.
+
+
+Summary：
+
+This link leads to a website that offers a text-to-video tool. Users can input text and the tool will generate a video based on the content. The website also offers customization options for the video's appearance and background music.
 
 此链接指向一个提供文本转视频工具的网站。用户可以输入文本，该工具将根据内容生成视频。该网站还提供视频外观和背景音乐的自定义选项。
+
+
 
 Tags：text-to-video, video generation, AI tool
 
@@ -480,7 +512,7 @@ GitHub：https://github.com/microsoft/GAIA  12月14日访问该网页显示404�
 
 ### 8、GitHub - arpitbansal297/Universal-Guided-Diffusion
 
-论文链接： [[2302.07121v1] Universal Guidance for Diffusion Models](https://arxiv.org/abs/2302.07121v1)
+Paper:  [[2302.07121v1] Universal Guidance for Diffusion Models](https://arxiv.org/abs/2302.07121v1)
 
 GitHub（代码地址）：https://github.com/arpitbansal297/Universal-Guided-Diffusion
 
@@ -493,7 +525,15 @@ Newsletter Post URL：
 
 Date：2023年6月8日
 
-Summary：This is a GitHub repository for Universal Guided Diffusion, which is a machine learning model for image and video generation. 这是通用引导扩散的 GitHub 存储库，通用引导扩散是一种用于图像和视频生成的机器学习模型。
+
+
+Summary：
+
+This is a GitHub repository for Universal Guided Diffusion, which is a machine learning model for image and video generation. 
+
+这是通用引导扩散的 GitHub 存储库，通用引导扩散是一种用于图像和视频生成的机器学习模型。
+
+
 
 Tags：machine learning, image generation, video generation, GitHub
 
@@ -517,13 +557,55 @@ Tags：machine learning, image generation, video generation, GitHub
 
     
 
-    
+### 9、SceneScape: Text-Driven Consistent Scene Generation
 
-    
+项目地址：https://scenescape.github.io/
 
-    
+Paper： [[2302.01133] SceneScape: Text-Driven Consistent Scene Generation](https://arxiv.org/abs/2302.01133)
 
-    
+Supplementary Material：https://scenescape.github.io/sm/index.html
+
+GitHub（代码地址）：https://github.com/RafailFridman/SceneScape
+
+Date：2023年2月3日
+
+
+
+Summary：
+
+The paper presents a method for text-driven perpetual view generation, which synthesizes long-term videos of various scenes solely based on an input text prompt. The method combines the generative power of a pre-trained text-to-image model with the geometric priors learned by a pre-trained monocular depth prediction model to achieve 3D consistency. The depth maps are used to construct a unified mesh representation of the scene, which is progressively constructed along the video generation process. The method generates diverse scenes, such as walkthroughs in spaceships, caves, or ice castles. 
+
+本文提出了一种文本驱动的永久视图生成方法，该方法仅根据输入的文本提示合成各种场景的长期视频。该方法将预训练的文本到图像模型的生成能力与预训练的单目深度预测模型学习的几何先验相结合，以实现 3D 一致性。深度图用于构建场景的统一网格表示，该表示是沿着视频生成过程逐步构建的。该方法生成不同的场景，例如宇宙飞船、洞穴或冰堡中的演练。
+
+How It Works ：
+
+> ```
+> We represent the generated scene with a unified mesh , which is constructed in an online fashion. Given a camera at Ct+1, at each synthesis step, a new frame is generated by projecting t into Ct+1, and synthesizing the newly revealed content by using a pre-trained text-to-image diffusion model. To estimate the geometry of the new synthesized content, we leverage a pre-trained depth prediction model; to ensure the predicted depth is consistent with the existing scene t, we deploy a test-time training, encouraging the predicted depth by the model to match the projected depth from t. We then update our mesh representation to form t+1 which includes the new scene content.
+>  
+> 我们用统一的网格  表示生成的场景，该网格以在线方式构建。给定 Ct+1 处的相机，在每个合成步骤中，通过将 t 投影到 Ct+1 中生成一个新帧，并使用 pre 合成新显示的内容-训练有素的文本到图像扩散模型。为了估计新合成内容的几何形状，我们利用预先训练的深度预测模型；为了确保预测深度与现有场景 t 一致，我们部署了测试时训练，鼓励模型的预测深度与 t 的预测深度相匹配。然后，我们更新网格表示以形成 t+1 ，其中包括新的场景内容。
+>  
+>  
+>  A visualization of the resulting meshes, produced by our method and post processed with Poisson surface reconstruction.
+> 结果网格的可视化，由我们的方法生成并通过泊松曲面重建进行后处理。
+> ```
+
+Tags：text-driven, perpetual view generation, 3D consistency, mesh representation, video generation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -539,19 +621,25 @@ A New Text-Conditioned Video Diffusion Model
 
 Logging
 
-20231215 Jack Lee 今天目标完成500词，最终推进到了12288词
+20231216 Jack Lee 今天目标推进500词，最终推进到了13133词
+
+今天继续整理**Ben's Bites**两个数据库中的每天更新的人工智能项目追踪器数据库中的内容
+
+今天主要增加了SceneScape: Text-Driven Consistent Scene Generation
+
+20231215 Jack Lee 今天目标推进500词，最终推进到了12288词
 
 今天继续整理**Ben's Bites**两个数据库中的每天更新的人工智能项目追踪器数据库中的内容
 
 今天主要增加了GitHub - arpitbansal297/Universal-Guided-Diffusion
 
-20231214 Jack Lee 今天目标完成500词，最终推进到了11231词
+20231214 Jack Lee 今天目标推进500词，最终推进到了11231词
 
 今天受到首届东木人生发展挑战赛微信群开智校友（川子同学和jack同学）启发，然后主动搜索到了公众号数字生命卡兹克的《盘一下最近爆火刷屏的3大AI视频项目 - 开始加速的未来》一文。明天继续整理**Ben's Bites**两个每天更新的数据库中的内容
 
 今天主要增加了阿里的Animate Anyone、字节跳动的MagicAnimate**、**微软的GAIA，还补充了一下pika部分的相关内容。
 
-20231213 Jack Lee 今天目标完成500词，最终推进到了4509词
+20231213 Jack Lee 今天目标推进500词，最终推进到了4509词
 
 今天主要增加了Gen-1部分和Gen-1 Explained、Gen-2 Explained，Text-to-Video Tool
 
@@ -591,4 +679,4 @@ https://airtable.com/appuMJo2TCnijMLkz/shrbLgcCayYdxucC7/tblcTEsr9aeCYdIRw
 
 20231212  Jack Lee 今天搬运* [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT --- OpenMindClub/awesome-chatgpt：⚡ 关于 ChatGPT 的一切](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general)的README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科中文本到视频模型词条和生成式人工智能词条，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2771词
 
-20231211  Jack Lee init 今天完成初稿500词 20000字/42天=477字/天
+20231211  Jack Lee init 今天推进初稿500词 20000字/42天=477字/天
