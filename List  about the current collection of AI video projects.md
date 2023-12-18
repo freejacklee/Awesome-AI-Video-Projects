@@ -99,6 +99,8 @@ Twitter 推特 官方社交媒体：[Runway (@runwayml) / X](https://twitter.com
 
 Date：2023年6月8日
 
+* [Runway on X: "Gen-2: Text to Video is here. Learn the basics with today's Runway Academy. Watch the video: https://t.co/E5HEKrJpNX" / X](https://twitter.com/runwayml/status/1666793633524195328)
+
 
 
 Summary：
@@ -158,9 +160,9 @@ About: https://research.runwayml.com/about
 
 Paper: 2023 [Structure and Content-Guided Video Synthesis with Diffusion Models](https://arxiv.org/abs/2302.03011)
 
-URL：https://twitter.com/runwayml/status/1622594989384519682
-
 Date：2023年2月7日
+
+* [Runway on X: "Today, Generative AI takes its next big step forward. Introducing Gen-1: a new AI model that uses language and images to generate new videos out of existing ones. Sign up for early research access: https://t.co/7JD5oHrowP https://t.co/4Pv0Sk4exy" / X](https://twitter.com/runwayml/status/1622594989384519682)
 
 
 
@@ -566,7 +568,42 @@ Twitter 推特 社交媒体资讯：
 
 
 
+### 11、Keras documentation: Denoising Diffusion Probabilistic Model
 
+URL：https://keras.io/examples/generative/ddpm/
+
+#### Introduction 介绍
+
+Generative modeling experienced tremendous growth in the last five years. Models like VAEs, GANs, and flow-based models proved to be a great success in generating high-quality content, especially images. Diffusion models are a new type of generative model that has proven to be better than previous approaches.
+生成建模在过去五年中经历了巨大的增长。事实证明，VAE、GAN 和基于流的模型等模型在生成高质量内容（尤其是图像）方面取得了巨大成功。扩散模型是一种新型的生成模型，已被证明比以前的方法更好。
+
+We implement the Denoising Diffusion Probabilistic Models paper or DDPMs for short in this code example. It was the first paper demonstrating the use of diffusion models for generating high-quality images. The authors proved that a certain parameterization of diffusion models reveals an equivalence with denoising score matching over multiple noise levels during training and with annealed Langevin dynamics during sampling that generates the best quality results.
+我们在此代码示例中实现了去噪扩散概率模型论文（简称 DDPM）。这是第一篇演示如何使用扩散模型生成高质量图像的论文。作者证明，扩散模型的某些参数化揭示了训练期间多个噪声级别的去噪分数匹配以及采样期间退火的朗之万动力学的等价性，从而产生最佳质量的结果。
+
+#### Conclusion 结论
+
+We successfully implemented and trained a diffusion model exactly in the same fashion as implemented by the authors of the DDPMs paper. You can find the original implementation here.
+我们成功地实现并训练了一个扩散模型，其方式与 DDPM 论文作者所采用的方式完全相同。您可以在这里找到原始实现。
+
+The original implementation （原始实现）：https://github.com/hojonathanho/diffusion
+
+GitHub（源代码地址）：https://github.com/keras-team/keras-io/blob/master/examples/generative/ddpm.py
+
+View in Colab（在 Colab 中查看）：https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/generative/ipynb/ddpm.ipynb
+
+Date：2022年12月13日
+
+Summary：
+
+This URL link  above is to the Keras documentation for the Denoising Diffusion Probabilistic Model (DDPM), which is a generative model that can be used for image and video generation. The page provides an overview of the model and its architecture, as well as code examples for training and using the model.
+
+上面的 URL 链接是去噪扩散概率模型 (DDPM) 的 Keras 文档，DDPM 是一种可用于图像和视频生成的生成模型。该页面提供了模型及其架构的概述，以及用于训练和使用模型的代码示例。
+
+Tags：
+
+Keras, generative model, DDPM, image generation, video generation
+
+Keras、生成模型、DDPM、图像生成、视频生成
 
 
 
@@ -583,6 +620,8 @@ A New Text-Conditioned Video Diffusion Model
 
 
 Logging
+
+20231218 Jack Lee 今天目标推进500词，最终推进到了10443词
 
 20231217 Jack Lee 今天目标推进500词，最终推进到了13685词，然后开始根据阳志平老师之前给的建议，以确保内容的质量不会受到牺牲。保证信息的准确性、分析的深度以及对读者的实际用处为指导，精简一些文字，最终精简到了9745词
 
