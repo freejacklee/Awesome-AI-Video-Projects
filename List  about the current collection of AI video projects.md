@@ -586,7 +586,7 @@ Logging
 
 20231217 Jack Lee 今天目标推进500词，最终推进到了13685词，然后开始根据阳志平老师之前给的建议，以确保内容的质量不会受到牺牲。保证信息的准确性、分析的深度以及对读者的实际用处为指导，精简一些文字，最终精简到了9745词
 
-今天主要增加了Scalable Adaptive Computation for Iterative Generation和Tags标签的双语格式，参考 [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general) 的 首页README.md 统一了本文档中目前存在的维基百科相关词条和论文地址的格式，论文地址部分修改格式为论文提交年份+论文标题，精简了Runway's Gen-2的媒体资讯部分、WonderJourney的描述部分、阿里Animate Anyone、字节跳动的MagicAnimate、微软的GAIA、GitHub - arpitbansal297/Universal-Guided-Diffusion媒体资讯的部分文字
+今天主要增加了Scalable Adaptive Computation for Iterative Generation和Tags标签的双语格式，参考 OpenMindClub/awesome-chatgpt仓库的首页README.md 统一了本文档中目前存在的维基百科相关词条和论文地址的格式，论文地址部分修改格式为论文提交年份+论文标题，精简了Runway's Gen-2的媒体资讯部分、WonderJourney的描述部分、阿里Animate Anyone、字节跳动的MagicAnimate、微软的GAIA、GitHub - arpitbansal297/Universal-Guided-Diffusion媒体资讯的部分文字
 
 20231216 Jack Lee 今天目标推进500词，最终推进到了13133词
 
@@ -610,7 +610,7 @@ Logging
 
 今天主要增加了Gen-1部分和Gen-1 Explained、Gen-2 Explained，Text-to-Video Tool
 
-主要思路是借助[OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general) 的 首页README.md 中的
+主要思路是借助OpenMindClub/awesome-chatgpt仓库的首页README.md 中的
 
 - [Find AI Tools Using AI](https://theresanaiforthat.com/?message=subscribed) - AI tools. Updated daily.
   使用 AI 查找 AI 工具 - AI 工具。每日更新。
@@ -644,6 +644,8 @@ https://airtable.com/appuMJo2TCnijMLkz/shrbLgcCayYdxucC7/tblcTEsr9aeCYdIRw
 >
 > 我们尽可能填充信息，但遗憾的是，与私人公司数据一样，这些信息可能不准确或丢失。我们尽可能从 Crunchbase, Pitchbook 和其他来源核实数据。
 
-20231212  Jack Lee 今天搬运 [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general) 的 首页README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科中文本到视频模型词条和生成式人工智能词条，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2771词
+20231212  Jack Lee 今天搬运OpenMindClub/awesome-chatgpt仓库的首页README.md&README.zh-cn.md文件并稍作初步修改，然后在List  about the current collection of AI video projects.md中继续增加字数，增加了元资源中维基百科中文本到视频模型词条和生成式人工智能词条，进一步完善了Pika、Gen-2、WonderJourney的介绍 目前字数2771词
+
+PS：本文档中出现的OpenMindClub/awesome-chatgpt仓库统一特指开智学堂的GitHub仓库 [OpenMindClub/awesome-chatgpt: ⚡ Everything about ChatGPT](https://github.com/OpenMindClub/awesome-chatgpt/tree/main#general)
 
 20231211  Jack Lee init 今天推进初稿500词 20000字/42天=477字/天
