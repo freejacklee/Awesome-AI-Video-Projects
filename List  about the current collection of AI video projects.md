@@ -40,6 +40,8 @@ About: https://pika.art/about
 
 Twitter 推特 官方社交媒体： [Pika (@pika\_labs) / X](https://twitter.com/pika_labs)
 
+创始人之一 郭文景女士的推特账号 [Demi Guo (@demi\_guo\_) / X](https://twitter.com/demi_guo_?lang=en)
+
 来自公众号 数字生命卡兹克的用户测评：*[【全网首发】PIKA1.0上手评测 - 你就是传奇](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647660666&idx=1&sn=0e9e2a11d5c06cd512479d35ca84bf3f&sharer_shareinfo=d3d03bfa8311534acd00b7003123ed3c&sharer_shareinfo_first=d3d03bfa8311534acd00b7003123ed3c#rd)
 
 我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。我在Pika Labs的Discord上用一张图片生成的视频中人物的脸会变形。
@@ -53,6 +55,12 @@ Twitter 推特 官方社交媒体： [Pika (@pika\_labs) / X](https://twitter.co
 * [Pika Labs在Discord上直接用文字生成视频  - YouTube](https://www.youtube.com/watch?v=d_GowRZE2cc)
 
 * [Pika Labs Discord Guide --- Pika Labs Discord 指南](https://pikalabs.org/pika-labs-discord-guide/)
+
+
+
+趣闻：
+
+* [哈佛斯坦福学霸女儿创业AI项目走红全球，老爸公司两个涨停：仅是父女，没投钱](https://baijiahao.baidu.com/s?id=1784049635636388017&wfr=spider&for=pc)
 
 
 
@@ -768,7 +776,7 @@ A New Text-Conditioned Video Diffusion Model
 
 ### Logging
 
-20231219 Jack Lee 今天目标推进1000词，因为1221有事情，所以提前准备一天进度，减少明天的压力，最终推进到了12900词
+20231219 Jack Lee 今天目标推进1000词，因为1221有事情，所以提前准备一天进度，减少明天的压力，最终推进到了12972词
 
 今天主要增加了Elai.io - AI Video Generation Platform、Introducing a Practical Tool to Generate Images and Videos with AI，昨晚从微信公众号看到数字生命卡兹克消息，加入了他的微信群，补充了PIKA即将全面公测的最新消息
 
