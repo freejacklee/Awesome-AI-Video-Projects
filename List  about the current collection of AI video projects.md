@@ -44,7 +44,11 @@ Twitter 推特 官方社交媒体： [Pika (@pika\_labs) / X](https://twitter.co
 
 我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。我在Pika Labs的Discord上用一张图片生成的视频中人物的脸会变形。
 
-温馨提示：目前可以在Pika Labs的Discord上直接用文字生成视频，指南如下：
+温馨提示：
+
+1、小红书app 搜 Jessie_Ma，可以先进Pika AI 聊天室2群，等待被邀请
+
+2、目前可以在Pika Labs的Discord上直接用文字生成视频，指南如下：
 
 * [Pika Labs在Discord上直接用文字生成视频  - YouTube](https://www.youtube.com/watch?v=d_GowRZE2cc)
 
@@ -764,7 +768,7 @@ A New Text-Conditioned Video Diffusion Model
 
 ### Logging
 
-20231219 Jack Lee 今天目标推进1000词，因为1221有事情，所以提前准备一天进度，减少明天的压力，最终推进到了12874词
+20231219 Jack Lee 今天目标推进1000词，因为1221有事情，所以提前准备一天进度，减少明天的压力，最终推进到了12900词
 
 今天主要增加了Elai.io - AI Video Generation Platform、Introducing a Practical Tool to Generate Images and Videos with AI，昨晚从微信公众号看到数字生命卡兹克消息，加入了他的微信群，补充了PIKA即将全面公测的最新消息
 
