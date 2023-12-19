@@ -54,6 +54,39 @@ Twitter 推特 官方社交媒体： [Pika (@pika\_labs) / X](https://twitter.co
 
 媒体资讯：
 
+* [我用了2周PIKA1.0后，总结了10个宝藏使用技巧 - 建议收藏公测后用](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647660789&idx=1&sn=756a1ca3f9c3fb7b9edf9f248ee9863e&sharer_shareinfo=a5e572e39b7ac90935b67162d22c0305&sharer_shareinfo_first=a5e572e39b7ac90935b67162d22c0305#rd)
+  * 之前的PIKA1.0首发评测，可以看我的这篇文章：【全网首发】PIKA1.0上手评测 - 你就是传奇
+    关于PIKA的使用技巧，这次我自己总结了10个，个人感觉还挺有用的，在PIKA即将全面公测之际，分享给大家，希望对大家后面使用PIKA1.0，会有一些帮助。
+
+* [Pika爆火，但AI视频还没到「GPT时刻」-36氪](https://36kr.com/p/2558743578239112)
+
+  * 某种程度上，这其实反映出了一个趋势：**比起文生图的竞争，在更高门槛的AI视频，创业公司寻求商业化的意愿更强烈。**
+
+    产生上述焦虑的原因也并不难理解。 
+
+    **一是算力的掣肘，视频领域对算力需求更高。** Pika联创就曾举过一个例子：“对于 Stable Diffusion，有人可能用8张A100就能从头开始学习，并得到不错的结果。但对于视频模型，用8张A100可能不够了，可能无法训练出一个好的模型。” 
+
+    她甚至坦言，开源社区可能没有足够的算力来训练新的视频模型，除了一些大公司开源模型外，普通开源社区很难进行探索性工作。 
+
+    **二是竞争环境的激烈。** 在AI视频产品层面，一方面正如上文所梳理的，头部科技巨头基本都已入局，只是产品尚未全面公测。另一方面，也包括了如Adobe此类面向专业级用户的老牌软件巨头和如已有先发优势的Runway。 
+
+    还有一类则是HeyGen、Descript、CapCut类的轻量化视频制作产品。 
+
+    大型科技公司具备算力优势，特别在是目前尚未有巨头明确开源路线（只有Stability AI发布了开源生成式视频模型Stable Video Diffusion）。而Adobe此类企业的优势在于AI视频功能和原有业务形成有力的协同，形成更高频的使用。Adobe此前也收购了一家AI视频领域的初创公司Rephrase.ai。 
+
+    而轻量化的视频制作产品本身面向的是非专业人群，这意味着能否以差异化优势快速圈中人群，占据心智成为关键。 
+
+    套用一句老生常谈，人们对技术的态度永远是高估短期，低估长期，AI视频也并不例外。 
+
+
+* [Pika on X: "We’re beginning to let people in off the waitlist, and want to welcome our first Pika 1.0 users! Here’s how to start creating with text-to-video. Sign up at https://t.co/nqzjGy82Lx https://t.co/GXVx9WhM2i" / X](https://twitter.com/pika_labs/status/1734311655771673040)
+
+  * 我们开始让人们进入候补名单，并希望欢迎我们的第一个Pika 1.0用户！
+
+    这是开始使用文本到视频创建的方法。
+
+    请注册https://pika.art/waitlist
+
 * [AI生成视频工具Pika爆火，估值超2亿美元-虎嗅网](https://m.huxiu.com/article/2361484.html#:~:text=%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%8D%8E%E4%BA%BA%E5%AD%A6%E7%94%9F%E9%80%80%E5%AD%A6%E5%88%9B%E5%8A%9E,%E7%BC%96%E8%BE%91%E5%92%8C%E9%87%8D%E6%96%B0%E6%9E%84%E6%83%B3%E5%9C%BA%E6%99%AF%E3%80%82&text=%F0%9F%92%A5%20Pika%201.0%E4%BD%BF%E7%94%A8AI,%E7%AE%80%E5%8D%95%E4%B8%94%E9%A3%8E%E6%A0%BC%E5%A4%9A%E5%8F%98%E3%80%82)
   * 斯坦福华人学生退学创办的AI视频生成工具Pika 1.0正式推出，估值超过2亿美元。 该工具可以通过文字、图片和视频生成高质量的各种风格视频，并且支持用户上传视频片段进行编辑和重新构想场景。 💥 Pika 1.0使用AI模型生成非常贴近生动的视频，使用简单且风格多变。
 
@@ -609,6 +642,116 @@ Keras、生成模型、DDPM、图像生成、视频生成
 
 
 
+### 12、Elai.io - AI Video Generation Platform
+
+官方网站URL：https://elai.io/
+
+温馨提示：在官方网站注册后，可以免费生成1分钟的视频。
+
+Date：2022年12月5日
+
+Summary：
+
+Elai.io is an automated AI video generation platform that allows users to create personalized videos using digital avatars from text. The platform eliminates the need for a camera, studio, and greenscreen, making video creation quick and easy.
+
+Elai.io 是一个自动化人工智能视频生成平台，允许用户使用文本中的数字化身创建个性化视频。该平台消除了对摄像机、工作室和绿幕的需求，使视频创建变得快速、轻松。
+
+Features（主要功能特点）:
+
+Multi-lingual voice cloning 多语言语音克隆：将您自己的声音克隆成 28 种语言，并利用它将您的所有想法变为现实。只需输入语音文本，头像就会用您的声音进行叙述。
+
+Automated translations 自动翻译：一键式视频翻译将帮助您吸引全球观众。将您的视频翻译成 75 种可用语言。
+
+AI Storyboard 人工智能故事板：适合学习和发展专业人士的完美内容创建工具。只需点击几下即可制作脚本，创建课程大纲，然后将其转变为引人入胜的视频。
+
+Article-to-Video converter 文章到视频转换器：将您的博客文章从 URL 转换为带旁白的视频。将您博客文章的链接粘贴到亦来在线视频生成器中，让我们的平台完成剩下的工作。
+
+PPTX-to-Video PPTX 转视频：上传 PPTX 文件，它将转换为视频幻灯片，创建具有可编辑组件的完全交互式演示文稿。
+
+Avatar Dialogs 头像对话框：在幻灯片中添加 2 个头像以创建基于场景的学习视频。
+
+Personalization at Scale 大规模个性化：大规模创建个性化视频营销活动，传递更具针对性的信息并与受众建立更牢固的关系。
+
+Create your avatar 创建你的头像：创建您公司代表的数字化身，并使用 Elai 克隆他们的声音。
+
+Screen Recorder 屏幕录像机：Elai.io 的屏幕录制功能允许用户轻松捕获并上传屏幕录制内容，以便在视频演示中使用它们。
+
+等
+
+
+
+Tags：
+
+AI, video generation, digital avatars
+
+人工智能、视频生成、数字化身
+
+
+
+媒体评价：
+
+* [Central Eastern Europe is a hub for exciting startups | WIRED UK](https://www.wired.co.uk/bc/article/google-for-startups-eastern-europe)
+  * 利用先进的人工智能，Elai.io 的软件即服务工具允许用户仅使用文本轻松创建视频，将单词放入数字化身的嘴中。它提供了一个模板和动画库，支持超过 65 种语言，并且头像基于各种现实生活中的演员。
+
+* [Elai.io - Product Information, Latest Updates, and Reviews 2023 | Product Hunt](https://www.producthunt.com/products/elai-io)
+
+  * Elai.io 帮助您使用人工智能生成的人类从纯文本创建教育和营销视频内容。
+
+* Forbes：2021年，初创公司Elai.io开发了一款将文本转换为视频内容的产品。作为输出，用户会收到由人工智能化身显示和发声的演示文稿。
+
+  
+
+
+
+### 13、Introducing a Practical Tool to Generate Images and Videos with AI
+
+URL：https://twitter.com/tall/status/1587913529587249152
+
+工具地址：https://stableboost.ai/
+
+Date：2022年11月3日
+
+Summary：
+
+Tal Stramer has announced a new project, https://t.co/4hhV3KfNZi , which is a practical tool to generate images and videos with AI. The project was advised by Andrej Karpathy.
+
+Tal Stramer 宣布了一个新项目https://t.co/4hhV3KfNZi ，这是一个利用 AI 生成图像和视频的实用工具。该项目由安德烈·卡帕蒂 (Andrej Karpathy) 提供建议。
+
+> 以下援引自上述URL中项目作者Tal Stramer发言
+>
+> Tal Stramer：Why another generative AI service? To create the perfect image with AI, you often need to generate hundreds of variations, but existing tools only let you generate a few images at a time. Stableboost is built from the ground up to let you quickly generate a lot of images.
+> 为什么需要另一种生成式人工智能服务？要使用 AI 创建完美的图像，您通常需要生成数百种变体，但现有工具只能让您一次生成几张图像。 Stableboost 是从头开始构建的，可让您快速生成大量图像。
+>
+> After generating many images for a prompt, Stableboost lets you interactively discover your favorites. It learns your preferences based on selecting a few images you like and recommends you similar images.
+> 在为提示生成许多图像后，Stableboost 可以让您以交互方式发现您最喜欢的图像。它通过选择您喜欢的一些图像来了解您的偏好，并向您推荐类似的图像。
+>
+> Crafting a prompt to generate the images you want can involve a lot of trial and error. Stableboost speeds this up by letting you try out different variations of your prompt all at once.
+> 制作提示来生成您想要的图像可能需要大量的试验和错误。 Stableboost 通过让您同时尝试不同的提示变体来加快速度。
+>
+> For fun, Stableboost also lets you generate hypnotic video animations that smoothly interpolate between text prompts.
+> 为了好玩，Stableboost 还可以让您生成催眠视频动画，在文本提示之间平滑插入。
+>
+> Stableboost also supports many of the standard features people have come to expect from these types of services: Image-to-image, inpainting, face restoration, upscaling, etc.
+> Stableboost 还支持人们期望从这些类型的服务中获得的许多标准功能：图像到图像、修复、面部恢复、升级等。
+>
+> Try Stableboost for free at [https://stableboost.ai](https://t.co/zWIG6ZwxsI) . You get 500 free credits every month and its 1 cent per image after that (the price is minimal so I can cover my costs). Enjoy!
+> 访问 [https://stableboost.ai](https://t.co/zWIG6ZwxsI) 免费试用 Stableboost。您每月可以获得 500 个免费积分，之后每张图片 1 美分（价格很低，所以我可以支付我的费用）。享受！
+>
+> yes, you can upload an image to use as a reference and  set the style you want as the prompt. play with the guidance scale and initial image similarity settings to get good results. like this
+> 是的，您可以上传图像作为参考，并设置您想要的样式作为提示。使用引导比例和初始图像相似度设置以获得良好的结果。像这样
+>
+> ![example](https://gitee.com/junhaoyu/work20221111/raw/master/img/202312191351540.jpg)
+
+Tags：
+
+AI, image generation, video generation, machine learning
+
+人工智能、图像生成、视频生成、机器学习
+
+
+
+
+
 先不管 
 
 Imagen Video
@@ -619,7 +762,11 @@ A New Text-Conditioned Video Diffusion Model
 
 
 
-Logging
+### Logging
+
+20231219 Jack Lee 今天目标推进1000词，因为1221要祭祖，所以提前准备一天进度，减少明天的压力，最终推进到了12874词
+
+今天主要增加了Elai.io - AI Video Generation Platform、Introducing a Practical Tool to Generate Images and Videos with AI，昨晚从微信公众号看到数字生命卡兹克消息，加入了他的微信群，补充了PIKA即将全面公测的最新消息
 
 20231218 Jack Lee 今天目标推进500词，最终推进到了10443词
 
