@@ -764,7 +764,7 @@ A New Text-Conditioned Video Diffusion Model
 
 ### Logging
 
-20231219 Jack Lee 今天目标推进1000词，因为1221要祭祖，所以提前准备一天进度，减少明天的压力，最终推进到了12874词
+20231219 Jack Lee 今天目标推进1000词，因为1221有事情，所以提前准备一天进度，减少明天的压力，最终推进到了12874词
 
 今天主要增加了Elai.io - AI Video Generation Platform、Introducing a Practical Tool to Generate Images and Videos with AI，昨晚从微信公众号看到数字生命卡兹克消息，加入了他的微信群，补充了PIKA即将全面公测的最新消息
 
