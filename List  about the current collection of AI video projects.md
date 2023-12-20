@@ -854,7 +854,7 @@ A New Text-Conditioned Video Diffusion Model
 
 ### Logging
 
-20231220 Jack Lee 今天目标昨天已完成
+20231221 Jack Lee 今天目标昨天已完成
 
 20231220 Jack Lee 今天目标推进500词，今天准备的是明天的进度，最终推进到了13698词
 
