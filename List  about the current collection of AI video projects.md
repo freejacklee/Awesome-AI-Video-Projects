@@ -38,7 +38,11 @@ Website: https://pika.art
 Discord: http://discord.gg/pika 
 About: https://pika.art/about
 
-Twitter 推特 官方社交媒体： [Pika (@pika\_labs) / X](https://twitter.com/pika_labs)
+官方社交媒体：
+
+Twitter 推特 ： [Pika (@pika\_labs) / X](https://twitter.com/pika_labs)
+
+小红书 官方号：Pika AIvideo (小红书号7027752781）
 
 创始人之一 郭文景女士的推特账号 [Demi Guo (@demi\_guo\_) / X](https://twitter.com/demi_guo_?lang=en)
 
@@ -48,7 +52,7 @@ Twitter 推特 官方社交媒体： [Pika (@pika\_labs) / X](https://twitter.co
 
 温馨提示：
 
-1、小红书app 搜 Jessie_Ma，可以先进Pika AI 聊天室2群，等待被邀请
+1、小红书app 搜 Jessie_Ma(小红书号946999884），可以先进Pika AI 聊天室2群，等待被邀请(12月19日Pika AI 聊天室2群邀请统计截止，据说很快会公测，官网申请加入waitlist即可)
 
 2、目前可以在Pika Labs的Discord上直接用文字生成视频，指南如下：
 
@@ -132,6 +136,8 @@ AI视频生产，新兴产品Pika和老牌产品Runway
 
 
 
+
+
 ### 2、Runway Gen-2
 
 Website: https://research.runwayml.com/gen2
@@ -193,8 +199,6 @@ Not too long ago, runway pushed the boundaries of generative Ai with Gen One a v
 
   
 
-
-
 #### Runway Gen-1
 
 Introducing Gen-1: A New AI Model for Video Generation
@@ -234,6 +238,8 @@ To realizing the future of storytelling.
 
 Gen 1 能够逼真且一致地将图像或文本提示的构图和样式应用于目标视频，从而允许您使用现有视频生成新的视频内容。我们将这种方法称为视频到视频，我们非常高兴地分享一些早期的用例风格化模式，将任何图像或提示的样式传输到视频故事板模式的每一帧，将模型转换为完全风格化和动画渲染蒙版模式，隔离视频中的主题并使用简单的文本提示对其进行修改。渲染模式，通过应用输入图像或提示将无纹理渲染转换为逼真的输出。
 实现讲故事的未来。
+
+
 
 
 
@@ -281,6 +287,8 @@ GitHub：https://github.com/KovenYu/WonderJourney（Coming soon!）
 
 
 
+
+
 ### 4、Text-to-Video Tool（Create mini AI videos from text）
 
 URL： [TextToVideo | Create videos from text](https://text-to-video.vercel.app/)
@@ -319,6 +327,8 @@ text-to-video, video generation, AI tool
 
     Text to Video is my latest project, which allows you to create videos using AI. Currently AI videos are in their "monstrous stage", just like Dalle 2 MINI a while back. The project seeks that people can have a first approach to text-to-video.
     文本到视频是我的最新项目，它允许您使用人工智能创建视频。目前人工智能视频正处于“怪物阶段”，就像不久前的 Dalle 2 MINI 一样。该项目旨在让人们能够拥有第一种将文本转为视频的方法。
+
+
 
 
 
@@ -369,6 +379,8 @@ text-to-video, video generation, AI tool
     文章来源：https://analyticsindiamag.com/this-new-ai-tool-could-mark-the-beginning-of-the-end-for-tiktok-and-instagram-influencers/
 
 Animate Anyone在Huggingface上的在线测试地址：暂未发现已经开源 * [AnimateAnyone (AnimateAnyone)](https://huggingface.co/AnimateAnyone)
+
+
 
 ### 6、字节跳动的MagicAnimate
 
@@ -574,6 +586,8 @@ text-driven, perpetual view generation, 3D consistency, mesh representation, vid
 
 
 
+
+
 ### 10、Scalable Adaptive Computation for Iterative Generation
 
 Paper（论文地址）: 2022 [ Scalable Adaptive Computation for Iterative Generation](https://arxiv.org/abs/2212.11972)
@@ -610,6 +624,8 @@ Twitter 推特 社交媒体资讯：
   * 迭代生成的可扩展自适应计算
 
     RIN，一种NN体系结构，根据信息的分布将计算自适应地分配到输入，从而使其扩展到迭代生成高维数据
+
+
 
 
 
@@ -764,6 +780,68 @@ AI, image generation, video generation, machine learning
 
 
 
+### 14、DALL-E 3
+
+DALL-E 3
+
+DALL-E 2
+
+DALL-E 1
+
+Tags：
+
+AI art, DALL-E, video generation, augmented reality
+
+AI 艺术、DALL-E、视频生成、增强现实
+
+
+
+### 15、Phenaki: A Model for Generating Videos from Text
+
+URL：https://twitter.com/doomie/status/1577713150530445312
+
+5/ phanaki最值得注意的功能是它具有随着时间的流逝而变化的提示来生成长视频的能力。这些可以将其视为故事，用户讲述并创建动态变化的场景。
+
+Paper（论文地址）: 2022 [Phenaki: Variable Length Video Generation From Open Domain Textual Description](https://arxiv.org/abs/2210.02399)
+
+https://pub-bede3007802c4858abc6f742f405d4ef.r2.dev/paper.pdf
+
+我们提出 Phenaki，这是一种能够在给定一系列文本提示的情况下进行逼真视频合成的模型。由于计算成本、高质量文本视频数据数量有限以及视频长度可变，从文本生成视频尤其具有挑战性。为了解决这些问题，我们引入了一种新的因果模型来学习视频表示，该模型将视频压缩为离散标记的小型表示。该分词器及时使用因果注意力，这使得它可以处理可变长度的视频。为了从文本生成视频标记，我们使用以预先计算的文本标记为条件的双向屏蔽转换器。生成的视频令牌随后被去令牌化以创建实际视频。为了解决数据问题，我们演示了对大量图像文本对以及少量视频文本示例进行联合训练如何产生超出视频数据集中可用的泛化能力。与上一代视频相比 方法，Phenaki 可以在开放域中根据一系列提示（即时间可变文本或故事）生成任意长视频。据我们所知，这是第一次有论文研究根据时间变量提示生成视频。此外，所提出的视频编码器-解码器在时空质量和每个视频的标记数量方面优于目前文献中使用的所有每帧基线。 
+
+项目地址：https://phenaki.github.io/
+
+Date：2022年10月10日
+
+Summary：
+
+Dumitru Erhan introduces Phenaki, a model for generating videos from text with prompts that can change over time. The model is able to generate videos that can be as long as multiple minutes.
+
+Dumitru Erhan 推出了 Phenaki，这是一种从文本生成视频的模型，其提示可以随时间变化。该模型能够生成长达数分钟的视频。
+
+Tags：
+
+AI, video generation, natural language processing
+
+人工智能、视频生成、自然语言处理
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 先不管 
 
 Imagen Video
@@ -775,6 +853,10 @@ A New Text-Conditioned Video Diffusion Model
 
 
 ### Logging
+
+20231220 Jack Lee 今天目标推进500词，今天准备的是明天的进度，最终推进到了13698词
+
+今天主要增加了Phenaki: A Model for Generating Videos from Text
 
 20231219 Jack Lee 今天目标推进1000词，因为1221有事情，所以提前准备一天进度，减少明天的压力，最终推进到了12972词
 
