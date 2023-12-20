@@ -52,7 +52,7 @@ Twitter 推特 ： [Pika (@pika\_labs) / X](https://twitter.com/pika_labs)
 
 温馨提示：
 
-1、小红书app 搜 Jessie_Ma(小红书号946999884），可以先进Pika AI 聊天室2群，等待被邀请(12月19日Pika AI 聊天室2群邀请统计截止，据说很快会公测，官网申请加入waitlist即可)
+1、小红书app 搜 Jessie_Ma(小红书号946999884），可以先进Pika AI 聊天室2群，等待被邀请(12月18日15:00 Pika AI 聊天室2群邀请统计截止，据说很快会公测，官网申请加入waitlist即可)
 
 2、目前可以在Pika Labs的Discord上直接用文字生成视频，指南如下：
 
@@ -853,6 +853,8 @@ A New Text-Conditioned Video Diffusion Model
 
 
 ### Logging
+
+20231220 Jack Lee 今天目标昨天已完成
 
 20231220 Jack Lee 今天目标推进500词，今天准备的是明天的进度，最终推进到了13698词
 
