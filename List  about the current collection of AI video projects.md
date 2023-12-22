@@ -1,6 +1,18 @@
+
+
+## Awesome清单链接 ：[Awesome-AI-Video-Projects/List about the current collection of AI video projects.md at main · freejacklee/Awesome-AI-Video-Projects](https://github.com/freejacklee/Awesome-AI-Video-Projects/blob/main/List%20%20about%20the%20current%20collection%20of%20AI%20video%20projects.md)
+
+* [Awesome-AI-Video-Projects/List about the current collection of AI video projects.md at main · freejacklee/Awesome-AI-Video-Projects] https://github.com/freejacklee/Awesome-AI-Video-Projects/blob/main/List%20%20about%20the%20current%20collection%20of%20AI%20video%20projects.md
+
+
+
+
+
 ## 仓库地址：freejacklee/Awesome-AI-Video-Projects: This is an awesome GitHub list of information about the current collection of AI video projects
 
 * [freejacklee/Awesome-AI-Video-Projects: This is an awesome GitHub list of information about the current collection of AI video projects] https://github.com/freejacklee/Awesome-AI-Video-Projects
+
+
 
 
 
@@ -9,6 +21,8 @@
 This is an awesome GitHub list of information about the current collection of AI video projects
 
 List  about the current collection of AI video projects
+
+
 
 
 
@@ -780,23 +794,7 @@ AI, image generation, video generation, machine learning
 
 
 
-### 14、DALL-E 3
-
-DALL-E 3
-
-DALL-E 2
-
-DALL-E 1
-
-Tags：
-
-AI art, DALL-E, video generation, augmented reality
-
-AI 艺术、DALL-E、视频生成、增强现实
-
-
-
-### 15、Phenaki: A Model for Generating Videos from Text
+### 14、Phenaki: A Model for Generating Videos from Text
 
 URL：https://twitter.com/doomie/status/1577713150530445312
 
@@ -828,31 +826,62 @@ AI, video generation, natural language processing
 
 
 
+### 15、Imagen Video: A New Text-Conditioned Video Diffusion Model
+
+Imagen Video：A New Text-Conditioned Video Diffusion Model 一种新的文本条件视频扩散模型
+
+URL：https://twitter.com/hojonathanho/status/1577712621037445121
+
+兴奋地宣布Imagen Video，这是我们新的文本条件视频扩散模型，该模型生成1280x768 24fps HD视频！#ImagenVideo
+
+ Imagen Video 的独特功能：例如生成不同艺术风格的视频、3D 理解以及文本渲染和动画。查看论文了解更多详细信息
+
+借助渐进式蒸馏，Imagen Video 可以为每个子模型仅使用 8 个扩散步骤生成高质量视频。这大大加快了视频生成时间，大约提高了 18 倍。
+
+另外，请查看 Phenaki，这是 Google Research 的一种用于文本到视频的补充方法，可以为一系列文本提示生成长而连贯的视频： https://phenaki.github.io 
+我们期待结合 Phenaki 和 Imagen Video 的优势！
+
+Paper（论文地址）: 2022 [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303)
+
+https://imagen.research.google/video/paper.pdf
+
+Date：2022年10月10日
+
+Summary：
+
+Jonathan Ho announces Imagen Video, a new text-conditioned video diffusion model that generates high-quality videos.
+
+Jonathan Ho 宣布推出 Imagen Video，这是一种新的文本调节视频传播模型，可生成高质量视频。
+
+Tags：
+
+AI, video generation, deep learning
+
+人工智能、视频生成、深度学习
 
 
 
+媒体资讯：
 
+* [Stable Diffusion、DreamFusion、Make-A-Video、Imagen Video 和下一步\_AI\_Luhui Hu\_InfoQ精选文章](https://www.infoq.cn/article/bkptwsyeidednaobvekv)
 
+  * Google 的 Imagen Video 是一个基于视频扩散模型级联的文本条件视频生成系统。
 
+    给定一个文本提示，Imagen Video 使用基本视频生成模型和一系列交错的空间和时间视频超分辨率模型生成高清视频。
 
+    它由七个子模型组成，分别执行文本条件视频生成、空间超分辨率和时间超分辨率。整个级联生成 1280×768（宽×高）的高清视频，每秒 24 帧，持续 128 帧 （~5.3 秒），大约 1.26 亿像素。
 
+    Imagen Video 示例：“一束秋天的树叶落在平静的湖面上，形成文本‘Imagen Vide’。平滑。”生成的视频分辨率为 1280×768，持续时间为 5.3 秒，每秒 24 帧（来源：Imaged Video）
 
+    原文链接：https://towardsdatascience.com/generative-ai-878909fb7868
 
-
-
-
-
-先不管 
-
-Imagen Video
-
-A New Text-Conditioned Video Diffusion Model
-
-一种新的文本条件视频扩散模型
-
-
+  
 
 ### Logging
+
+20231222 Jack Lee 今天目标推进500词，最终推进到了14302词
+
+今天主要增加了Imagen Video: A New Text-Conditioned Video Diffusion Model
 
 20231221 Jack Lee 今天目标昨天已完成
 
