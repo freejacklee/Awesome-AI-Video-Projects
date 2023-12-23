@@ -80,6 +80,19 @@ Twitter 推特 ： [Pika (@pika\_labs) / X](https://twitter.com/pika_labs)
 
 * [哈佛斯坦福学霸女儿创业AI项目走红全球，老爸公司两个涨停：仅是父女，没投钱](https://baijiahao.baidu.com/s?id=1784049635636388017&wfr=spider&for=pc)
 
+  * A股又现“女儿概念股”。
+
+    近日，人工智能应用Pika走红，该应用创始人的父亲实控的A股上市公司信雅达也被带火，12月1日开盘继续一字涨停，拿下两连板。
+
+    11月30日，信雅达科技股份有限公司（信雅达，600571）发布澄清公告称，近日，信雅达关注到媒体关于“视频生成应用Pika”的相关报道，为避免相关信息对广大投资者造成误导，现予以澄清说明。
+
+    信雅达表示，Pika开发团队创始人之一郭文景系公司实际控制人郭华强的女儿。除上述关系外，公司与Pika无其他关系。
+
+    公告强调，截至目前，郭文景未在公司担任任何职务，公司未投资Pika，也未与Pika有任何业务往来。
+
+    此事源于人工智能产品Pika1.0在网络爆火。
+
+
 
 
 媒体资讯：
@@ -875,9 +888,76 @@ AI, video generation, deep learning
 
     原文链接：https://towardsdatascience.com/generative-ai-878909fb7868
 
-  
+
+
+
+
+
+## AI Funding Rounds
+
+### 1、SeiSei.ai
+
+SeiSei.ai is a text-to-video generation platform. SeiSei's algorithms can automatically change video lip sync and language, creating seamless and realistic videos.
+SeiSei.ai 是一个文本到视频生成平台。 SeiSei 的算法可以自动更改视频口型同步和语言，创建无缝且逼真的视频。
+
+Industry（所属行业）：Artificial Intelligence, SaaS, Video
+
+Company Description（公司描述）：SeiSei.ai is a text-to-video generation platform.
+
+Website（官方网站）：https://www.seisei.ai/
+
+Announced Date（公布融资消息的日期）：2023年8月2日
+
+Number of Funding Rounds（融资轮数）：1
+
+Funding amount：undisclosed （融资金额未公开）
+
+Crunchbase（CB数据库）：[SeiSei.ai - Funding, Financials, Valuation & Investors](https://www.crunchbase.com/organization/rgen-ai/company_financials)
+
+Ethics Guidlines （道德准则）：https://www.seisei.ai/ethics
+
+Official social media account（官方社交媒体账号）：
+
+LinedIn:：https://www.linkedin.com/company/seisei-ai
+
+YouTube:  [Demo - YouTube](https://www.youtube.com/playlist?list=PLqKwFgGmv-tN-ldy5zxNceST-_q_8UQF0)
+
+Instagram： [SeiSei.ai (@seisei.ai\_official) · Instagram 照片和视频](https://www.instagram.com/seisei.ai_official/)
+
+Facebook：https://www.facebook.com/seiseiai
+
+Democratizing Generating Personalized Videos at scale.
+
+大规模生成个性化视频。
+
+使用步骤：
+
+1、Upload 上传 Add Your Video and Audio Material 添加您的视频和音频材料
+
+2、Input Your Script 输入您的脚本 Craft Your Message with Custom Variables 使用自定义变量制作您的消息
+
+3、Generate 产生 Watch Our AI Craft Your Personalized Videos 观看我们的人工智能制作您的个性化视频
+
+About（关于）：
+
+##### Our mission 我们的使命
+
+##### Make video campaigns easy for anyone 让任何人都能轻松开展视频营销活动
+
+When individuals unite in pursuit of a shared vision, fueled by passion, the collective effort surpasses the sum of its parts. At SeiSei.ai, we hold a deep appreciation for our community, which includes both our dedicated team and our valued clients. Our culture is rooted in the conviction that the strength of ideas should eclipse considerations of title or hierarchy. Transparency serves as the cornerstone of our cultural ethos.
+当个人在激情的推动下团结起来追求共同的愿景时，集体的努力就会超越各个部分的总和。在 SeiSei.ai，我们对我们的社区深表感谢，其中包括我们敬业的团队和尊贵的客户。我们的文化植根于这样的信念：思想的力量应该超越头衔或等级制度的考虑。透明度是我们文化精神的基石。
+
+
 
 ### Logging
+
+20231223 Jack Lee 今天目标推进500词，最终推进到了15209词
+
+昨天已经整理完了Ben's Bites 的 数据库1：Airtable - Grid view AI Project Tracker 人工智能项目追踪器的最新数据库
+
+今天整理 Ben's Bites 的 数据库2：Airtable - Funding Rounds AI Funding Rounds 人工智能融资轮次 人工智能领域所有公司融资轮次的最新数据库，于是在数据库2的表格里面用关键词**Video generation**进行过滤搜索（Filtered by Company Description 公司描述中含有**Video generation**）
+
+今天主要增加了SeiSei.ai公司
 
 20231222 Jack Lee 今天目标推进500词，最终推进到了14302词
 
@@ -926,7 +1006,7 @@ AI, video generation, deep learning
 - [Find AI Tools Using AI](https://theresanaiforthat.com/?message=subscribed) - AI tools. Updated daily.
   使用 AI 查找 AI 工具 - AI 工具。每日更新。
 
-进一步明确关键词为**Video generation**，配合阳志平老师提供的方法：从自己能拿到的最优质的公开数据，掌握的最优质的信息入手，我由此联想到我拥有**Ben's Bites**两个每天更新的数据库的访问权限，于是分别在以下两个数据库中用关键词**Video generation**进行搜索，在表格里面用关键词**Video generation**进行过滤搜索（Filtered by Tags），然后完成了今天的500词。
+进一步明确关键词为**Video generation**，配合阳志平老师提供的方法：从自己能拿到的最优质的公开数据，掌握的最优质的信息入手，我由此联想到我拥有**Ben's Bites**两个每天更新的数据库的访问权限，于是在数据库1表格里面用关键词**Video generation**进行过滤搜索（Filtered by Tags 标签中含有**Video generation**），然后完成了今天的500词。
 
 We have two databases that are updated every day;
 我们有两个每天更新的数据库；
