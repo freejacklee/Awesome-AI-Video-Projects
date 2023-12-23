@@ -918,7 +918,7 @@ Ethics Guidlines （道德准则）：https://www.seisei.ai/ethics
 
 Official social media account（官方社交媒体账号）：
 
-LinedIn:：https://www.linkedin.com/company/seisei-ai
+LinkedIn:：https://www.linkedin.com/company/seisei-ai
 
 YouTube:  [Demo - YouTube](https://www.youtube.com/playlist?list=PLqKwFgGmv-tN-ldy5zxNceST-_q_8UQF0)
 
