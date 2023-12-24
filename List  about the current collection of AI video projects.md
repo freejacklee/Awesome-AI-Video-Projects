@@ -900,9 +900,9 @@ AI, video generation, deep learning
 SeiSei.ai is a text-to-video generation platform. SeiSei's algorithms can automatically change video lip sync and language, creating seamless and realistic videos.
 SeiSei.ai 是一个文本到视频生成平台。 SeiSei 的算法可以自动更改视频口型同步和语言，创建无缝且逼真的视频。
 
-Industry（所属行业）：Artificial Intelligence, SaaS, Video
+Industry（所属行业）：Artificial Intelligence, SaaS, Video 人工智能、SaaS、视频
 
-Company Description（公司描述）：SeiSei.ai is a text-to-video generation platform.
+Company Description（公司描述）：SeiSei.ai is a text-to-video generation platform SeiSei.ai 是一个文本到视频生成平台
 
 Website（官方网站）：https://www.seisei.ai/
 
@@ -912,19 +912,26 @@ Number of Funding Rounds（融资轮数）：1
 
 Funding amount：undisclosed （融资金额未公开）
 
-Crunchbase（CB数据库）：[SeiSei.ai - Funding, Financials, Valuation & Investors](https://www.crunchbase.com/organization/rgen-ai/company_financials)
+Crunchbase（CB数据库）：[SeiSei.ai - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/rgen-ai)
 
 Ethics Guidlines （道德准则）：https://www.seisei.ai/ethics
 
 Official social media account（官方社交媒体账号）：
 
-LinkedIn:：https://www.linkedin.com/company/seisei-ai
+LinkedIn: https://www.linkedin.com/company/seisei-ai
 
 YouTube:  [Demo - YouTube](https://www.youtube.com/playlist?list=PLqKwFgGmv-tN-ldy5zxNceST-_q_8UQF0)
 
 Instagram： [SeiSei.ai (@seisei.ai\_official) · Instagram 照片和视频](https://www.instagram.com/seisei.ai_official/)
 
 Facebook：https://www.facebook.com/seiseiai
+
+
+
+来自Crunchbase（CB数据库）：Who are [SeiSei.ai](https://www.crunchbase.com/organization/rgen-ai)'s competitors? Alternatives and possible competitors to [SeiSei.ai](https://www.crunchbase.com/organization/rgen-ai) may include [Guru](https://www.crunchbase.com/organization/guru-technologies), [ZeroEyes](https://www.crunchbase.com/organization/zeroeyes), and [Imaginario AI](https://www.crunchbase.com/organization/imaginario)
+SeiSei.ai 的竞争对手是谁？ SeiSei.ai 的替代品和可能的竞争对手可能包括 Guru、ZeroEyes 和 Imaginario AI.
+
+
 
 Democratizing Generating Personalized Videos at scale.
 
@@ -949,7 +956,92 @@ When individuals unite in pursuit of a shared vision, fueled by passion, the col
 
 
 
+
+
+### 2、VCAT.AI
+
+VCAT.AI is a business-to-business (B2B) subscription software (SaaS) based on AI technology. Create mass marketing creatives as video and banner images just with an product URL or TEXT.
+
+VCAT.AI是一款基于人工智能技术的企业对企业（B2B）订阅软件（SaaS）。只需使用产品 URL 或文本即可创建视频和横幅图像等大众营销创意。
+
+Industry（所属行业）：Advertising, Artificial Intelligence, Creative Agency, SaaS, Video Editing 广告、人工智能、创意机构、SaaS、视频编辑
+
+Company Description（公司描述）：AI-based video generation SaaS solution 基于AI的视频生成SaaS解决方案
+
+Website（官方网站）：https://vcat.ai/
+
+Location：Seoul 韩国首尔
+
+Announced Date（公布融资消息的日期）：2023年4月4日
+
+Number of Funding Rounds（融资轮数）：Series A （A轮）
+
+Funding Stage：Early Stage Venture 早期风险投资
+
+Funding amount：$8,000,000
+
+Crunchbase（CB数据库）： [VCAT.AI - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/vcat-ai)
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn: https://www.linkedin.com/company/ai-vcat/
+
+YouTube:  [VCAT AI - YouTube](https://www.youtube.com/channel/UC9HwVtVf72CTxiuunStO3Ag)
+
+
+
+来自Crunchbase（CB数据库）：
+
+Where is VCAT.AI's headquarters? VCAT.AI is located in Seoul, Seoul-t'ukpyolsi, South Korea
+VCAT.AI的总部在哪里? VCAT.AI位于韩国Seoul-t'ukpyolsi首尔.
+
+Who invested in VCAT.AI? VCAT.AI has 4 investors including KB Investment and Premier Partners
+VCAT.AI是谁投资的？VCAT.AI有KB Investment、Premier Partners等4家投资方.
+
+How much funding has VCAT.AI raised to date? VCAT.AI has raised $8M
+VCAT.AI 迄今为止筹集了多少资金？VCAT.AI 已筹集 800 万美元.
+
+When was the last funding round for VCAT.AI? VCAT.AI closed its last funding round on Apr 4, 2023 from a Series A round.
+VCAT.AI 的最后一轮融资是什么时候？VCAT.AI 于 2023 年 4 月 4 日结束了 A 轮融资的最后一轮融资。
+
+Who are VCAT.AI's competitors? Alternatives and possible competitors to VCAT.AI may include SandboxAQ, Sidecar, and Prevedere
+VCAT.AI的竞争对手是谁？ VCAT.AI 的替代品和可能的竞争对手可能包括 SandboxAQ、Sidecar 和 Prevedere.
+
+
+
+### 
+
+Industry（所属行业）：
+
+Company Description（公司描述）：
+
+Website（官方网站）：
+
+Announced Date（公布融资消息的日期）：
+
+Number of Funding Rounds（融资轮数）：
+
+Funding amount：
+
+Crunchbase（CB数据库）：
+
+Official social media account（官方社交媒体账号）：
+
+
+
+来自Crunchbase（CB数据库）：
+
+
+
+
+
 ### Logging
+
+20231224 Jack Lee 今天目标推进500词，最终推进到了15796词
+
+今天继续整理 Ben's Bites 的 数据库2：Airtable - Funding Rounds AI Funding Rounds 人工智能融资轮次 人工智能领域所有公司融资轮次的最新数据库
+
+今天主要增加了VCAT.AI公司
 
 20231223 Jack Lee 今天目标推进500词，最终推进到了15209词
 
