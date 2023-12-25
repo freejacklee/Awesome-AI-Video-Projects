@@ -902,11 +902,13 @@ SeiSei.ai 是一个文本到视频生成平台。 SeiSei 的算法可以自动�
 
 Industry（所属行业）：Artificial Intelligence, SaaS, Video 人工智能、SaaS、视频
 
-Company Description（公司描述）：SeiSei.ai is a text-to-video generation platform SeiSei.ai 是一个文本到视频生成平台
+Company Description（公司描述）：SeiSei.ai is a text-to-video generation platform. SeiSei.ai 是一个文本到视频生成平台。
 
 Website（官方网站）：https://www.seisei.ai/
 
 Announced Date（公布融资消息的日期）：2023年8月2日
+
+Funding Round（融资轮次）：Seed（种子轮）
 
 Number of Funding Rounds（融资轮数）：1
 
@@ -966,7 +968,7 @@ VCAT.AI是一款基于人工智能技术的企业对企业（B2B）订阅软件�
 
 Industry（所属行业）：Advertising, Artificial Intelligence, Creative Agency, SaaS, Video Editing 广告、人工智能、创意机构、SaaS、视频编辑
 
-Company Description（公司描述）：AI-based video generation SaaS solution 基于AI的视频生成SaaS解决方案
+Company Description（公司描述）：AI-based video generation SaaS solution. 基于AI的视频生成SaaS解决方案。
 
 Website（官方网站）：https://vcat.ai/
 
@@ -974,11 +976,17 @@ Location：Seoul 韩国首尔
 
 Announced Date（公布融资消息的日期）：2023年4月4日
 
-Number of Funding Rounds（融资轮数）：Series A （A轮）
+Funding Round（融资轮次）：：Series A （A轮）
+
+Number of Funding Rounds（融资轮数）：1
 
 Funding Stage：Early Stage Venture 早期风险投资
 
-Funding amount：$8,000,000
+Funding amount：$8,000,000    800万美元
+
+Lead Investors：Premier Partners
+
+Investor Names：KB Investment, KT investment, Premier Partners, SmileGate
 
 Crunchbase（CB数据库）： [VCAT.AI - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/vcat-ai)
 
@@ -1009,33 +1017,69 @@ VCAT.AI的竞争对手是谁？ VCAT.AI 的替代品和可能的竞争对手可�
 
 
 
-### 
+### 3、Boolean vector BOOLV
 
-Industry（所属行业）：
+Boolean vector BOOLV is an AI video generation SaaS service provider. They provide SaaS services for e-commerce clients. They developed long-term and fruitful collaborations with numerous renowned firms in fashion, furniture brands, academia, and industry.
+布尔向量BOOLV是一家AI视频生成SaaS服务商。他们为电子商务客户提供 SaaS 服务。他们与时尚界、家具品牌、学术界和工业界的众多知名公司建立了长期且富有成效的合作。
 
-Company Description（公司描述）：
+Industry（所属行业）：Artificial Intelligence 人工智能
 
-Website（官方网站）：
+Company Description（公司描述）：Boolean vector BOOLV is an AI video generation SaaS service provider. 布尔向量BOOLV是一家AI视频生成SaaS服务商。
 
-Announced Date（公布融资消息的日期）：
+Website（官方网站）：https://boolv.tech/
 
-Number of Funding Rounds（融资轮数）：
+Announced Date（公布融资消息的日期）：2022年3月1日
 
-Funding amount：
+Funding Round（融资轮次）：Series A （A轮）
 
-Crunchbase（CB数据库）：
+Number of Funding Rounds（融资轮数）：1
+
+Funding Stage：Early Stage Venture 早期风险投资
+
+Funding amount：$10,000,000     1000万美元
+
+Investor Names：Decent Capital, Kuehne + Nagel, Linear Capital, UpHonest Capital, Volcanics Venture
+
+Crunchbase（CB数据库）： [Boolean vector BOOLV - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/boolean-vector-boolv)
 
 Official social media account（官方社交媒体账号）：
 
+Twitter： [Boolv Tech (@boolvtech) / X](https://twitter.com/boolvtech)
 
+YouTube:  [Boolvideo For Content Creator - YouTube](https://www.youtube.com/channel/UCSPT_tV0QfnGsC4KFSVDSkw)
+
+Pinterest：[Pinterest](https://www.pinterest.com/boolv_tech/)
+
+Instagram：[Boolv-Boolvideo&Booltool (@boolvtech) · Instagram 照片和视频](https://www.instagram.com/boolvtech/)
+
+Medium： [BoolvTech – Medium --- 博尔夫科技 – Medium](https://medium.com/@boolv)
+
+LinkedIn: https://www.linkedin.com/company/boolv-tech
+
+Facebook：https://www.facebook.com/profile.php?id=100083482763930
+
+
+
+Product Hunt 链接：https://www.producthunt.com/products/boolvideo
 
 来自Crunchbase（CB数据库）：
 
-
+Where is [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)'s headquarters? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) is located in [Shenzhen](https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/shenzhen-guangdong),[ Guangdong](https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/guangdong-china),[ China](https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/china-500a)
+布尔向量BOOLV的总部在哪里？布尔向量BOOLV位于中国广东深圳.Who invested in [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) has [5](https://www.crunchbase.com/search/principal.investors/field/organizations/num_investors/boolean-vector-boolv) investors including [UpHonest Capital](https://www.crunchbase.com/organization/uphonest-capital) and [Volcanics Venture](https://www.crunchbase.com/organization/volcanics-venture)
+布尔向量BOOLV是谁投资的？布尔向量BOOLV有5个投资者，包括UpHonest Capital和Volcanics Venture.How much funding has [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) raised to date? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) has raised [$10M](https://www.crunchbase.com/search/funding_rounds/field/organizations/funding_total/boolean-vector-boolv)
+布尔向量 BOOLV 迄今为止筹集了多少资金？布尔向量 BOOLV 已筹集 1000 万美元.When was the last funding round for [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) closed its last funding round on [Mar 1, 2022](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_at/boolean-vector-boolv) from a [Series A](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_type/boolean-vector-boolv) round.
+布尔向量 BOOLV 的最后一轮融资是什么时候？布尔向量 BOOLV 于 2022 年 3 月 1 日结束了 A 轮融资的最后一轮融资。Who are [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)'s competitors? Alternatives and possible competitors to [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) may include [Pachama](https://www.crunchbase.com/organization/pachama), [Noogata](https://www.crunchbase.com/organization/noogata), and [Deepwise](https://www.crunchbase.com/organization/deepwise)
+布尔向量BOOLV的竞争对手有哪些？布尔向量 BOOLV 的替代品和可能的竞争对手可能包括 Pachama、Noogata 和 Deepwise
 
 
 
 ### Logging
+
+20231225 Jack Lee 今天目标推进500词，最终推进到了1XXXX词
+
+今天继续整理 Ben's Bites 的 数据库2：Airtable - Funding Rounds AI Funding Rounds 人工智能融资轮次 人工智能领域所有公司融资轮次的最新数据库
+
+今天主要增加了Boolean vector BOOLV公司
 
 20231224 Jack Lee 今天目标推进500词，最终推进到了15796词
 
