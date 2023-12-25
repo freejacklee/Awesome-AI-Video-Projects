@@ -1056,6 +1056,19 @@ Medium： [BoolvTech – Medium --- 博尔夫科技 – Medium](https://medium.c
 
 LinkedIn: https://www.linkedin.com/company/boolv-tech
 
+Next generation of intelligent video platform that empowers brands.
+
+为品牌赋能的下一代智能视频平台。
+
+关于
+BOOLV Tech provides SaaS software technology services for e-commerce clients, focusing on data and AI applications. Founded in 2021, we have completed 10m USD Angel round financing. Our headquarter and R&D center are established in Shenzhen Nanshan Free Trade Zone.
+
+Our team consists of alumni from University of Pennsylvania, University of Oxford, University of Berkeley, The University of Hong Kong, etc. Core members are from leading tech companies and institutions such as Bytedance, Tencent and Data Science Institute (DSI) of Imperial College London, who are experts in ToB Saas, AI algorithm, and data analytics field.
+
+BOOLV Tech为电商客户提供SaaS软件技术服务，专注于数据和人工智能应用。成立于2021年，已完成1000万美元天使轮融资。我们的总部和研发中心设立在深圳南山保税区。
+
+我们的团队由来自宾夕法尼亚大学、牛津大学、伯克利大学、香港大学等的校友组成，核心成员来自字节跳动、腾讯、帝国理工数据科学研究所（DSI）等领先科技公司和机构London，ToB Saas、人工智能算法和数据分析领域的专家。
+
 Facebook：https://www.facebook.com/profile.php?id=100083482763930
 
 
@@ -1070,6 +1083,32 @@ Where is [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-
 布尔向量 BOOLV 迄今为止筹集了多少资金？布尔向量 BOOLV 已筹集 1000 万美元.When was the last funding round for [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) closed its last funding round on [Mar 1, 2022](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_at/boolean-vector-boolv) from a [Series A](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_type/boolean-vector-boolv) round.
 布尔向量 BOOLV 的最后一轮融资是什么时候？布尔向量 BOOLV 于 2022 年 3 月 1 日结束了 A 轮融资的最后一轮融资。Who are [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)'s competitors? Alternatives and possible competitors to [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) may include [Pachama](https://www.crunchbase.com/organization/pachama), [Noogata](https://www.crunchbase.com/organization/noogata), and [Deepwise](https://www.crunchbase.com/organization/deepwise)
 布尔向量BOOLV的竞争对手有哪些？布尔向量 BOOLV 的替代品和可能的竞争对手可能包括 Pachama、Noogata 和 Deepwise
+
+
+
+Industry（所属行业）：
+
+Company Description（公司描述）：
+
+Website（官方网站）：
+
+Announced Date（公布融资消息的日期）：
+
+Number of Funding Rounds（融资轮数）：
+
+Funding amount：
+
+Crunchbase（CB数据库）：
+
+Official social media account（官方社交媒体账号）：
+
+
+
+来自Crunchbase（CB数据库）：
+
+
+
+
 
 
 
