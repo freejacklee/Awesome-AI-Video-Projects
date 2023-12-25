@@ -930,7 +930,9 @@ Facebook：https://www.facebook.com/seiseiai
 
 
 
-来自Crunchbase（CB数据库）：Who are [SeiSei.ai](https://www.crunchbase.com/organization/rgen-ai)'s competitors? Alternatives and possible competitors to [SeiSei.ai](https://www.crunchbase.com/organization/rgen-ai) may include [Guru](https://www.crunchbase.com/organization/guru-technologies), [ZeroEyes](https://www.crunchbase.com/organization/zeroeyes), and [Imaginario AI](https://www.crunchbase.com/organization/imaginario)
+来自Crunchbase（CB数据库）：
+
+Who are [SeiSei.ai](https://www.crunchbase.com/organization/rgen-ai)'s competitors? Alternatives and possible competitors to [SeiSei.ai](https://www.crunchbase.com/organization/rgen-ai) may include [Guru](https://www.crunchbase.com/organization/guru-technologies), [ZeroEyes](https://www.crunchbase.com/organization/zeroeyes), and [Imaginario AI](https://www.crunchbase.com/organization/imaginario)
 SeiSei.ai 的竞争对手是谁？ SeiSei.ai 的替代品和可能的竞争对手可能包括 Guru、ZeroEyes 和 Imaginario AI.
 
 
@@ -1077,12 +1079,24 @@ Product Hunt 链接：https://www.producthunt.com/products/boolvideo
 
 来自Crunchbase（CB数据库）：
 
-Where is [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)'s headquarters? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) is located in [Shenzhen](https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/shenzhen-guangdong),[ Guangdong](https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/guangdong-china),[ China](https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/china-500a)
-布尔向量BOOLV的总部在哪里？布尔向量BOOLV位于中国广东深圳.Who invested in [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) has [5](https://www.crunchbase.com/search/principal.investors/field/organizations/num_investors/boolean-vector-boolv) investors including [UpHonest Capital](https://www.crunchbase.com/organization/uphonest-capital) and [Volcanics Venture](https://www.crunchbase.com/organization/volcanics-venture)
-布尔向量BOOLV是谁投资的？布尔向量BOOLV有5个投资者，包括UpHonest Capital和Volcanics Venture.How much funding has [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) raised to date? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) has raised [$10M](https://www.crunchbase.com/search/funding_rounds/field/organizations/funding_total/boolean-vector-boolv)
-布尔向量 BOOLV 迄今为止筹集了多少资金？布尔向量 BOOLV 已筹集 1000 万美元.When was the last funding round for [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) closed its last funding round on [Mar 1, 2022](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_at/boolean-vector-boolv) from a [Series A](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_type/boolean-vector-boolv) round.
-布尔向量 BOOLV 的最后一轮融资是什么时候？布尔向量 BOOLV 于 2022 年 3 月 1 日结束了 A 轮融资的最后一轮融资。Who are [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)'s competitors? Alternatives and possible competitors to [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) may include [Pachama](https://www.crunchbase.com/organization/pachama), [Noogata](https://www.crunchbase.com/organization/noogata), and [Deepwise](https://www.crunchbase.com/organization/deepwise)
+Where is [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)'s headquarters?
+
+[Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) is located in [Shenzhen](https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/shenzhen-guangdong),[ Guangdong](https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/guangdong-china),[ China](https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/china-500a)
+布尔向量BOOLV的总部在哪里？布尔向量BOOLV位于中国广东深圳.
+
+Who invested in [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) has [5](https://www.crunchbase.com/search/principal.investors/field/organizations/num_investors/boolean-vector-boolv) investors including [UpHonest Capital](https://www.crunchbase.com/organization/uphonest-capital) and [Volcanics Venture](https://www.crunchbase.com/organization/volcanics-venture)
+布尔向量BOOLV是谁投资的？布尔向量BOOLV有5个投资者，包括UpHonest Capital和Volcanics Venture.
+
+How much funding has [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) raised to date? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) has raised [$10M](https://www.crunchbase.com/search/funding_rounds/field/organizations/funding_total/boolean-vector-boolv)
+布尔向量 BOOLV 迄今为止筹集了多少资金？布尔向量 BOOLV 已筹集 1000 万美元.
+
+When was the last funding round for [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)? [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) closed its last funding round on [Mar 1, 2022](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_at/boolean-vector-boolv) from a [Series A](https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_type/boolean-vector-boolv) round.
+布尔向量 BOOLV 的最后一轮融资是什么时候？布尔向量 BOOLV 于 2022 年 3 月 1 日结束了 A 轮融资的最后一轮融资。
+
+Who are [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv)'s competitors? Alternatives and possible competitors to [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-vector-boolv) may include [Pachama](https://www.crunchbase.com/organization/pachama), [Noogata](https://www.crunchbase.com/organization/noogata), and [Deepwise](https://www.crunchbase.com/organization/deepwise)
 布尔向量BOOLV的竞争对手有哪些？布尔向量 BOOLV 的替代品和可能的竞争对手可能包括 Pachama、Noogata 和 Deepwise
+
+
 
 
 
@@ -1110,11 +1124,9 @@ Official social media account（官方社交媒体账号）：
 
 
 
-
-
 ### Logging
 
-20231225 Jack Lee 今天目标推进500词，最终推进到了16824词
+20231225 Jack Lee 今天目标推进500词，最终推进到了16826词
 
 今天继续整理 Ben's Bites 的 数据库2：Airtable - Funding Rounds AI Funding Rounds 人工智能融资轮次 人工智能领域所有公司融资轮次的最新数据库
 
