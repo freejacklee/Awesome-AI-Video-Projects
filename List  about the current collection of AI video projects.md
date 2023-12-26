@@ -62,7 +62,7 @@ Twitter 推特 ： [Pika (@pika\_labs) / X](https://twitter.com/pika_labs)
 
 来自公众号 数字生命卡兹克的用户测评：*[【全网首发】PIKA1.0上手评测 - 你就是传奇](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647660666&idx=1&sn=0e9e2a11d5c06cd512479d35ca84bf3f&sharer_shareinfo=d3d03bfa8311534acd00b7003123ed3c&sharer_shareinfo_first=d3d03bfa8311534acd00b7003123ed3c#rd)
 
-我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。我在Pika Labs的Discord上用一张图片生成的视频中人物的脸会变形。
+我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。我在Pika Labs的Discord上用一张图片生成的视频中人物的脸会变形。2023年12月22日 11:05  2023年12月25日 17:10邮件和discord都获得了体验资格，试验效果还是差强人意。
 
 温馨提示：
 
@@ -892,6 +892,66 @@ AI, video generation, deep learning
 
 
 
+### 16、李飞飞携斯坦福联袂谷歌，推出了用于生成逼真视频的扩散模型 W.A.L.T
+
+2023 年 12 月 12 日，李飞飞携斯坦福联袂谷歌，用 Transformer 生成了逼真视频，效果媲美 Gen-2 比肩 Pika，正式推出了用于生成逼真视频的扩散模型 W.A.L.T。2023 年俨然已成 AI 视频元年。
+
+Paper（论文）：2023  [Photorealistic Video Generation with Diffusion Models](https://arxiv.org/abs/2312.06662)
+
+https://walt-video-diffusion.github.io/assets/W.A.L.T.pdf  This is a Transformer-based diffusion model trained on image and video generation in a shared latent space. 这是一个在共享潜在空间中训练图像和视频生成的，基于 Transformer 的扩散模型。
+
+
+
+Twitter 推特 社交媒体资讯：
+
+* [Fei-Fei Li on X: "I’m very excited by this new, transformer-based diffusion model for video generation led by my student @agrimgupta92 , in collaboration with amazing @GoogleAI researchers!🤩👇" / X](https://twitter.com/drfeifei/status/1734266529431044152)
+
+
+
+媒体资讯：
+
+* [AI 生成视频，且看 Pika&W.A.L.T | 北拓研究 - Foresight News](https://foresightnews.pro/article/detail/50094)
+
+  * W.A.L.T 的关键，是将图像和视频编码到一个共享的潜在空间中。Transformer 主干通过具有两层窗口限制注意力的块来处理这些潜在空间——空间层捕捉图像和视频中的空间关系，而时空层模拟视频中的时间动态，并通过身份注意力掩码传递图像。而文本调节，是通过空间交叉注意完成的。
+
+    W.A.L.T 解决视频生成建模难题
+
+  * 英伟达高级科学家 Jim Fan 转发评论道：2022 年是影像之年，2023 是声波之年，而 2024，是视频之年。
+
+  * **03**
+
+    **结语**
+
+    Pika 的闯入和 W.A.L.T 的推出，无疑再次搅动了 AI 视频领域的格局，战场上已经硝烟滚滚。
+
+    AI 视频的未来发展趋势涉及多个方面，包括技术进步、应用场景扩展以及市场竞争格局等：
+
+    - 更高级的视频生成和编辑技术：随着深度学习和生成模型的不断发展，预计会有更先进、更逼真的视频生成技术。这可能包括更精细的图像合成、更智能的视频编辑和更自然的语音合成。
+    - 增强现实（AR）和虚拟现实（VR）应用：AI 视频将在 AR 和 VR 领域发挥关键作用，为用户提供更沉浸式的体验。这可能包括虚拟现实培训、虚拟旅游和虚拟会议等应用。
+    - 个性化内容生成：AI 视频有望推动个性化内容的生成，根据用户的兴趣和偏好，为他们定制特定内容。这可能包括个性化广告、电影和在线教育等领域。
+    - 实时视频处理：随着计算能力的提高，未来 AI 视频系统可能更加注重实时处理，以满足对实时反馈和互动性的需求。这对于在线直播、视频会议和实时事件报道等场景具有重要意义。
+    - 自动化和协作：AI 视频在制作、编辑和发布过程中的自动化将继续增加。多个 AI 系统可能协同工作，共同完成视频内容的创作和优化。
+
+    AI 视频未来的竞争格局可能涉及到技术领导者、创新型初创公司以及传统的媒体和技术巨头。争夺关键技术专利、拥有大规模训练数据、拓展应用场景和提供稳定性可靠的解决方案都将是竞争的关键因素。在不同的市场细分领域，可能会涌现出一系列专业化的解决方案。
+
+    需要注意的是，AI 技术的发展伴随着伦理和隐私等问题，因此相关政策和规范的建立也将对竞争格局产生影响。
+
+    算力将会是影响 AI 视频服务的一个重要因素，特别是在 C 端（面向消费者）服务中。以下则是与算力相关的影响因素：
+
+    - 实时性和互动性：高算力可以支持更快的实时处理和更高的互动性。在视频通话、实时直播以及虚拟和增强现实应用中，快速的算力可以确保流畅的体验。
+    - 高质量的生成和处理：高算力对于生成高质量、高分辨率的视频内容至关重要。这对于视频编辑、特效添加以及其他创意性的应用非常重要。
+    - 大规模数据处理：针对大规模数据的训练和处理需要强大的算力。这对于训练复杂的深度学习模型、提高视频识别和分析的准确性以及支持大规模的用户请求都至关重要。
+    - 云服务的影响：对于 C 端用户而言，云服务中的高算力可以提供更强大的视频处理和存储能力。这使得用户可以享受到云端处理的便利性，而无需担心本地设备的性能限制。
+    - 成本和可扩展性：算力的成本和可扩展性也是重要考虑因素。成本高昂的算力可能导致服务费用的增加，而可扩展性差则可能限制了服务的用户规模。
+
+    总体而言，随着技术的不断进步，算力在 AI 视频服务中的重要性将继续增加。创新性的解决方案和对算力的有效利用将有助于提高服务的竞争力，并为用户提供更出色的体验。
+
+    相信随着未来算力的进一步提升，AI 视频领域的推陈出新一定更加令人期待。 
+
+
+
+
+
 
 ## AI Funding Rounds
 
@@ -1100,6 +1160,12 @@ Who are [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-v
 
 
 
+
+
+
+
+
+
 Industry（所属行业）：
 
 Company Description（公司描述）：
@@ -1124,7 +1190,19 @@ Official social media account（官方社交媒体账号）：
 
 
 
+
+
 ### Logging
+
+20231226 Jack Lee 今天目标推进500词，最终推进到了18725词
+
+昨天整理完了Ben's Bites 的 数据库2：Airtable - Funding Rounds AI Funding Rounds 人工智能融资轮次 人工智能领域所有公司融资轮次的最新数据库
+
+今天随机漫游，在google里直接用关键词ai视频生成公司名单数据库搜索，在Foresight News里面发现李飞飞携斯坦福联袂谷歌，推出了用于生成逼真视频的扩散模型 W.A.L.T，另外今天发现我已经获得了pika的资格，不过之前已经获得资格的网友反映pika服务器负载严重导致生成视频很慢，网友卡兹克说pika的Prompt不用太长的，写太复杂的就会直接崩了，Close-up of girl's mobile phone with a heart on the screen, anime style, Ghibli studio，他都用很短的句子。
+
+Foresight News - Foresight Wiki. Foresight News 是亚太地区最具影响力的多语种Web3 媒体，2022 年1 月成立以来，快速成长为最具影响力的中文Web3 媒体之一，目前中文站单一平台月度PV 已突破200 万。
+
+今天主要增加了李飞飞携斯坦福联袂谷歌，推出了用于生成逼真视频的扩散模型 W.A.L.T
 
 20231225 Jack Lee 今天目标推进500词，最终推进到了16826词
 
