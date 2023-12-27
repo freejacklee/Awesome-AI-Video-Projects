@@ -963,17 +963,67 @@ Twitter 推特 社交媒体资讯：
 
 
 
-### 17、
+### 17、HeyGen
+
+由 Joshua Xu 和 Wayne Liang 于 2020 年 XNUMX 月在洛杉矶创立， HeyGen（最初为“Movio”）是一个独特的视频平台，它使用生成式人工智能在几分钟内创建令人惊叹的专业视频。
+
+借助其文本转语音功能，您可以将脚本转换为 300 多种语言、40 多种语音的自然发音单词。 然后，您可以从 100 多个代表不同种族、年龄和姿势的人工智能头像中进行选择，并通过自然的口型同步功能逐行背诵您的脚本。
+
+因此，这可以为企业节省大量时间和金钱，而不是雇用演员和购买昂贵的录音设备。 HeyGen 非常适合想要在预算内创建视频内容的企业，无论是创建引人入胜的产品视频还是培训视频。
+
+官网地址：https://www.heygen.com/
+
+Founders Introduction 创始人介绍：https://www.heygen.com/about-us
+
+产品特点：[HeyGen - AI Video Generator](https://demo.heygen.com/free-video)
+
+HeyGen是一个AI视频创建平台，帮助你用生成性人工智能创建引人入胜的商业视频，就像为各种使用案例制作PowerPoint幻灯片一样容易，该工具免费版提供1分钟的时长。
+
+HeyGen 的特点是它可以使用 AI 头像来作为视频的演讲者，你可以从它的库中选择或者上传你自己的面部和声音来创建个性化的视频。
+
+官网博客：[All in One AI Video Generator - HeyGen.com | HeyGen Blog](https://www.heygen.com/article/ai-video-generator)
+
+* [HeyGen AI: Free AI Video Generator Pricing, Features, and Alternatives - Cloudbooklet AI](https://www.cloudbooklet.com/heygen-ai-video-generator-free/)
 
 
 
+官方社交媒体账号：* [heygen - Link in Bio & Creator Tools | Beacons](https://beacons.ai/HeyGen)
+
+LinkedIn：[HeyGen: 简介 | LinkedIn](https://www.linkedin.com/company/heygen/?viewAsMember=true)
+
+Tiktok：https://www.tiktok.com/@heygenofficial
+
+Youtube：[HeyGen - YouTube](https://www.youtube.com/@heygen_official)
+
+Twitter（X）：[HeyGen (@HeyGen\_Official) / X](https://twitter.com/heygen_official)
+
+Facebook： [HeyGen User Group 👨🏻‍💻 | Facebook](https://www.facebook.com/groups/345553694144336)
+
+Discord：[(Discord | #🚀︱start | HeyGen](https://discord.com/channels/963360360885264384/1051999877837631529)
 
 
 
+媒体评论：
 
+Unite.AI：我们精心制作的时事通讯是为那些想要保持行业领先地位的颠覆性企业家、精明的投资者或商业专业人士编写的。 **Unite.AI 的人工智能业务**，具有最新的人工智能突破、新的机器学习方法，以及来自网络各个角落的必知见解。
 
+* [Meet the Team - Unite.AI](https://www.unite.ai/meet-the-team/)
 
+* [认识团队 - Unite.AI](https://www.unite.ai/zh-CN/meet-the-team/)
 
+  * Unite.ai 旨在提供有关最新进展的详细分析和新闻 [机器学习](https://www.unite.ai/zh-CN/什么是机器学习/) 和人工智能技术。 我们还希望成为一个平台，以突出新兴和即将出现的人工智能公司，不幸的是，这些公司没有得到主流媒体应有的认可。
+
+    为了帮助团结 AI 社区，我们还提供接触顶尖人才的机会 [人工智能事件](https://www.unite.ai/zh-CN/会议/), [人工智能课程](https://www.unite.ai/zh-CN/课程/)及 [人工智能通讯](https://www.unite.ai/zh-CN/艾时事通讯/).
+
+* [HeyGen Review: The Best AI Video Generator for Businesses?](https://www.unite.ai/heygen-review/#:~:text=HeyGen%20Review%3A%20Final%20Thoughts&text=HeyGen%20has%20significantly%20improved%20my,wide%20range%20of%20customization%20options.)
+
+* [HeyGen 评论：最适合企业的人工智能视频生成器？](https://www.unite.ai/zh-CN/%E6%B5%B7%E6%A0%B9%E8%AF%84%E8%AE%BA/)
+
+  * 在当今快节奏的世界中，每个人都在寻找更有效地创建内容的方法。 但你听说过吗 [人工智能视频生成器](https://www.unite.ai/zh-CN/最好的人工智能视频生成器/)?
+
+    HeyGen 是其中之一。 它是一款人工智能驱动的视频生成器，只需点击几下即可帮助企业创建具有专业外观的视频。
+
+* [HeyGen AI: Free AI Video Generator Pricing, Features, and Alternatives - Cloudbooklet AI --- HeyGen AI：免费 AI 视频生成器定价、功能和替代方案 - Cloudbooklet AI](https://www.cloudbooklet.com/heygen-ai-video-generator-free/)
 
 
 
@@ -1219,9 +1269,9 @@ Official social media account（官方社交媒体账号）：
 
 ### Logging
 
-20231227 Jack Lee 今天目标推进500词，最终推进到了1XXXX词
+20231227 Jack Lee 今天目标推进500词，最终推进到了19755词
 
-今天主要补充了pika公测的相关消息，增加了AI generated video tool中
+今天主要补充了pika公测的相关消息，还有根据网页 [AI视频工具 | AI工具集导航 ](https://ai-bot.cn/favorites/ai-video-tools/)在AI generated video tool中增加了HeyGen，发现优质信息源Unite.AI
 
 20231226 Jack Lee 今天目标推进500词，最终推进到了18725词
 
