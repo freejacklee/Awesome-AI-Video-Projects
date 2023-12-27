@@ -62,17 +62,28 @@ Twitter 推特 ： [Pika (@pika\_labs) / X](https://twitter.com/pika_labs)
 
 来自公众号 数字生命卡兹克的用户测评：*[【全网首发】PIKA1.0上手评测 - 你就是传奇](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647660666&idx=1&sn=0e9e2a11d5c06cd512479d35ca84bf3f&sharer_shareinfo=d3d03bfa8311534acd00b7003123ed3c&sharer_shareinfo_first=d3d03bfa8311534acd00b7003123ed3c#rd)
 
-我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。我在Pika Labs的Discord上用一张图片生成的视频中人物的脸会变形。2023年12月22日 11:05  2023年12月25日 17:10邮件和discord都获得了体验资格，试验效果还是差强人意。
+
+
+我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。我在Pika Labs的Discord上用一张图片生成的视频中人物的脸会变形。2023年12月22日 11:05  2023年12月25日 17:10邮件和discord都获得了体验资格，个别试验效果还是差强人意。
 
 温馨提示：
 
-1、小红书app 搜 Jessie_Ma(小红书号946999884），可以先进Pika AI 聊天室2群，等待被邀请(12月18日15:00 Pika AI 聊天室2群邀请统计截止，据说很快会公测，官网申请加入waitlist即可)
+1、小红书app 搜 Jessie_Ma(小红书号946999884），12月27日早上06:37 Jessie_Ma在小红书上发布消息 宣布 Pika1.0已全面开放
+Pika的圣诞礼物是给大家全面开放1.0的Access啦！排队结束
 
-2、目前可以在Pika Labs的Discord上直接用文字生成视频，指南如下：
+![1227pika全面开放](https://gitee.com/junhaoyu/work20221111/raw/master/img/202312270914102.jpeg)
 
-* [Pika Labs在Discord上直接用文字生成视频  - YouTube](https://www.youtube.com/watch?v=d_GowRZE2cc)
+![pika](https://gitee.com/junhaoyu/work20221111/raw/master/img/202312270914981.jpeg)
 
-* [Pika Labs Discord Guide --- Pika Labs Discord 指南](https://pikalabs.org/pika-labs-discord-guide/)
+2、公测之后使用指南如下：
+
+来自 数字生命卡兹克
+
+* [我用了2周PIKA1.0后，总结了10个宝藏使用技巧 - 建议收藏公测后用](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647660789&idx=1&sn=756a1ca3f9c3fb7b9edf9f248ee9863e&sessionid=1703639707&subscene=227&clicktime=1703639711&enterid=1703639711#rd)
+
+
+
+
 
 
 
@@ -952,6 +963,20 @@ Twitter 推特 社交媒体资讯：
 
 
 
+### 17、
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## AI Funding Rounds
 
@@ -1193,6 +1218,10 @@ Official social media account（官方社交媒体账号）：
 
 
 ### Logging
+
+20231227 Jack Lee 今天目标推进500词，最终推进到了1XXXX词
+
+今天主要补充了pika公测的相关消息，增加了AI generated video tool中
 
 20231226 Jack Lee 今天目标推进500词，最终推进到了18725词
 
