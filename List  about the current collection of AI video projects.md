@@ -975,9 +975,9 @@ Twitter 推特 社交媒体资讯：
 
 Founders Introduction 创始人介绍：https://www.heygen.com/about-us
 
-产品特点：[HeyGen - AI Video Generator](https://demo.heygen.com/free-video)
+产品demo：[HeyGen - AI Video Generator](https://demo.heygen.com/free-video)
 
-HeyGen是一个AI视频创建平台，帮助你用生成性人工智能创建引人入胜的商业视频，就像为各种使用案例制作PowerPoint幻灯片一样容易，该工具免费版提供1分钟的时长。
+产品特点：HeyGen是一个AI视频创建平台，帮助你用生成性人工智能创建引人入胜的商业视频，就像为各种使用案例制作PowerPoint幻灯片一样容易，该工具免费版提供1分钟的时长。
 
 HeyGen 的特点是它可以使用 AI 头像来作为视频的演讲者，你可以从它的库中选择或者上传你自己的面部和声音来创建个性化的视频。
 
@@ -987,7 +987,7 @@ HeyGen 的特点是它可以使用 AI 头像来作为视频的演讲者，你可
 
 
 
-官方社交媒体账号：* [heygen - Link in Bio & Creator Tools | Beacons](https://beacons.ai/HeyGen)
+官方社交媒体账号： [heygen - Link in Bio & Creator Tools | Beacons](https://beacons.ai/HeyGen)
 
 LinkedIn：[HeyGen: 简介 | LinkedIn](https://www.linkedin.com/company/heygen/?viewAsMember=true)
 
@@ -1003,17 +1003,7 @@ Discord：[(Discord | #🚀︱start | HeyGen](https://discord.com/channels/96336
 
 
 
-媒体评论：
-
-Unite.AI：我们精心制作的时事通讯是为那些想要保持行业领先地位的颠覆性企业家、精明的投资者或商业专业人士编写的。 **Unite.AI 的人工智能业务**，具有最新的人工智能突破、新的机器学习方法，以及来自网络各个角落的必知见解。
-
-* [Meet the Team - Unite.AI](https://www.unite.ai/meet-the-team/)
-
-* [认识团队 - Unite.AI](https://www.unite.ai/zh-CN/meet-the-team/)
-
-  * Unite.ai 旨在提供有关最新进展的详细分析和新闻 [机器学习](https://www.unite.ai/zh-CN/什么是机器学习/) 和人工智能技术。 我们还希望成为一个平台，以突出新兴和即将出现的人工智能公司，不幸的是，这些公司没有得到主流媒体应有的认可。
-
-    为了帮助团结 AI 社区，我们还提供接触顶尖人才的机会 [人工智能事件](https://www.unite.ai/zh-CN/会议/), [人工智能课程](https://www.unite.ai/zh-CN/课程/)及 [人工智能通讯](https://www.unite.ai/zh-CN/艾时事通讯/).
+媒体资讯：
 
 * [HeyGen Review: The Best AI Video Generator for Businesses?](https://www.unite.ai/heygen-review/#:~:text=HeyGen%20Review%3A%20Final%20Thoughts&text=HeyGen%20has%20significantly%20improved%20my,wide%20range%20of%20customization%20options.)
 
@@ -1024,6 +1014,60 @@ Unite.AI：我们精心制作的时事通讯是为那些想要保持行业领先
     HeyGen 是其中之一。 它是一款人工智能驱动的视频生成器，只需点击几下即可帮助企业创建具有专业外观的视频。
 
 * [HeyGen AI: Free AI Video Generator Pricing, Features, and Alternatives - Cloudbooklet AI --- HeyGen AI：免费 AI 视频生成器定价、功能和替代方案 - Cloudbooklet AI](https://www.cloudbooklet.com/heygen-ai-video-generator-free/)
+
+* [HeyGen：AI创业，我们如何在7个月内达到100万美元收入｜Z Circle](https://mp.weixin.qq.com/s?__biz=MjM5NDk5MTA0MQ==&mid=2652318720&idx=1&sn=7cba20ec976fe46b0804cd0e6c7e8e5e&sharer_shareinfo=dd0e6f646cdf6d515f9039f37ad27ef4&sharer_shareinfo_first=cb10f561290435b6b00fd4829bd0c9ac#rd)
+
+
+
+
+
+### 18、Pictory
+
+官网地址：https://pictory.ai/
+
+产品特点：https://pictory.ai/all-features
+
+官网博客：https://pictory.ai/blog
+
+官方社交媒体账号：
+
+LinkedIn： [ Pictory: 简介 | LinkedIn](https://www.linkedin.com/company/pictory/)
+
+Youtube： [Pictory - YouTube](https://www.youtube.com/pictory)
+
+Twitter（X）：[pictory (@pictoryai) / X](https://twitter.com/pictoryai)
+
+Facebook：* [Pictory Facebook](https://www.facebook.com/profile.php?id=100083315262677)
+
+媒体资讯：
+
+* [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+* [10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+  * Pictory是一款AI视频生成器，可让您轻松创建和编辑高质量视频。 该工具最好的方面之一是您不需要任何视频编辑或设计经验。 
+
+    首先，您提供一个脚本或文章，它将作为您的视频内容的基础。 例如，Pictory 可以将您的博客文章变成引人入胜的视频，用于社交媒体或您的网站。 对于希望提高参与度和质量的个人博主和公司来说，这是一个很棒的功能。 由于它基于云，因此可以在任何计算机上运行。 
+
+    Pictory 还允许您使用文本轻松编辑视频，这非常适合编辑网络研讨会、播客、Zoom 录音等。 它使用简单，只需几分钟即可提供专业的结果，帮助您扩大受众群体并建立您的品牌。 
+
+    Pictory 的另一个强大功能是您可以创建可共享的视频精彩片段，这对于那些想要创建预告片或在社交媒体上共享短片的人来说非常有用。 除了这些强大的功能之外，您还可以自动为视频添加字幕并自动总结长视频。 
+
+    以下是 Pictory 的一些主要功能： 
+
+    - 基于文章或脚本的视频
+    - 使用文本编辑视频
+    - 创建可共享的视频精彩片段
+    - 自动为视频添加字幕和摘要
+
+* [Pictory Review (December 2023): The Best AI Video Generator? - Unite.AI](https://www.unite.ai/pictory-review/)
+
+* [Pictory Review（2023 年 XNUMX 月）：最好的 AI 视频生成器？ - 联合人工智能](https://www.unite.ai/zh-CN/%E5%9B%BE%E7%89%87%E8%AF%84%E8%AE%BA/)
+  * 简而言之： Pictory是轻松视频营销的终极解决方案！
+
+
+
+
 
 
 
@@ -1235,43 +1279,37 @@ Who are [Boolean vector BOOLV](https://www.crunchbase.com/organization/boolean-v
 
 
 
-
-
-
-
-
-
-Industry（所属行业）：
-
-Company Description（公司描述）：
-
-Website（官方网站）：
-
-Announced Date（公布融资消息的日期）：
-
-Number of Funding Rounds（融资轮数）：
-
-Funding amount：
-
-Crunchbase（CB数据库）：
-
-Official social media account（官方社交媒体账号）：
-
-
-
-来自Crunchbase（CB数据库）：
-
-
-
-
-
-
-
 ### Logging
+
+20231228 Jack Lee 今天目标推进500词，最终推进到了20492词
+
+今天根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+主要增加了Pictory
 
 20231227 Jack Lee 今天目标推进500词，最终推进到了19755词
 
 今天主要补充了pika公测的相关消息，还有根据网页 [AI视频工具 | AI工具集导航 ](https://ai-bot.cn/favorites/ai-video-tools/)在AI generated video tool中增加了HeyGen，发现优质信息源Unite.AI
+
+信息源介绍：
+
+Unite.AI：我们精心制作的时事通讯是为那些想要保持行业领先地位的颠覆性企业家、精明的投资者或商业专业人士编写的。 **Unite.AI 的人工智能业务**，具有最新的人工智能突破、新的机器学习方法，以及来自网络各个角落的必知见解。
+
+* [Meet the Team - Unite.AI](https://www.unite.ai/meet-the-team/)
+
+  * Unite.ai was designed to offer detailed analysis and news on the latest advancements in [machine learning](https://www.unite.ai/what-is-machine-learning/) and AI technology. We also want to be a platform to highlight new and upcoming AI companies who are unfortunately not getting the recognition that they deserve from the mainstream media.
+
+    In an effort to help UNITE the AI community, we are also offering access to the top [AI events](https://www.unite.ai/conferences/), [AI courses](https://www.unite.ai/courses/), and [AI newsletters](https://www.unite.ai/ai-newsletters/).
+
+* [认识团队 - Unite.AI](https://www.unite.ai/zh-CN/meet-the-team/)
+
+  * Unite.ai 旨在提供有关最新进展的详细分析和新闻 [机器学习](https://www.unite.ai/zh-CN/什么是机器学习/) 和人工智能技术。 我们还希望成为一个平台，以突出新兴和即将出现的人工智能公司，不幸的是，这些公司没有得到主流媒体应有的认可。
+
+    为了帮助团结 AI 社区，我们还提供接触顶尖人才的机会 [人工智能事件](https://www.unite.ai/zh-CN/会议/), [人工智能课程](https://www.unite.ai/zh-CN/课程/)及 [人工智能通讯](https://www.unite.ai/zh-CN/艾时事通讯/).
+
+![Unite AI](https://gitee.com/junhaoyu/work20221111/raw/master/img/202312281007531.jpg)
 
 20231226 Jack Lee 今天目标推进500词，最终推进到了18725词
 
