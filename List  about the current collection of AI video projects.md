@@ -87,7 +87,7 @@ User reviews 用户测评：
 
 Tips 温馨提示：
 
-1、小红书app 搜 Jessie_Ma(小红书号946999884），12月27日早上06:37 Jessie_Ma在小红书上发布消息 宣布 Pika1.0已全面开放：Pika的圣诞礼物是给大家全面开放1.0的Access啦！排队结束。
+1、小红书app 搜 Jessie_Ma(小红书号946999884），12月27日早上06:37 Jessie_Ma在小红书上发布消息 宣布 Pika1.0已全面开放：Pika的圣诞礼物是给大家全面开放1.0的Access啦！排队结束。 12月 28日12:11官方推特也再次发布了Pika 1.0 正式向所有人开放的消息
 
 ![1227pika全面开放](https://gitee.com/junhaoyu/work20221111/raw/master/img/202312270914102.jpeg)
 
@@ -1465,7 +1465,7 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 ### Logging
 
-20231228 Jack Lee 今天目标推进500词，最终推进到了21686词
+20231228 Jack Lee 今天目标推进500词，最终推进到了21715词
 
 今天根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
 
