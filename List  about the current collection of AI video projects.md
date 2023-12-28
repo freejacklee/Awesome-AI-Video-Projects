@@ -806,9 +806,10 @@ Date（日期）：2022年12月13日
 
 Summary（总结）：
 
-This URL link  above is to the Keras documentation for the Denoising Diffusion Probabilistic Model (DDPM), which is a generative model that can be used for image and video generation. The page provides an overview of the model and its architecture, as well as code examples for training and using the model.
-
-上面的 URL 链接是去噪扩散概率模型 (DDPM) 的 Keras 文档，DDPM 是一种可用于图像和视频生成的生成模型。该页面提供了模型及其架构的概述，以及用于训练和使用模型的代码示例。
+> This URL link  above is to the Keras documentation for the Denoising Diffusion Probabilistic Model (DDPM), which is a generative model that can be used for image and video generation. The page provides an overview of the model and its architecture, as well as code examples for training and using the model.
+>
+> 上面的 URL 链接是去噪扩散概率模型 (DDPM) 的 Keras 文档，DDPM 是一种可用于图像和视频生成的生成模型。该页面提供了模型及其架构的概述，以及用于训练和使用模型的代码示例。
+>
 
 
 
