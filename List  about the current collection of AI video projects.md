@@ -50,9 +50,9 @@ List  about the current collection of AI video projects
 
 ### 1、Pika
 
-Introducing （介绍）: Introducing Pika 1.0, the idea-to-video platform that brings your creativity to life. Create and edit your videos with AI 
+Introducing （介绍）: Introducing Pika 1.0, the idea-to-video platform that brings your creativity to life. Create and edit your videos with AI.
 
-隆重推出 Pika 1.0，这是一个将创意变为现实的创意视频平台。使用 AI 创建和编辑视频
+隆重推出 Pika 1.0，这是一个将创意变为现实的创意视频平台。使用 AI 创建和编辑视频。
 
 
 
@@ -183,9 +183,9 @@ Media information 媒体资讯：
 
 ### 2、Runway Gen-2
 
-Introducing （介绍）: A multimodal AI system that can generate novel videos with text, images or video clips 
+Introducing （介绍）: A multimodal AI system that can generate novel videos with text, images or video clips.
 
-多模态人工智能系统，可以生成带有文本、图像或视频剪辑的新颖视频
+多模态人工智能系统，可以生成带有文本、图像或视频剪辑的新颖视频。
 
 
 
@@ -271,9 +271,9 @@ Media information 媒体资讯：
 
 #### Runway Gen-1
 
-Introducing （介绍）: A New AI Model for Video Generation  
+Introducing （介绍）: A New AI Model for Video Generation.
 
-用于视频生成的新人工智能模型
+用于视频生成的新人工智能模型。
 
 
 
@@ -320,9 +320,9 @@ Gen-1 Explained（Gen-1 解释）：
 
 ### 3、WonderJourney
 
-Introducing （介绍）: A modularized framework for perpetual scene generation 
+Introducing （介绍）: A modularized framework for perpetual scene generation.
 
-一个用于永久场景生成的模块化框架
+一个用于永久场景生成的模块化框架。
 
 
 
@@ -375,9 +375,9 @@ Media information 媒体资讯：
 
 ### 4、Text-to-Video Tool（Create mini AI videos from text）
 
-Introducing （介绍）: A website that offers a text-to-video tool 
+Introducing （介绍）: A website that offers a text-to-video tool.
 
-一个提供文本转视频工具的网站
+一个提供文本转视频工具的网站。
 
 
 
@@ -537,7 +537,7 @@ Media information 媒体资讯：
 
 ### 7、微软的GAIA
 
-Introducing （介绍）: GAIA, which stands for Generative AI for Avatar, is a project that focuses on zero-shot talking avatar generation, It aims at synthesizing natural talking videos from speech and a single portrait image 
+Introducing （介绍）: GAIA, which stands for Generative AI for Avatar, is a project that focuses on zero-shot talking avatar generation, It aims at synthesizing natural talking videos from speech and a single portrait image. 
 
 GAIA代表Generative AI for Avatar，是一个专注于零镜头说话头像生成的项目。它旨在从语音和单个肖像图像中合成自然的说话视频。
 
@@ -610,9 +610,9 @@ Media information 媒体资讯：
 
 ### 8、GitHub - arpitbansal297/Universal-Guided-Diffusion
 
-Introducing （介绍）:  A GitHub repository for Universal Guided Diffusion
+Introducing （介绍）:  A GitHub repository for Universal Guided Diffusion.
 
-一个通用引导扩散的 GitHub 存储库
+一个通用引导扩散的 GitHub 存储库。
 
 
 
@@ -673,7 +673,7 @@ Media information 媒体资讯：
 
 Introducing （介绍）: A method for text-driven perpetual view generation, which synthesizes long-term videos of various scenes solely based on an input text prompt.
 
-一种文本驱动的永久视图生成方法，该方法仅根据输入的文本提示合成各种场景的长期视频
+一种文本驱动的永久视图生成方法，该方法仅根据输入的文本提示合成各种场景的长期视频。
 
 
 
@@ -722,9 +722,9 @@ text-driven, perpetual view generation, 3D consistency, mesh representation, vid
 
 ### 10、Scalable Adaptive Computation for Iterative Generation
 
-Introducing （介绍）: A neural net architecture 
+Introducing （介绍）: A neural net architecture.
 
-一种神经网络架构
+一种神经网络架构。
 
 
 
@@ -825,9 +825,9 @@ Keras、生成模型、DDPM、图像生成、视频生成
 
 ### 12、Elai.io - AI Video Generation Platform
 
-Introducing （介绍）: An automated AI video generation platform
+Introducing （介绍）: An automated AI video generation platform.
 
-一个自动化人工智能视频生成平台
+一个自动化人工智能视频生成平台。
 
 
 
@@ -893,9 +893,9 @@ Media information 媒体资讯：
 
 ### 13、Introducing a Practical Tool to Generate Images and Videos with AI
 
-Introducing （介绍）: A practical tool to generate images and videos with AI
+Introducing （介绍）: A practical tool to generate images and videos with AI.
 
-一个利用 AI 生成图像和视频的实用工具
+一个利用 AI 生成图像和视频的实用工具。
 
 
 
@@ -951,9 +951,9 @@ AI, image generation, video generation, machine learning
 
 ### 14、Phenaki: A Model for Generating Videos from Text
 
-Introducing （介绍）: A model capable of realistic video synthesis, given a sequence of textual prompts
+Introducing （介绍）: A model capable of realistic video synthesis, given a sequence of textual prompts.
 
-一种能够在给定一系列文本提示的情况下进行逼真视频合成的模型
+一种能够在给定一系列文本提示的情况下进行逼真视频合成的模型。
 
 
 
@@ -994,9 +994,9 @@ AI, video generation, natural language processing
 
 ### 15、Imagen Video: A New Text-Conditioned Video Diffusion Model
 
-Introducing （介绍）:  A New Text-Conditioned Video Diffusion Model 
+Introducing （介绍）:  A New Text-Conditioned Video Diffusion Model.
 
-一种新的文本条件视频扩散模型
+一种新的文本条件视频扩散模型。
 
 
 
@@ -1054,7 +1054,7 @@ Media information 媒体资讯：
 
 ### 16、李飞飞携斯坦福联袂谷歌，推出了用于生成逼真视频的扩散模型 W.A.L.T
 
-Introducing （介绍）: A Transformer-based diffusion model trained on image and video generation in a shared latent space
+Introducing （介绍）: A Transformer-based diffusion model trained on image and video generation in a shared latent space.
 
 一个在共享潜在空间中训练图像和视频生成的，基于 Transformer 的扩散模型。
 
@@ -1119,7 +1119,7 @@ Media information 媒体资讯：
 
 ### 17、HeyGen
 
-Introducing （介绍）: A unique video platform that uses generative artificial intelligence to create stunning, professional videos in minutes
+Introducing （介绍）: A unique video platform that uses generative artificial intelligence to create stunning, professional videos in minutes.
 
 一个独特的视频平台，它使用生成式人工智能在几分钟内创建令人惊叹的专业视频。
 
@@ -1183,7 +1183,7 @@ Media information 媒体资讯：
 
 ### 18、Pictory
 
-Introducing （介绍）: An AI video generator that enables you to easily create and edit high-quality videos. One of the best aspects of the tool is that you don’t need any experience in video editing or design. 
+Introducing （介绍）: An AI video generator that enables you to easily create and edit high-quality videos. One of the best aspects of the tool is that you don’t need any experience in video editing or design.
 
 一款AI视频生成器，可让您轻松创建和编辑高质量视频。 该工具最好的方面之一是您不需要任何视频编辑或设计经验。
 
@@ -1235,6 +1235,63 @@ Media information 媒体资讯：
 * [Pictory Review（2023 年 XNUMX 月）：最好的 AI 视频生成器？ - 联合人工智能](https://www.unite.ai/zh-CN/%E5%9B%BE%E7%89%87%E8%AF%84%E8%AE%BA/)
 
   * > 简而言之： Pictory是轻松视频营销的终极解决方案！
+
+
+
+
+
+### 19、Synthesys
+
+Introducing （介绍）: An AI-powered video generator with advanced technology to produce realistic and natural-sounding voiceovers using real human voices. Simply type the text, and Synthesys will use its [Text-to-Speech](https://www.unite.ai/best-text-to-speech-generators/) (TTS) technology to transform it into high-quality voiceovers.
+
+一款人工智能驱动的视频生成器，采用先进技术，可使用真人声音生成逼真、自然的配音。 只需键入文本，Synthesys 就会使用其 [文字转语音](https://www.unite.ai/zh-CN/最好的文本到语音生成器/) (TTS) 技术将其转化为高质量的配音。
+
+Website（官方网站）:  https://synthesys.io/
+
+Features（产品特点）：
+
+- https://synthesys.io/use-cases/
+- https://synthesys.io/ai-avatars/
+- https://synthesys.io/languages/
+
+Official blog（官方博客）：https://synthesys.io/blog/
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）：  [Synthesys AI Studio: 简介 | LinkedIn](https://www.linkedin.com/company/synthesys-studio/)
+
+Facebook（脸书）：  [Synthesys AI Studio | Facebook](https://www.facebook.com/groups/synthesysofficial)
+
+
+
+Media information 媒体资讯：
+
+* [Synthesys Review: The Best AI Video Generator? (December 2023)](https://www.unite.ai/synthesys-review/)
+
+* [Synthesys 评论：最好的人工智能视频生成器？ （2023 年 XNUMX 月）](https://www.unite.ai/zh-CN/%E7%BB%BC%E5%90%88%E8%AF%84%E8%AE%BA/)
+
+  > * 这个强大的工具拥有一个庞大的库，包含 300 种语言的 140 多种语音。 您可以通过选择情绪（例如快乐、愤怒或悲伤）并调整音调、强调和停顿来完全根据您的喜好自定义声音。
+  >
+  >   使用 Synthesys 的文本转视频 (TTV) 技术，从 80 多个化身中进行选择，对您键入的内容进行口型同步。 还有超过 50 个模板可以匹配您的品牌，并通过添加字幕、图像、文本、形状等进行视觉定制。
+  >
+  >   除了令人印象深刻的语音生成功能外，Synthesys 还提供 AI 图像生成器，该生成器使用算法根据文本输入生成逼真的图像。 此功能使您可以通过创建概念的视觉表示来将您的想法变为现实，而无需图形设计技能或昂贵的软件。
+  >
+  >   Synthesys 非常适合创建所有类型的视频内容，包括销售视频、操作指南、社交媒体帖子、电视广告、播客等。 如果您想节省时间和金钱，或者羞于上镜，Synthesys 是完美的解决方案。
+  >
+  >   让我们仔细看看 Synthesys 提供的主要功能并亲自测试它们。
+  >
+  >   Synthesys 主要特性
+  >   以下是我亲自测试和使用过的 Synthesys 的最新功能：
+  >
+  >   人工智能语音生成器
+  >   人工智能视频生成器
+  >   人工智能图像生成器
+  >
+  > * 总的来说，我对 Synthesys 的 AI 图像生成器的体验非常好，结果给我留下了深刻的印象！ 界面干净且易于导航，生成图像轻而易举。
+
+
 
 
 
@@ -1464,6 +1521,14 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ### Logging
+
+20231229 Jack Lee 今天目标推进500词，最终推进到了22492词
+
+今天继续根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+主要增加了Synthesys 
 
 20231228 Jack Lee 今天目标推进500词，最终推进到了21715词
 
