@@ -1355,6 +1355,66 @@ Media information 媒体资讯：
 
 
 
+### 21、[DeepBrain AI](https://www.unite.ai/goto/deepbrain) 
+
+Introducing （介绍）:  An innovative technology company specializing in AI-driven video synthesis solutions. They offer a cloud-based platform that enables users to quickly and efficiently generate realistic AI avatar videos, including ChatGPT-powered content.
+
+一家专注于人工智能驱动的视频合成解决方案的创新科技公司。 他们提供了一个基于云的平台，使用户能够快速有效地生成逼真的人工智能头像视频，包括 ChatGPT 支持的内容。
+
+Website（官方网站）:  https://www.deepbrain.io/
+
+Features（产品特点）：
+
+- [AI Avatar Video Generator | AI STUDIOS](https://www.deepbrain.io/aistudios)
+- [Free AI Video Generator | Create AI Video from text](https://www.deepbrain.io/features/ai-video-generator)
+- [Best AI Video Editor | Easy Create, Simple Edit with AI](https://www.deepbrain.io/features/ai-video-editor)
+- [Create AI Avatar | Custom Realistic avatar](https://www.deepbrain.io/features/create-avatar)
+- [Text to Video in Minutes](https://www.deepbrain.io/features/text-to-video)
+- [Text to Speech | Using AI to make it instantly Online](https://www.deepbrain.io/features/text-to-speech)
+- [PPT to Video | Convert it instantly Using AI](https://www.deepbrain.io/features/powerpoint-to-video)
+- [ChatGPT Video Generator | Create AI Video in Minutes](https://www.deepbrain.io/features/chatgpt)
+- [Deepbrain AI | Unlock the Power of Deepfake Creation with a 'One-Click' Subtitle Generator](https://www.deepbrain.io/post/unlock-the-power-of-deepfake-creation-with-a-one-click-subtitle-generator)
+
+* [Face swap](https://www.deepbrain.io/features/face-swap)
+
+Official blog（官方博客）：https://www.deepbrain.io/blog
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）：[DeepBrain AI: 简介 | LinkedIn](https://www.linkedin.com/company/deepbrain-global/)
+
+Tiktok（短视频抖音） ：[AI Generator In Life (@ai\_in\_life) | TikTok](https://www.tiktok.com/@ai_in_life)
+
+Youtube（油管）：[DEEPBRAIN AI - AI for Human Life - YouTube](https://www.youtube.com/channel/UCgK6WBvIGtWqf5wA-meT8nQ)
+
+Twitter（X）（推特）：[DeepBrain AI (@DeepBrain\_ai) / X](https://twitter.com/deepbrain_ai)
+
+Facebook（脸书）：  [DeepBrain AI Facebook](https://www.facebook.com/DeepbrainAIGlobal)
+
+Instagram（ins)： [DEEPBRAIN\_AI (@deepbrain\_ai) · Instagram 照片和视频](https://www.instagram.com/deepbrain_ai/)
+
+
+
+Media information 媒体资讯：
+
+* [DeepBrain AI Review: The Best AI Avatar Generator? (2023)](https://www.unite.ai/deepbrain-ai-review/)
+
+* [DeepBrain AI 评论：最好的 AI 头像生成器？ (2023)](https://www.unite.ai/zh-CN/%E6%B7%B1%E8%84%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AF%84%E8%AE%BA/)
+
+  > * 可以从 100 多个由真人开发的头像中进行选择，他们会说 80 多种语言，涵盖不同的种族和年龄。 这意味着您的人工智能头像将与您的品牌形象完美契合。 您可以生成所有类型的内容，从教育材料到培训视频等等。
+  >
+  >   该平台使企业和个人能够创建超现实、可定制的视频，而无需传统的视频制作资源或大量的摄像工作，使其成为内容创建和营销的宝贵工具。
+  >
+  > * DeepBrain AI 提供尖端的人工智能头像生成器，彻底改变您的营销工作。 凭借其逼真的 AI 头像以及与 ChatGPT 的集成，您无需昂贵的设备或专业模型即可创建引人入胜的内容。 这是为视频添加个性化的完美解决方案，特别是当您不敢拍照时，ChatGPT 集成将为您节省大量编写脚本的时间，并帮助您解决编写障碍。
+  >
+  >   DeepBrain AI 是一种节省时间、经济高效的解决方案，可帮助您在数字领域脱颖而出。 此外，它的界面简单易用，这意味着任何人都可以创建专业的人工智能视频。
+
+
+
+
+
 
 
 
@@ -1580,7 +1640,17 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 
+
+
 ### Logging
+
+20231231 Jack Lee 今天目标推进500词，最终推进到了24481词
+
+今天继续根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+主要增加了DeepBrain AI
 
 20231230 Jack Lee 今天目标推进500词，最终推进到了23654词
 
