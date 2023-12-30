@@ -1295,6 +1295,66 @@ Media information 媒体资讯：
 
 
 
+### 20、Synthesia
+
+Introducing （介绍）:  An AI video generation platform that enables you to quickly create videos with AI avatars. The platform includes over 60 languages and various templates, a screen recorder, a media library, and much more.
+
+一个 AI 视频生成平台，可让您快速创建带有 AI 头像的视频。 该平台包括 60 多种语言和各种模板、屏幕录像机、媒体库等等。
+
+Website（官方网站）:  https://www.synthesia.io/
+
+Features（产品特点）：https://www.synthesia.io/features
+
+Official blog（官方博客）：https://www.synthesia.io/blog
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）：[Synthesia: 简介 | LinkedIn](https://www.linkedin.com/company/synthesia-technologies/)
+
+Youtube（油管）： [Synthesia - YouTube](https://www.youtube.com/channel/UC0Rqs6pyPoGaMT5HFMFdslg)
+
+Twitter（X）（推特）： [Synthesia (@synthesiaIO) / X](https://twitter.com/synthesiaio?lang=en)
+
+
+
+Media information 媒体资讯：
+
+* [Synthesia Review: The #1 AI Video Generator in December 2023? - Unite.AI](https://www.unite.ai/synthesia-review/)
+
+* [Synthesia 评论：1 年 2023 月排名第一的人工智能视频生成器？ - 联合人工智能](https://www.unite.ai/zh-CN/%E7%BB%BC%E5%90%88%E8%AF%84%E8%AE%BA-a/)
+
+  > * [Synthesia](https://www.unite.ai/zh-CN/转到/综合性)[ AI](https://www.unite.ai/zh-CN/转到/综合性)于2017年成立 [维克多·里帕贝利（Victor Riparbelli）](https://www.linkedin.com/in/victorriparbelli/) 以及一群来自知名机构的人工智能研究人员和企业家，使个人能够在不需要相机、麦克风或工作室的情况下创建专业品质的视频内容。
+  >
+  >   综合结合 [生成式人工智能](https://www.unite.ai/zh-CN/什么是生成式人工智能/)、配音和编辑来创建高质量的培训视频。 它提供了一系列功能，例如人工智能头像和 [声音](https://www.unite.ai/zh-CN/人工智能语音发生器/), [文字转语音](https://www.unite.ai/zh-CN/最好的文本到语音生成器/)，以及人工智能脚本助手，可简化视频创建过程。
+  >
+  >   你也可以 [定制AI头像](https://www.synthesia.io/features/custom-avatar) 看起来和听起来像您一样，并访问包含超过 65 个专业视频模板的庞大库。
+  >
+  >   其快速生成 AI 头像视频的能力使 Synthesia 有别于传统的视频创作方法。 有超过 150 个人工智能头像可供选择，讲 120 多种语言，内容创作者可以自定义他们的视频以匹配他们的品牌和信息。
+  >
+  > * 我们一直在等待的问题是：Synthesia 是否名副其实，是最好的人工智能视频生成器？
+  >
+  >   在测试了多个 AI 视频生成器之后，我可以诚实地说 Synthesia 是最好的 AI 视频生成器之一。 很难明确地说它是最好的整体，因为这是主观的并且取决于个人意见和具体情况。
+  >
+  >   我可以自信地说，在视频质量和人工智能语音方面，Synthesia 是名列前茅的。 这些模板也干净且专业，与其他视频生成器不同。
+  >
+  >   在我尝试过的任何其他人工智能视频生成器中，我也最喜欢 Synthesia 界面。 它干净且易于导航，而且界面看起来不错。 没有其他方法可以描述它。
+  >
+  >   Synthesia 与大多数 AI 视频生成器的区别之一是生成 AI 视频的速度和简单性。 给它一个主题和目标人群，几秒钟之内，您就会拥有一个包含所有场景、脚本和头像的完整视频，您可以根据需要进行编辑。
+  >
+  >   我以前从未见过的另一个功能是可以应用于人工智能头像的手势（点头/扬眉）。 这增加了我在任何其他视频生成器中从未见过的真实感，令人难以置信的是，这些微妙的手势如何使头像变得生动起来。
+  >
+  >   总的来说，Synthesia 为人工智能生成的视频提供了强大的解决方案，对于那些想要创建高质量培训视频和其他类型内容的人来说值得考虑！
+  >
+  > * Synthesia有什么缺点？
+  >
+  >   Synthesia 是一款令人难以置信的人工智能视频生成器。 然而，我发现的主要缺点之一是您无法在生成视频之前预览手势。 此外，尽管有手势，但与真人制作的视频相比，仍然缺乏情感深度和个人联系。
+
+
+
+
+
 
 
 
@@ -1521,6 +1581,14 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ### Logging
+
+20231230 Jack Lee 今天目标推进500词，最终推进到了23654词
+
+今天继续根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+主要增加了Synthesia 
 
 20231229 Jack Lee 今天目标推进500词，最终推进到了22492词
 
