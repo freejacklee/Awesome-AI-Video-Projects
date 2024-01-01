@@ -16,11 +16,15 @@
 
 
 
+
+
 ## 提交内容：List  about the current collection of AI video projects.md
 
 This is an awesome GitHub list of information about the current collection of AI video projects
 
 List  about the current collection of AI video projects
+
+
 
 
 
@@ -41,6 +45,8 @@ List  about the current collection of AI video projects
   * > Video 视频
     > * Generative AI trained on annotated video can generate temporally-coherent video clips. Examples include Gen-1 and Gen-2 by [Runway](https://en.wikipedia.org/wiki/Runway_(company))[[44\]](https://en.wikipedia.org/wiki/Generative_artificial_intelligence#cite_note-44) and Make-A-Video by Meta Platforms.[[45\]](https://en.wikipedia.org/wiki/Generative_artificial_intelligence#cite_note-45)
     >   经过带注释视频训练的生成式人工智能可以生成时间连贯的视频剪辑。示例包括 Runway [[44\]](https://en.wikipedia.org/wiki/Generative_artificial_intelligence#cite_note-44) 的 Gen-1 和 Gen-2 以及 Meta Platforms 的 Make-A-Video。 [[45\]](https://en.wikipedia.org/wiki/Generative_artificial_intelligence#cite_note-45)
+
+
 
 
 
@@ -1415,6 +1421,66 @@ Media information 媒体资讯：
 
 
 
+### 22、InVideo
+
+Introducing （介绍）:  [InVideo](https://www.unite.ai/goto/invideo) is among the best AI video generators to generate high-quality videos quickly and easily. It's a revolutionary tool for executing [social media](https://www.unite.ai/10-best-ai-tools-for-social-media/) content strategies, [business](https://www.unite.ai/best-ai-tools-for-business/) video marketing, and more.
+
+最好的人工智能视频生成器之一，可以快速轻松地生成高质量视频。 这是一个革命性的执行工具 [社会化媒体](https://www.unite.ai/zh-CN/10-个最佳社交媒体人工智能工具/) 内容策略， [商业](https://www.unite.ai/zh-CN/最佳商业人工智能工具/) 视频营销等等。。
+
+Website（官方网站）:  https://invideo.io/
+
+Tutorials（产品教程）：https://help.invideo.io/
+
+Official blog（官方博客）：https://invideo.io/blog/
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）：[invideo: 简介 | LinkedIn](https://www.linkedin.com/company/invideoio/)
+
+Youtube（油管）：[InVideo For Content Creators - YouTube](https://www.youtube.com/channel/UCgxMiiBKk-xYskc2KNLiBTg)
+
+Twitter（X）（推特）： [invideo (@invideoOfficial) / X](https://twitter.com/InVideoOfficial)
+
+Pinterest（缤趣）：[Pinterest](https://in.pinterest.com/InVideo_Official/?eq=invideo_off&etslf=8499)
+
+Instagram（ins)：[invideo (@invideo.io) · Instagram 照片和视频](https://www.instagram.com/invideo.io/)
+
+Facebook（脸书）： [Facebook](https://www.facebook.com/invideo.io/)
+
+
+
+Media information 媒体资讯：
+
+* [InVideo Review: The Best AI Video Generator in December 2023?](https://www.unite.ai/invideo-review/)
+
+* [InVideo评测：2023年XNUMX月最好的AI视频生成器？](https://www.unite.ai/zh-CN/%E8%A7%86%E9%A2%91%E8%AF%84%E8%AE%BA/)
+
+  > * [InVideo](https://www.unite.ai/zh-CN/转到/影片内) 是最好的人工智能视频生成器之一，可以快速轻松地生成高质量视频。 这是一个革命性的执行工具 [社会化媒体](https://www.unite.ai/zh-CN/10-个最佳社交媒体人工智能工具/) 内容策略， [商业](https://www.unite.ai/zh-CN/最佳商业人工智能工具/) 视频营销等等。
+  >
+  >   您所要做的就是编写描述性提示，InVideo 的人工智能将生成 YouTube 解释视频和短片。 从那里，InVideo 强大的编辑功能允许您自定义视频的各个方面，从使用文本提示交换场景到调整脚本。 您还可以从 5,000 多个模板中进行选择，作为视频的起点，这些视频可以以任何适合社交媒体的格式使用。
+  >
+  >   InVideo 还附带 [AI幻灯片制作者](https://www.unite.ai/zh-CN/最佳人工智能演示生成器/)，人工智能说话的化身，一个 [AI脚本生成器](https://www.unite.ai/zh-CN/最好的人工智能写作工具/)和一个 [人工智能语音生成器](https://www.unite.ai/zh-CN/语音发生器-a/)等功能。 此外，您还可以访问超过 16 万个免版税素材库，因此您永远不必担心版权问题。
+  >
+  > * InVideo 因其卓越的功能和用户友好的界面而成为顶级人工智能视频生成器之一。 从 YouTube 视频编辑器到 AI 语音生成器，InVideo 提供了许多工具，使视频创作变得轻松高效。 无论您是内容创作者、营销人员还是企业主，InVideo 都能为您提供帮助。
+  >
+  >   从我开始使用 InVideo 的 AI 视频生成器的那一刻起，创建帐户并立即生成视频的简单性给我留下了深刻的印象。
+  >
+  >   InVideo 与众不同的一项显着功能是其大量素材库。 凭借超过 16 万个高度相关的选项，为我的视频项目找到完美的剪辑变得轻而易举。
+  >
+  >   视频生成后，我对素材片段与人工智能配音的匹配程度感到惊讶。 说到人工智能配音，听起来很现实，也正是我想要的。
+  >
+  >   在编辑方面，我喜欢可以轻松地更换素材并编辑脚本。 我甚至可以用文本编辑视频，这增加了我的工作流程！
+  >
+  >   将人工智能生产力工具 InVideo 融入您的工作流程可以显着增强您的内容创建过程。 该平台提供了广泛的功能，使任何行业的创作者都可以轻松高效地进行视频制作，以便立即为任何社交媒体平台生成视频。
+  >
+  >   如果您正在寻找一款兼具易用性和强大功能的 AI 视频生成器，InVideo 是您的完美选择。 今天就尝试一下，以前所未有的方式释放您的创造力。
+
+
+
+
+
 
 
 
@@ -1585,7 +1651,7 @@ Crunchbase（CB数据库）： [Boolean vector BOOLV - Crunchbase Company Profil
 
 Official social media account（官方社交媒体账号）：
 
-Twitter （X) (推特）： [Boolv Tech (@boolvtech) / X](https://twitter.com/boolvtech)
+Twitter（X）（推特）： [Boolv Tech (@boolvtech) / X](https://twitter.com/boolvtech)
 
 YouTube（油管）:  [Boolvideo For Content Creator - YouTube](https://www.youtube.com/channel/UCSPT_tV0QfnGsC4KFSVDSkw)
 
@@ -1642,7 +1708,15 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 
-### Logging
+## Logging
+
+20240101 Jack Lee 今天目标推进500词，最终推进到了25618词
+
+今天继续根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+主要增加了InVideo
 
 20231231 Jack Lee 今天目标推进500词，最终推进到了24481词
 
