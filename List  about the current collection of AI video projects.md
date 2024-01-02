@@ -1515,6 +1515,9 @@ Media information 媒体资讯：
 
 * [Veed review | TechRadar](https://www.techradar.com/reviews/veed-review)
 
+  > * Veed 是一个非常好的在线视频制作服务 - 只要您不尝试上传自己的媒体。您可以访问数百万个库存媒体文件，提供功能强大的工具、优雅且易于使用的界面、大量灵活的模板以及慷慨的免费帐户。
+  > * 即使是免费帐户也提供了大量可供使用的模板 
+  > * 界面布局干净，与许多视频制作者相似
   > * Veed 的绿屏工具功能惊人
   > * **精心设计的工具的绝佳选择，特别是考虑到很多都是免费的** 
   >
@@ -1525,6 +1528,8 @@ Media information 媒体资讯：
   >   更高级的功能（例如同时录制屏幕、网络摄像头或同时录制两者）变得异常简单。只需确保您在出现提示时授予该网页访问这些功能的权限，一切都会按预期进行。考虑到需要控制的参数很少，即使是一些潜在复杂的[视觉特效工具（例如绿屏抠像）也非常有效。](https://www.techradar.com/best/best-vfx-software)
   >
   >   这里有这么多好处，但我们对过渡数量较少感到有些失望，而且事实上你似乎无法改变它们的长度，或者与它们有关的任何东西。不过，对于设计精良、响应迅速且易于使用的服务来说，这只是一个小问题。
+  >   
+  > * Veed 为您提供多种格式
   >
 
 
@@ -1778,7 +1783,7 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 ## Logging
 
-20240102 Jack Lee 今天目标推进500词，最终推进到了26670词
+20240102 Jack Lee 今天目标推进500词，最终推进到了26796词
 
 今天继续根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
 
