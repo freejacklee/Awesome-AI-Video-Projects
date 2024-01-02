@@ -541,6 +541,8 @@ Media information 媒体资讯：
 
 
 
+
+
 ### 7、微软的GAIA
 
 Introducing （介绍）: GAIA, which stands for Generative AI for Avatar, is a project that focuses on zero-shot talking avatar generation, It aims at synthesizing natural talking videos from speech and a single portrait image. 
@@ -611,6 +613,8 @@ Media information 媒体资讯：
   * > 高品质人工智能生成的头像来了！
     >
     > GAIA 可以从单个肖像图像和语音片段生成会说话的化身。它甚至支持“悲伤”、“张开嘴”或“惊讶”等文字提示来指导视频生成。疯狂的时代即将来临
+
+
 
 
 
@@ -1481,6 +1485,58 @@ Media information 媒体资讯：
 
 
 
+### 23、VEED
+
+Introducing （介绍）:  VEED, which makes it easy for anyone with basic computer skills to generate high-quality video. You can create unique videos by customizing text, fonts, colors, music, and much more. The platform also offers different themes so you can convey certain messages through the videos. 
+
+VEED，它使任何具有基本计算机技能的人都可以轻松生成高质量视频。 您可以通过自定义文本、字体、颜色、音乐等来创建独特的视频。 该平台还提供不同的主题，以便您可以通过视频传达某些信息。
+
+Website（官方网站）:  https://www.veed.io/
+
+Products（产品）：https://www.veed.io/tools
+
+Official blog（官方博客）：https://www.veed.io/blog
+
+
+
+Official social media account（官方社交媒体账号）：
+
+Tiktok（短视频抖音） ： [VEED.IO | AI Video Editor (@veedstudio) | TikTok](https://www.tiktok.com/@veedstudio)
+
+Instagram（ins)： [VEED | AI Video Editor (@veedstudio) · Instagram 照片和视频](https://www.instagram.com/veedstudio/)
+
+Youtube（油管）：  [VEED STUDIO - YouTube](https://www.youtube.com/veedstudio)
+
+Twitter（X）（推特）：  [VEED.IO | AI Video Editor (@veedstudio) / X](https://twitter.com/veedstudio)
+
+
+
+Media information 媒体资讯：
+
+* [Veed review | TechRadar](https://www.techradar.com/reviews/veed-review)
+
+  > * Veed 的绿屏工具功能惊人
+  > * **精心设计的工具的绝佳选择，特别是考虑到很多都是免费的** 
+  >
+  > 单击要使用的元素后，它通常会添加到播放头或视频的开头。但是，可以轻松地将其拖动到时间轴上的另一个位置。这同样适用于修剪素材：只需抓住剪辑的边缘并将其向内拖动即可。 
+  >
+  > 时间轴给我们留下了深刻的印象 - 它非常先进，允许您使用多个图层，并自动删除空图层以保持项目紧凑且易于导航。要进行更深入的自定义，请单击“检查器”部分的剪辑以显示所有可更改的参数。同样，一切都很容易浏览并进行您需要的更改。
+  >
+  > 更高级的功能（例如同时录制屏幕、网络摄像头或同时录制两者）变得异常简单。只需确保您在出现提示时授予该网页访问这些功能的权限，一切都会按预期进行。考虑到需要控制的参数很少，即使是一些潜在复杂的[视觉特效工具（例如绿屏抠像）也非常有效。](https://www.techradar.com/best/best-vfx-software)
+  >
+  > 这里有这么多好处，但我们对过渡数量较少感到有些失望，而且事实上你似乎无法改变它们的长度，或者与它们有关的任何东西。不过，对于设计精良、响应迅速且易于使用的服务来说，这只是一个小问题。
+
+* [Veed.io 评论 (2023)：浏览器中视频编辑的未来 | 很棒的软件](https://www.greatsoftware.io/review/veed-io)
+
+  > * Veed.io 是一款用户友好、全面且易于访问的在线视频编辑工具。凭借其时尚、整洁的仪表板，它简化了视频编辑，适合初学者和经验丰富的用户。它提供了一系列令人印象深刻的功能，包括字幕、裁剪和自定义品牌，所有这些都旨在创建精美、专业的视频。
+  > * Veed.io 的免费计划是另一个显着优势，它为刚刚起步或预算紧张的用户提供了一系列可靠的功能。
+  > * 然而，与任何工具一样，Veed.io 也有其缺点。它的简单性虽然对许多人来说是优点，但对于那些寻求更高级编辑工具的人来说也可能是缺点。
+  > * 总的来说，Veed.io 是一个强大的工具，因其简单性和用户友好的设计而具有很多功能。它特别适合寻求易于使用、基于浏览器的视频编辑工具的个人和团队。
+
+
+
+
+
 
 
 
@@ -1709,6 +1765,14 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240102 Jack Lee 今天目标推进500词，最终推进到了26658词
+
+今天继续根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+主要增加了VEED
 
 20240101 Jack Lee 今天目标推进500词，最终推进到了25618词
 
