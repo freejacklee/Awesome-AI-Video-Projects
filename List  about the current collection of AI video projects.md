@@ -1213,7 +1213,7 @@ LinkedIn（领英）： [ Pictory: 简介 | LinkedIn](https://www.linkedin.com/c
 
 Youtube（油管）： [Pictory - YouTube](https://www.youtube.com/pictory)
 
-Twitter（X）（推特）：[pictory (@pictoryai) / X](https://twitter.com/pictoryai)
+Twitter（X）（推特）：[Pictory (@pictoryai) / X](https://twitter.com/pictoryai)
 
 Facebook（脸书）： [Pictory Facebook](https://www.facebook.com/profile.php?id=100083315262677)
 
@@ -1441,17 +1441,17 @@ Official blog（官方博客）：https://invideo.io/blog/
 
 Official social media account（官方社交媒体账号）：
 
-LinkedIn（领英）：[invideo: 简介 | LinkedIn](https://www.linkedin.com/company/invideoio/)
+LinkedIn（领英）：[Invideo: 简介 | LinkedIn](https://www.linkedin.com/company/invideoio/)
 
 Youtube（油管）：[InVideo For Content Creators - YouTube](https://www.youtube.com/channel/UCgxMiiBKk-xYskc2KNLiBTg)
 
-Twitter（X）（推特）： [invideo (@invideoOfficial) / X](https://twitter.com/InVideoOfficial)
+Twitter（X）（推特）： [Invideo (@invideoOfficial) / X](https://twitter.com/InVideoOfficial)
 
-Pinterest（缤趣）：[Pinterest](https://in.pinterest.com/InVideo_Official/?eq=invideo_off&etslf=8499)
+Pinterest（缤趣）：[Invideo Pinterest](https://in.pinterest.com/InVideo_Official/?eq=invideo_off&etslf=8499)
 
-Instagram（ins)：[invideo (@invideo.io) · Instagram 照片和视频](https://www.instagram.com/invideo.io/)
+Instagram（ins)：[Invideo (@invideo.io) · Instagram 照片和视频](https://www.instagram.com/invideo.io/)
 
-Facebook（脸书）： [Facebook](https://www.facebook.com/invideo.io/)
+Facebook（脸书）： [Invideo Facebook](https://www.facebook.com/invideo.io/)
 
 
 
@@ -1547,6 +1547,85 @@ Media information 媒体资讯：
     > 不同的主题
     > 一键转录视频
     > 无需视频编辑经验
+
+
+
+
+
+### 24、Fliki
+
+Introducing （介绍）:  Fliki makes creating videos as simple as writing with its script based editor. Create videos with lifelike voiceovers in minutes, powered using AI. Fliki also features over 2000 realistic Text-to-Speech voices across 75+ languages.
+
+Fliki stands out from other tools because they combine text to video AI and text to speech AI capabilities to give you an all in one platform for your content creation needs.
+
+Fliki 使创建视频就像使用基于脚本的编辑器编写一样简单。 使用 AI 技术，只需几分钟即可创建具有逼真配音的视频。 Fliki 还提供超过 2000 种语言的 75 多种逼真的文本转语音语音。
+
+Fliki 从其他工具中脱颖而出，因为它们结合了文本到视频 AI 和文本到语音 AI 功能，为您提供一个满足您的内容创建需求的一体化平台。
+
+Website（官方网站）:  https://fliki.ai/
+
+Features（产品特点）：https://fliki.ai/features
+
+Tutorials（产品教程）：https://fliki.ai/tutorials
+
+Official blog（官方博客）：https://fliki.ai/blog
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）：[Fliki: 简介 | LinkedIn](https://www.linkedin.com/company/fliki/)
+
+Youtube（油管）：[Fliki - YouTube](https://www.youtube.com/channel/UCvYIu_hanlO9KeuiTsAryCA/videos)
+
+Twitter（X）（推特）：[Fliki (@fliki\_ai) / X](https://twitter.com/fliki_ai)
+
+Instagram（ins)：[Fliki (@fliki) · Instagram 照片和视频](https://www.instagram.com/fliki)
+
+Facebook（脸书）：[Flliki Facebook](https://www.facebook.com/flikiai)
+
+Community（社区）：https://www.facebook.com/groups/flikiai
+
+
+
+Media information 媒体资讯：
+
+* [Fliki Ai Review : Pro Or Cons 2023 New Updated](https://aistoryland.com/fliki-ai/)
+
+  > * 总而言之，**Fliki Ai**被证明是一种有效且富有创意的内容创建解决方案，它利用人工智能将文本轻松转换为引人入胜的视频和逼真的口头故事情节。凭借其用户友好的界面、各种模板和自定义选项，Fliki 可以满足从营销内容和社交媒体帖子到教学材料等各种内容需求。
+  >
+  >   由于该平台在自动化创建过程方面具有多功能性和高效性，因此用户可以提供引人入胜的演示文稿，同时节省时间和金钱。潜在用户应了解学习曲线、对互联网连接的依赖以及有关语音选项和高级编辑功能的一些限制。最后，Fliki 是一个引人注目的工具，对于那些寻求创造性和有效的内容创建方法的人来说，它在用户定制和人工智能驱动的自动化之间取得了平衡。
+  >
+  > * ##### Fliki Ai 常见问题解答
+  >
+  >   ##### **Fliki是什么？**
+  >
+  >   这是一款专门为高效内容创建而设计的人工智能驱动工具。其主要功能包括通过文本转视频和文本转语音功能将文本转换为引人入胜的视频和听起来自然的语音。
+  >
+  >   ##### **Fliki 是如何运作的？**
+  >
+  >   采用先进的人工智能算法来分析和解释书面内容，将其转化为具有适当视觉效果、过渡和动画的视觉吸引力视频。同时，它将文本转换为听起来自然的语音，为内容创作者提供全面的解决方案。
+  >
+  >   ##### **Fliki 提供哪些定制选项？**
+  >
+  >   它们为用户提供了一系列定制选项，包括多样化的模板、样式和语音选项。用户可以实时个性化他们的内容，根据他们的特定喜好和受众的需求进行定制。
+  >
+  >   ##### **Fliki 可以用于不同类型的内容吗？**
+  >
+  >   是的，这是多功能的，适合各种内容类型。无论您是在创建教育材料、营销内容还是社交媒体帖子，Fliki 都致力于成为满足多样化内容创建需求的灵活工具。
+  >
+  >   ##### **Fliki 对用户友好吗？**
+  >
+  >   它采用用户友好的界面设计，以确保广大用户的可访问性。然而，与任何工具一样，可能存在学习曲线，用户可以探索 Fliki 提供的教程或文档，以最大限度地发挥其潜力。
+
+* [10 个“最佳”AI 视频生成器（2024 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+  * > 您可以为各种用例创建视频。 这包括生成教育视频、解释、产品演示、社交媒体内容、YouTube 视频、Tiktok Reels 和视频广告。
+    >
+    > - 使用文字将提示变成视频
+    > - 2000 种逼真的文本转语音声音
+    > - 75 +语言
+    > - 无需视频编辑经验
 
 
 
@@ -1782,6 +1861,14 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240103 Jack Lee 今天目标推进500词，最终推进到了28021词
+
+今天继续根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+主要增加了Fliki
 
 20240102 Jack Lee 今天目标推进500词，最终推进到了26796词
 
