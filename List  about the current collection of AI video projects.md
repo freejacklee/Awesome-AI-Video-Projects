@@ -1,5 +1,3 @@
-
-
 ## Awesome清单链接 ：[Awesome-AI-Video-Projects/List about the current collection of AI video projects.md at main · freejacklee/Awesome-AI-Video-Projects](https://github.com/freejacklee/Awesome-AI-Video-Projects/blob/main/List%20%20about%20the%20current%20collection%20of%20AI%20video%20projects.md)
 
 * [Awesome-AI-Video-Projects/List about the current collection of AI video projects.md at main · freejacklee/Awesome-AI-Video-Projects] https://github.com/freejacklee/Awesome-AI-Video-Projects/blob/main/List%20%20about%20the%20current%20collection%20of%20AI%20video%20projects.md
@@ -11,8 +9,6 @@
 ## 仓库地址：freejacklee/Awesome-AI-Video-Projects: This is an awesome GitHub list of information about the current collection of AI video projects
 
 * [freejacklee/Awesome-AI-Video-Projects: This is an awesome GitHub list of information about the current collection of AI video projects] https://github.com/freejacklee/Awesome-AI-Video-Projects
-
-
 
 
 
