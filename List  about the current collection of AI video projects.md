@@ -1138,6 +1138,77 @@ Features（产品特点）：HeyGen是一个AI视频创建平台，帮助你用�
 
 HeyGen 的特点是它可以使用 AI 头像来作为视频的演讲者，你可以从它的库中选择或者上传你自己的面部和声音来创建个性化的视频。
 
+- Instant Avatar：[Instant Avatar](https://www.heygen.com/instant-avatar)
+
+  - > 创建您的数字孪生
+    >
+    > ###### HeyGen 即时头像
+    >
+    > 利用人工智能 (AI) 的力量，HeyGen 允许您创建超现实的化身，反映您的外貌并模仿您的言语。
+    > 只需5 分钟，您的个性化即时头像就会准备好迎接您。
+
+- Studio Avatar：[Studio Avatar](https://www.heygen.com/studio-avatar)
+
+  - > 让您的数字孪生充满活力
+    >
+    > ###### HeyGen 工作室头像
+    >
+    > 准备好踏入 HeyGen Studio Avatar 的无限可能世界 - 您的高品质替代镜头！探索下面 HeyGen Studio Avatar 的潜力，解锁视觉表现的新水平！[在HeyGen 企业计划](https://am8evw00qys.typeform.com/enterprisecall?sid=no_sid&typeform-source=www.heygen.com)中可用
+
+- Video Translate：[Video Translate](https://www.heygen.com/video-translate)
+
+  - > ###### HeyGen 视频翻译
+    >
+    > 是时候见证您的内容走向全球了。
+
+- Voice Cloning：[Voice Cloning for HeyGen Custom Avatars ｜ HeyGen](https://www.heygen.com/voice-cloning)
+
+  - > ###### HeyGen 自定义头像的语音克隆 
+    >
+    > 用您自己的声音释放您的自定义头像的全部潜力！
+
+- Photo Avatar：[Talking Photo – HeyGen](https://www.heygen.com/photo-avatar)
+
+  - > ###### 照片头像正在发生......
+    >
+    > 使用 HeyGen，您可以轻松创建照片头像，只需上传肖像照片并输入文字即可。所有人免费且无限制！
+
+- Text to Speech：[Text To Speech Online With AI-Powered Natural Voices– HeyGen](https://www.heygen.com/text-to-speech)
+
+  - > ###### 使用人工智能驱动的自然语音进行在线文本到语音转换
+    >
+    > 使用 40 多种语言的 300 多种语音将**文本**转换为语音。以更低的成本和更少的时间创建工作室品质的配音视频。
+
+- Personalized Video：[Make AI Personalized Video Emails at Scale | HeyGen](https://www.heygen.com/personalized-video-3)
+
+  - > ###### 大规模创建个性化视频推广
+    >
+    > 使用品牌大使的数字化身来个性化您的视频电子邮件营销活动。为超过 10,000 人提供定制体验
+
+- Realtime Avatar：[Real Time](https://www.heygen.com/real-time)
+
+  - > ###### 实时头像
+    >
+    > 与实时回复您的 HeyGen 头像互动！
+
+- AI Avatars：[Create a Talking Avatar from Text | 100+ AI Avatars – HeyGen](https://www.heygen.com/avatars)
+
+  - > ###### 使用会说话的头像轻松创建引人入胜的视频
+    >
+    > 借助 HeyGen，您可以从 100 多个涵盖不同种族、年龄和姿势的 AI 头像中进行选择。输入脚本，并在几分钟内创建具有完美口型同步的发言人视频。
+
+- HeyGen API：[Quick Start](https://docs.heygen.com/docs/quick-start)
+
+  - > 欢迎使用**HeyGen API**！
+    >
+    > **HeyGen API**扩展了您使用**HeyGen 的**功能，让您能够以编程方式创建令人惊叹的头像视频，并将 HeyGen 强大的 AI 功能集成到您的产品中。释放HeyGen AI能力的潜力！欢迎来到视频创作的未来——快乐的人工智能视频制作！
+
+- Zapier：[Zapier Integration | HeyGen](https://www.heygen.com/integration/zapier)
+
+  - > ###### 利用 HeyGen 的 Zapier 集成增强您的工作流程 
+    >
+    > HeyGen 正在通过全面的[Zapier 集成](https://zapier.com/apps/heygen/integrations)将视频创作提升到一个新的水平。无需编写任何代码即可自动执行 HeyGen 任务，从而增强您的工作流程并提高工作效率。[请在此处阅读我们的 Zapier 集成文档。](https://docs.heygen.com/docs/zapier)
+
 Official blog（官方博客）：[All in One AI Video Generator - HeyGen.com | HeyGen Blog](https://www.heygen.com/article/ai-video-generator)
 
 * [HeyGen AI: Free AI Video Generator Pricing, Features, and Alternatives - Cloudbooklet AI](https://www.cloudbooklet.com/heygen-ai-video-generator-free/)
@@ -1195,6 +1266,76 @@ Introducing （介绍）: An AI video generator that enables you to easily creat
 Website（官方网站）:  https://pictory.ai/
 
 Features（产品特点）：https://pictory.ai/all-features
+
+- Script To Video：[Script To Video Creation In Minutes with Pictory](https://pictory.ai/pictory-features/script-to-video)
+
+  - > ##### 几分钟内从脚本到视频创建
+    >
+    > ###### 非常适合 YouTube 主播、营销人员和课程创作者
+    >
+    > - **节省时间，**只需几分钟即可创建视频
+    > - **使用简单，**强大的人工智能为您服务
+    > - **专业品质，**超过300万个视频剪辑
+    > - **清晰的旁白、**自己的声音或人工智能
+    > - **适用于任何计算机，**在云端运行
+    >
+    > Pictory 利用最新的人工智能技术根据您的脚本自动创建视频
+
+- Blog To Video Creation In A Flash：[Blog To Video Creation In A Flash with Pictory.ai](https://pictory.ai/pictory-features/blog-post-to-video)
+
+  - > ##### 博客到视频创作瞬间
+    >
+    > ###### 非常适合个人博主和公司
+    >
+    > - **提高参与度，**将博客文章变成视频
+    > - **快速且易于使用，**人工智能为您代劳
+    > - **令人惊叹的品质，**超过 300 万个视频剪辑和图像以及 15k 首音乐曲目
+    > - **添加语音、**您自己的声音或逼真的 AI 声音
+    > - **适用于任何计算机，**基于云
+    >
+    > Pictory 使用强大的人工智能，快速轻松地从您的博客文章自动创建令人惊叹的视频。
+
+- EDIT VIDEOS USING TEXT QUICKLY & EASILY：[Edit Videos Using Text Quickly & Easily - Pictory](https://pictory.ai/pictory-features/edit-video-using-text)
+
+  - > ##### 使用文本快速轻松地编辑视频
+    >
+    > ###### 非常适合编辑网络研讨会、播客和 Zoom 录音 
+    >
+    > - **使用简单，**使用文本编辑视频 
+    > - **速度快，**即使是长视频也只需几分钟 
+    > - **专业结果，**删除填充词和沉默 
+    > - **扩大您的受众群体，**自动添加字幕
+    > - **建立您的品牌，**添加您自己的自定义品牌
+    >
+    > Pictory 强大的人工智能使您可以使用文本编辑视频，而无需学习复杂的软件。
+
+- CREATE SHAREABLE VIDEO HIGHLIGHT REELS：[Create Shareable Video Highlight Reels with Pictory.ai](https://pictory.ai/pictory-features/video-highlights)
+
+  - > ##### 创建可共享的视频精彩片段
+    >
+    > ###### 非常适合创建预告片和在社交媒体上分享短片
+    >
+    > - **分享精彩片段，**创建精彩片段短视频
+    > - **提高参与度，**短片吸引观众
+    > - **网络研讨会出席人数猛增，**预告片视频增加了预订率和出席率
+    > - **增加销量，**先睹为快增加转化率
+    > - **发布到社交，**适合所有社交网站
+    >
+    > Pictory 的先进 AI 会自动将您的长视频创建为短视频，以便您可以享受视频创作投资的最大回报。
+
+- AUTOMATICALLY CAPTION YOUR VIDEOS：[Automatically Caption Your videos with Pictory.ai](https://pictory.ai/pictory-features/auto-caption-videos)
+
+  - > ##### 自动为您的视频添加字幕
+    >
+    > ###### 当您想要最大限度地扩大影响范围时的完美选择
+    >
+    > - **扩大您的影响范围，**字幕吸引更多观众
+    > - **提高可访问性，**创建包容性内容
+    > - **提升 SEO 和排名、** Google 和 YouTube
+    > - **节省时间和金钱，**不再外包 
+    > - **令人难以置信的准确性，**确保最大清晰度
+    >
+    > Pictory 可以快速、轻松地为视频添加字幕，无需额外费用。非常适合网络研讨会、演示、电子学习、视频播客等。
 
 Official blog（官方博客）：https://pictory.ai/blog
 
@@ -1254,8 +1395,17 @@ Website（官方网站）:  https://synthesys.io/
 Features（产品特点）：
 
 - https://synthesys.io/use-cases/
+
+  - > Synthesys 是一款多功能 AI 内容套件，具有广泛的用例。它可用于创建引人注目的视频广告、引人入胜的培训材料和交互式电子学习模块。
+
 - https://synthesys.io/ai-avatars/
+
+  - > 无论您需要采用哪种语气，都可以利用各种逼真的人工智能头像来增强您的内容。
+
 - https://synthesys.io/languages/
+
+  - > Synthesys AI Studio 以多种语言提供大量精心挑选、高度精致的 AI 语音供您选择。
+
 
 Official blog（官方博客）：https://synthesys.io/blog/
 
@@ -1307,6 +1457,24 @@ Introducing （介绍）:  An AI video generation platform that enables you to q
 Website（官方网站）:  https://www.synthesia.io/
 
 Features（产品特点）：https://www.synthesia.io/features
+
+备注：因为产品特点有点多，所以文档不一一列举，简单呈现几个。全部的产品特点请详见上面的网址。
+
+- Al Avatars 【Create professional videos with 140+ diverse AI avatars】：[Create AI Videos with 140+ Diverse and Realistic AI Avatars](https://www.synthesia.io/features/avatars)
+
+  - > AI 头像经常更新，增加了新内容并提高了质量。
+
+- Al Voices 【The most compelling selection of AI voices on the market (120+)】：[Make Videos in 120+ Languages in 5 Mins | Hear All Languages](https://www.synthesia.io/features/languages)
+
+  - > Synthesia AI 语音经常更新，增加了新内容并提高了质量。
+
+- Video templates 【Create your next video in minutes with pre-made templates】： [AI Video Templates by Synthesia | Generate Videos in Minutes](https://www.synthesia.io/templates)
+
+  - > 我们的 60 多个视频模板经过专业设计，完全可定制，并且非常易于使用。
+
+- Custom Al Avatars【Custom avatar】：[Create a Custom AI Avatar in Just 9 Minutes | Synthesia](https://www.synthesia.io/features/custom-avatar)
+
+  - > 使用 Synthesia 的头像制作工具创建自定义头像。选择基于浏览器的网络摄像头 AI 头像或专业品质的工作室头像。
 
 Official blog（官方博客）：https://www.synthesia.io/blog
 
@@ -1368,17 +1536,76 @@ Website（官方网站）:  https://www.deepbrain.io/
 
 Features（产品特点）：
 
-- [AI Avatar Video Generator | AI STUDIOS](https://www.deepbrain.io/aistudios)
-- [Free AI Video Generator | Create AI Video from text](https://www.deepbrain.io/features/ai-video-generator)
-- [Best AI Video Editor | Easy Create, Simple Edit with AI](https://www.deepbrain.io/features/ai-video-editor)
-- [Create AI Avatar | Custom Realistic avatar](https://www.deepbrain.io/features/create-avatar)
-- [Text to Video in Minutes](https://www.deepbrain.io/features/text-to-video)
-- [Text to Speech | Using AI to make it instantly Online](https://www.deepbrain.io/features/text-to-speech)
-- [PPT to Video | Convert it instantly Using AI](https://www.deepbrain.io/features/powerpoint-to-video)
-- [ChatGPT Video Generator | Create AI Video in Minutes](https://www.deepbrain.io/features/chatgpt)
-- [Deepbrain AI | Unlock the Power of Deepfake Creation with a 'One-Click' Subtitle Generator](https://www.deepbrain.io/post/unlock-the-power-of-deepfake-creation-with-a-one-click-subtitle-generator)
+- AI Studios: The Ultimate AI Video Platform：[AI Avatar Video Generator | AI STUDIOS](https://www.deepbrain.io/aistudios)
 
-* [Face swap](https://www.deepbrain.io/features/face-swap)
+  - > DeepBrain 的 AI Studios 简化了传统的视频制作流程，为您提供触手可及的一切。
+    >
+    > 在几分钟内将文本变成视频。
+
+- AI Video Generator ：[Free AI Video Generator | Create AI Video from text](https://www.deepbrain.io/features/ai-video-generator)
+
+  - > 在几分钟内将任何文本转换为高质量视频，从而节省时间和金钱。不需要摄像机、麦克风或演员。
+    >
+    > 100+超逼真AI头像
+    > 80 多种语言的文本转语音
+    > 专为所有视频编辑经验级别而设计
+
+- Generate Videos in 5 Minutes or Less with AI Video Editor：[Best AI Video Editor | Easy Create, Simple Edit with AI](https://www.deepbrain.io/features/ai-video-editor)
+
+  - > 使用AI 视频编辑器在 5 分钟或更短的时间内生成视频
+    > 人工智能驱动的文本转视频
+    > 80 多种语言的逼真配音
+    > 无需编辑经验
+
+- Create Your Own AI Avatar：[Create AI Avatar | Custom Realistic avatar](https://www.deepbrain.io/features/create-avatar)
+
+  - > 您可以设计一个个性化、逼真的 AI 头像，以您的声音为特色。使用 AI Studios 创建您自己的 AI 头像！
+
+- Text to Video with AI：[Text to Video in Minutes](https://www.deepbrain.io/features/text-to-video)
+
+  - > 使用 AI Studios 将文本即时转换为视频。将任何博客、PDF、URL 或脚本转换为专业品质的配音和视频。  
+    >
+    > 100+人工智能头像
+    > 以 80 多种语言进行叙述
+    > 无需视频编辑技能
+
+- Text To Speech with AI：[Text to Speech | Using AI to make it instantly Online](https://www.deepbrain.io/features/text-to-speech)
+
+  - > 用自然的声音大声朗读文本。只需输入或粘贴您的文本、网址或 ppt，然后单击播放即可收听。
+    >
+    > 真实语音免费在线 TTS
+    > 200+ AI 语音库
+    > 支持 80 多种语言
+
+- PowerPoint to Video Converter：[PPT to Video | Convert it instantly Using AI](https://www.deepbrain.io/features/powerpoint-to-video)
+
+  - > 将文本、演示文稿或 PowerPoint 大规模转换为高质量的 AI Avatar 视频。无需任何设备或经验。
+    >
+    > 将 PPT 转换为 MP4
+    > 叙述并翻译成 80 多种语言
+    > 通过 AI 演示者轻松演示
+
+- ChatGPT AI Video Generator：[ChatGPT Video Generator | Create AI Video in Minutes](https://www.deepbrain.io/features/chatgpt)
+
+  - > 利用 AI Studios 和 ChatGPT 的强大功能，将数小时的制作时间缩短为几分钟。创建脚本、编辑视觉效果并简化内容创建过程，全部在一个平台上完成。
+    >
+    > 使用 GPT-3 自动生成脚本和视频场景
+    > 100+ AI 头像为您的视频提供旁白
+    > 个性化、完善和扩展您的视频制作
+
+- Unlock the Power of Deepfake Creation with a 'One-Click' Subtitle Generator：[Deepbrain AI | Unlock the Power of Deepfake Creation with a 'One-Click' Subtitle Generator](https://www.deepbrain.io/post/unlock-the-power-of-deepfake-creation-with-a-one-click-subtitle-generator)
+
+  - > “使用我们的‘一键式’字幕生成器释放人工智能视频创作的力量！只需点击几下即可创建带有准确、专业字幕的深度伪造视频。立即释放人工智能视频的力量！”
+
+
+* Face Swap Video：[Face swap](https://www.deepbrain.io/features/face-swap)
+
+  * > 使用 DeepBrain AI 强大的 AI 视频生成器在线创建换脸视频。无需摄像机、麦克风或演员即可创建专业制作的视频。
+    >
+    > 即时 AI 文本转视频生成器
+    > 80 多种文本转语音语言  
+    > 无需视频编辑经验
+
 
 Official blog（官方博客）：https://www.deepbrain.io/blog
 
@@ -1559,6 +1786,50 @@ Website（官方网站）:  https://fliki.ai/
 
 Features（产品特点）：https://fliki.ai/features
 
+- Text to Video：[Convert Text to Video with AI - Fliki](https://fliki.ai/features/text-to-video)
+
+  - > 使用 AI 文本转视频生成器轻松将文本转换为视频！只需输入文本脚本甚至提示即可为 Youtube、Instagram 和 TikTok 创建视频。
+
+- Al Voiceover：[AI Voice Generator : Ultra Realistic Text to Speech - Fliki](https://fliki.ai/features/voiceover)
+
+  - > 使用人工智能语音将文本转换为引人入胜的叙述。从超过 75 种语言的 2000 多个超逼真声音中进行选择，满足您的所有内容需求。
+
+- Idea to Video：[Convert Your Idea to Video with AI - Fliki](https://fliki.ai/features/idea-to-video)
+
+  - > 输入提示即可在几秒钟内为社交媒体创建视频，并让人工智能将其变成带有人工智能声音的令人惊叹的视频。
+
+- Al Avatar：[AI Avatar Generator: Create Avatar Videos with AI - Fliki](https://fliki.ai/features/ai-avatar)
+
+  - > 通过我们栩栩如生的人工智能头像释放您的创造力。通过更好更快地制作逼真的叙述来彻底改变您的视频内容！
+
+- Text to Speech：[Text to Speech Online with Ultra-Realistic AI Voices - Fliki](https://fliki.ai/features/text-to-speech)
+
+  - > 将您的文本转化为栩栩如生的语音。从超过 75 种语言的 2000 多个超逼真声音中进行选择，节省配音艺术家的时间和成本。
+
+- Voice Cloning：[AI Voice Cloning: Custom Voice Cloning in Minutes - Fliki](https://fliki.ai/features/voice-cloning)
+
+  - > 通过录制 2 分钟的样本来真实克隆您的声音。使用 Fliki 基于 AI 的语音克隆节省手动录音时间。
+
+- Blog to Video：[Turn Blog to Video with AI in Minutes - Fliki](https://fliki.ai/features/blog-to-video)
+
+  - > 使用 Fliki 的博客到视频功能从博客文章创建引人入胜的视频。只需点击几下即可将博客文章转换为视频，从而增强 SEO 并提高参与度。
+
+- PPT to Video：[PPT to Video: Convert Powerpoint to Video - Fliki](https://fliki.ai/features/ppt-to-video)
+
+  - > 将 Powerpoint 转换为视频来重新调整它的用途。只需上传您的 PPT，Fliki 就会在几秒钟内自动生成脚本并添加 AI 头像、逼真的配音和音乐。
+
+- Tweet to Video：[Tweet to Video: Create Videos from Twitter Posts - Fliki](https://fliki.ai/features/tweet-to-video)
+
+  - > 立即为 TikTok、Reels 和 Shorts 创建病毒推文视频！只需粘贴您的推文 URL，Fliki 就会自动添加丰富的视觉效果和逼真的配音。
+
+- Photo to Video：[Photo to Video: Create Video from Images - Fliki](https://fliki.ai/features/photo-to-video)
+
+  - > 从您的照片中创建视频，并添加栩栩如生的画外音，声音效果，音乐，动画等。无需视频技巧！
+
+- Product Video：[Product Video Maker: Create Video from Product Page - Fliki](https://fliki.ai/features/product-video)
+
+  - > 从您的产品页面制作具有逼真画外音、丰富视觉效果、音乐、动画等的视频。无需视频技巧！
+
 Tutorials（产品教程）：https://fliki.ai/tutorials
 
 Official blog（官方博客）：https://fliki.ai/blog
@@ -1621,6 +1892,178 @@ Media information 媒体资讯：
     > - 无需视频编辑经验
 
 
+
+
+
+### 25、Colossyan
+
+Introducing （介绍）:  Colossyan is among the first companies building tools to enable video production with the help of AI and [machine learning](https://www.unite.ai/what-is-machine-learning/) algorithms. Their tool can be used for everything from HR training videos to YouTube clips, and aims to make creating video content easier and more accessible to all.
+
+This video generator enables you to choose from a diverse range of avatars and provide the avatar with a script. After your first video is generated you can then target different regions by auto-translating your whole video with the touch of a button. You can easily change accents and clothing. Choose from over 120 languages.
+
+Here are some of the options:
+
+Pick from our selection of commercially available synthetic AI presenters to connect with your audience.
+Add Subtitles to your AI videos.
+Personalize videos with different accents.
+Enhance video messages through screen recordings.
+Automated Translation.
+
+Colossyan 是首批构建借助人工智能和视频制作工具的公司之一 [机器学习](https://www.unite.ai/zh-CN/什么是机器学习/) 算法。 他们的工具可用于从人力资源培训视频到 YouTube 剪辑的所有内容，旨在让所有人更轻松、更容易地创建视频内容。
+
+该视频生成器使您能够从各种头像中进行选择，并为头像提供脚本。 生成第一个视频后，您可以通过触摸按钮自动翻译整个视频来定位不同的区域。 您可以轻松改变口音和服装。 有 120 多种语言可供选择。
+
+以下是一些选项：
+
+- 从我们精选的商用合成人工智能演示者中进行选择，与您的观众建立联系。
+- 为您的 AI 视频添加字幕。
+- 使用不同的口音个性化视频。
+- 通过屏幕录制增强视频消息。
+- 自动翻译。
+
+Website（官方网站）:  https://www.colossyan.com/
+
+Features（产品特点）：
+
+- AI Avatars： [Create Studio-Quality Videos with a Large Choice of AI Avatars](https://www.colossyan.com/ai-avatars)
+
+  - > ###### 来自带有AI头像的文本的有效培训视频
+    >
+    > 告别昂贵的拍摄、日程安排延迟和低参与度
+
+- Languages：[Hundreds of AI Voices in 70+ Languages for Your Videos](https://www.colossyan.com/ai-voices-and-languages)
+
+  - > ###### 制作70 多种语言的 AI 视频
+    >
+    > 消息更能用您的母语表达——您现在可以在几分钟内用多种语言创建人工智能视频。
+
+- AI Script Assistant：[Colossyan AI Script Assistant with GPT-3 Integration](https://www.colossyan.com/ai-script-assistant)
+
+  - > ###### AI脚本助手
+    >
+    > 通过 Colossyan 的 GPT-3 集成集思广益，强化您的信息，加速视频制作
+
+- Custom AI Avatars：[Create your custom AI avatar with Colossyan Creator](https://www.colossyan.com/custom-avatar)
+
+  - > ###### 创建您的自定义 AI 头像
+    >
+    > 让您自己作为 AI 演示者，根据文本创建学习视频
+    > — 进入视频制作的未来。
+
+- Video Customizations：[Customize Videos with AI Using Colossyan Creator](https://www.colossyan.com/customize-videos)
+
+  - > ###### 创建屏幕录制并将其添加到您的 AI 视频中
+    >
+    > 通过 Colossyan 平台直接捕获屏幕录像并将其添加到视频中，可以更深入、更彻底、更清晰地进行沟通。
+
+- PPT & PDF to video：[Convert PDF & PPT to Video with Colossyan Creator](https://www.colossyan.com/ppt-pdf-to-videos)
+
+  - > ###### 将 AI 头像和旁白添加到您的 PDF 和 PPT
+    >
+    > 为您的演示选择配音和人工智能头像
+
+- Videos with Subtitles：[Easily Add Subtitles to Your AI Videos & Increase Understanding](https://www.colossyan.com/add-subtitles-to-your-ai-videos)
+
+  - > ###### 为您的 AI 视频添加字幕
+    >
+    > 利用我们的字幕功能，在几秒钟内创建清晰的字幕，并将参与度提高高达 40%。
+
+- Text to Video：[Use AI to Convert Text to Video with Colossyan Creator](https://www.colossyan.com/text-to-video)
+
+  - > ###### 在几分钟内将文本转换为视频
+    >
+    > 利用人工智能技术的力量，在几分钟内从文本创建专业、工作室品质的视频内容
+
+- Avatar Conversations：[Create Scenario-Based Videos with Actor Conversations](https://www.colossyan.com/avatars-conversation)
+
+  - > ###### 提高基于场景的视频的参与度
+    >
+    > 创建基于场景的视频和故事情节，在一个场景中包含多个演员
+
+- Brand Kit：[Save Brand Kits to Keep Designs Consistent Across Your Team](https://www.colossyan.com/brand-kit)
+
+  - > ###### 保存您的品牌样式以加快生产速度
+    >
+    > 使用企业品牌套件在整个团队中创建一致的视频内容。
+
+- Automated Translation：[Reach a Greater Audience with Automated Translations](https://www.colossyan.com/automated-translation)
+
+  - > ###### 比以往更快地翻译您的视频
+    >
+    > 只需点击一下即可创建项目的语言变体
+    > \- 全部都在同一个草稿中
+
+- Text to Speech：[Text to speech | Colossyan Creator](https://www.colossyan.com/text-to-speech)
+
+  - > ###### 将文本从平淡变为引人入胜
+    >
+    > 使用 AI 技术和真人声音，根据 70 多种语言和口音的文本创建听起来自然的配音
+
+Official blog（官方博客）：https://www.colossyan.com/blog
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）：[Colossyan: 简介 | LinkedIn](https://www.linkedin.com/company/colossyan/)
+
+Youtube（油管）：[Colossyan - YouTube](https://www.youtube.com/@colossyan)
+
+Twitter（X）（推特）：[Colossyan (@colossyan) / X](https://twitter.com/colossyan)
+
+Instagram（ins)：[Colossyan (@colossyan) · Instagram 照片和视频](https://www.instagram.com/colossyan/)
+
+Facebook（脸书）：[Colossyan Facebook](https://www.facebook.com/colossyan)
+
+
+
+Media information 媒体资讯：
+
+* [Colossyan Creator Review: The Best AI Video Generator? - Unite.AI](https://www.unite.ai/colossyan-creator-review/)
+
+* [Colossyan Creator 评论：最好的人工智能视频生成器？ - 联合人工智能](https://www.unite.ai/zh-CN/%E5%B7%A8%E4%BA%BA%E5%88%9B%E9%80%A0%E8%80%85%E8%AF%84%E8%AE%BA/)
+
+  > * 在当今的数字时代，视频内容已成为 [必要](https://raindance.org/6-strong-reasons-why-video-marketing-is-important/) 任何成功的营销策略、在线学习平台或社交媒体存在。 然而，创建专业品质的视频可能既耗时又昂贵，需要视频编辑经验和专门的软件。
+  >
+  > * 根据我的经验，我可以自信地说，在众多 人工智能视频生成器 我已经测试过。 由于其卓越的现实性、专业性和整体质量，它成为最佳选择之一。 但我会让你决定它是否适合你！
+  >
+  > * [巨像造物主](https://www.unite.ai/zh-CN/转到/巨大的) 是一款人工智能视频生成器，可简化内容创作者、营销人员和小企业主的视频创建过程。 有了它，您可以轻松创建高质量视频，而无需任何技术视频编辑经验。
+  >
+  >   AI视频平台利用 [机器学习](https://www.unite.ai/zh-CN/什么是机器学习/) 和 [自然语言处理](https://www.unite.ai/zh-CN/什么是自然语言处理/) 增强视频内容创作者的学习体验。 通过结合头像技术和渲染技术，Colossyan Creator 可以制作出具有视觉吸引力和吸引力的类似演示者的视频。
+  >
+  >   Colossyan 拥有用户友好的界面，并且能够完全自定义您的视频。 它还提供广泛的功能，例如 50 多种不同的 AI 头像、70 多种语言，以及只需单击按钮即可自动翻译为数十种语言的功能。 我们将在下一节中更深入地了解 Colossyan 的所有令人难以置信的功能！
+  >
+  > - ##### Colossyan Creator 功能
+  >
+  >   Colossyan Creator 提供了一系列功能，可简化视频创建过程并增强视频内容。 这些功能可以分为三类：
+  >
+  >   编者
+  >   文字和语音
+  >   人工智能头像
+  >
+  > - ##### Colossyan Creator 评论：我的经验
+  >
+  >   在体验了 Colossyan Creator 并将其与其他人工智能视频生成器进行比较后，我可以自信地说它是市场上最好的。 人工智能头像超现实，画外音听起来非常自然。
+  >
+  >   我真的很喜欢通过用户友好的界面进行导航。 在没有注册的情况下，Colossyan 向我介绍了如何通过选择他们的 20 多个模板之一来制作 AI 视频。 他们的模板看起来干净专业，提供适合不同用途的多种样式。
+  >
+  >   一旦我选择了一个模板，对我的头像和视频本身进行编辑就变得非常简单。 联合创始人之一的教程视频和指导演练使这一点变得更加容易理解。 Colossyan 确保即使是初学者也可以在没有技术技能的情况下创建高质量的 AI 视频。
+  >
+  >   这只是 Colossyan 能力的冰山一角！ 它还具有内置屏幕录像机、70 多种语言可供选择、添加多个 AI 头像以相互交谈的能力等等。
+  >
+  >   我希望这篇 Colossyan Creator 评论可以帮助您选择适合您需求的 AI 视频生成器。 无论您是想要在没有技术技能的情况下创建专业品质视频的初学者，还是想要将您的项目提升到新水平的经验丰富的内容创作者，Colossyan Creator 都是一个绝佳的选择！
+  >
+  > - ##### 常见问题解答
+  >
+  >   ###### 什么是 Colossyan AI？
+  >
+  >   巨像人工智能 是一个人工智能视频生成器平台，可以从文本创建视频。 它简化了所有经验水平的用户的视频创建，甚至是那些没有视频编辑技能的用户。 凭借其用户友好的界面，创作者可以轻松利用人工智能的力量来制作引人入胜的视频内容。
+  >
+  >   ###### Colossyan Creator 是免费的吗？
+  >
+  >   不，Colossyan Creator 不是免费工具。 不过，它确实为企业计划提供 14 天的免费试用，您可以在其中生成 5 分钟的 AI 视频。
+
+  
 
 
 
@@ -1854,6 +2297,16 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240104 Jack Lee 今天目标推进500词，最终推进到了33689词
+
+今天继续根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+主要增加了Colossyan，还增补了HeyGen、Pictory、Synthesys、Synthesia、DeepBrain AI、Fliki、Colossyan的Features（产品特点），今天整理完了[10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)，下一步的初步思路是找一下Pika、HeyGen等的开源替代品。
 
 20240103 Jack Lee 今天目标推进500词，最终推进到了28021词
 
