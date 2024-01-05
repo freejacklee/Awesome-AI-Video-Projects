@@ -2063,7 +2063,130 @@ Media information 媒体资讯：
   >
   >   不，Colossyan Creator 不是免费工具。 不过，它确实为企业计划提供 14 天的免费试用，您可以在其中生成 5 分钟的 AI 视频。
 
+
+
+
+
+### 26、NeverEnds（2.0）
+
+Introducing （介绍）: AI video rookie NeverEnds is an AI tool that can generate videos from text and images. Recently, version 2.0 was launched, adding Tuxing video function and supporting mobile phone experience. - NeverEnds emphasizes AI videos that are more **realistic and practical** - **Strengthens the characterization of AI videos** - **Lowers the operating threshold** After a simple test, it performed very well on animation and advertising videos good. It is said that the next step will be to integrate text and voice functions, which can directly edit and produce videos, creating a low-cost, low-threshold AI video full-process video production tool.
+
+AI 视频新秀NeverEnds是一个能够**从文本和图片生成视频的 AI 工具**。 最近推出了 2.0 版本，增加了图生视频功能，并支持手机端体验。 - NeverEnds强调更具**真实感和实用性**的AI视频 - **强化AI视频的人物刻画** - **降低操作门槛**  简单测试了下，在动漫、广告视频上表现的很不错。 据说下一步将整合文字和语音功能，可以直接剪辑制作视频，打造低成本、低门槛地AI 视频全流程视频制作工具。 
+
+
+
+Website（官方网站）: https://neverends.life/
+
+Discord内测链接：https://t.co/rehtvE6jF2
+
+About（关于）:  
+
+> At NeverEnds, we don't just build technology, we build the future. We are a collective of dreamers, innovators, and storytellers, gathered in the vibrant land of Singapore, creating a revolutionary platform — a magical space where text transforms into video.
+> 在 NeverEnds，我们不只是构建技术，我们还构建未来。我们是一群梦想家、创新者和故事讲述者，聚集在新加坡这片充满活力的土地上，创建了一个革命性的平台——一个文本转化为视频的神奇空间。
+>
+> Our mission is to unleash infinite creative possibilities to the world. With NeverEnds, words are no longer static information confined within lines; they are endowed with life, capable of leaping onto screens and morphing into visuals. From the expression of personal emotions to the portrayal of business brands, we provide a boundless stage for every story to be uniquely told.
+> 我们的使命是为世界释放无限的创意可能性。有了 NeverEnds，单词不再是局限于行内的静态信息；它们被赋予了生命，能够跳到屏幕上并变形为视觉效果。从个人情感的表达到商业品牌的刻画，我们为每一个独特的故事提供了无边的舞台。
+>
+> We believe everyone has a story worth hearing. Our platform is your ideal stage to express creativity, convey emotions, and build your brand. Join us on this endless digital stage, where your words leap into vivid visuals, and your stories never end.
+> 我们相信每个人都有值得一听的故事。我们的平台是您表达创意、传达情感、打造品牌的理想舞台。加入我们这个无尽的数字舞台，在这里您的文字跃入生动的视觉效果，您的故事永无止境。
+
+
+
+Official social media account（官方社交媒体账号）：
+
+官方 Twitter : https://x.com/neverends_ai
+
+
+
+User works 用户作品：
+
+- [小互 on X: @NeverEnds\_ai 是一个能够从文本和图片生成视频的 AI 工具。 最近推出了 2.0 版本，增加了图生视频功能，并支持手机端体验。 - NeverEnds强调更具真实感和实用性的AI视频 - 强化AI视频的人物刻画 - 降低操作门槛… https://t.co/1dEsyY3ppr" / X](https://twitter.com/xiaohuggg/status/1734097567124959651)
+
+* [AI视频工具三巨头：NeverEnds、Runway、Pika将创造视听新时代！](https://mp.weixin.qq.com/s/z65G8cCPx9VvTPywZU5uNw)
+
+  * 用户实际体验中，NeverEnds在各个领域都展现出巨大潜力。
+
+    - NeverEnds帮助商家生成个性化营销和品牌推广视频，**大幅节约广告制作成本**。
+    - NeverEnds为艺术家和创作者提供创意灵感和技术支持，**创造全新的艺术形式**。
+    - NeverEnds降低了AI泛用户制作创意视频门槛，**给予每个人成为艺术家的机会**。
+
+  * GGAC知名博主、视觉设计师PIAOPIAO展示了一部完全使用NeverEnds2.0创作的AI短片《Emergency Situation》。
+
+    他用NeverEnds完成了一部概念性超现实主义作品，并毫不吝啬的表达了对NeverEnds喜爱之情，因为他借助这一工具极大地缩短了艺术创作时间。
+
   
+
+Tips 温馨提示：
+
+1、NeverEnds体验路径：
+
+方式一：登录官网 https://neverends.life/
+
+* [NeverEnds | AI Video generation on X: "🔥We're excited to announce that NeverEnds has launched on Product Hunt! 🚀 https://t.co/dMPQxZeeDo Click 'Upvote' and you'll receive a free trial VIP invitation code. Register now for a complimentary VIP experience!🚀🚀🚀🚀 https://t.co/k4oZYxmGzs" / X](https://twitter.com/NeverEnds_ai/status/1740663165397196837)
+
+  * 我们很高兴地宣布，Neverends已在Producthunt上推出！
+
+    单击“ upvote”，您将收到免费的试用VIP邀请代码。立即注册以获得免费的VIP体验！
+
+* [NeverEnds - AI video generator product for everyone, create your world! | Product Hunt](https://www.producthunt.com/posts/neverends-2)
+
+方式二：Discord免费无限制使用 https://t.co/rehtvE6jF2
+
+2、User's guidance 使用指南：
+
+* [限时免费体验！AI视频新秀NeverEnds Discord内测悄悄开启！](https://mp.weixin.qq.com/s/M0ffangSg2v4e4N__epHJg)
+
+
+
+Media information 媒体资讯：
+
+* [小互 on X: "AI 视频新秀NeverEnds迎来重大更新 @NeverEnds\_ai 是一个能够从文本和图片生成视频的 AI 工具。 最近推出了 2.0 版本，增加了图生视频功能，并支持手机端体验。 - NeverEnds强调更具真实感和实用性的AI视频 - 强化AI视频的人物刻画 - 降低操作门槛… https://t.co/1dEsyY3ppr" / X](https://twitter.com/xiaohuggg/status/1734097567124959651)
+
+* [效果超Pika，操作更简单！AI视频新秀NeverEnds迎来重大更新！](https://mp.weixin.qq.com/s/5eAGkceXIGxyGMG-e5nMBQ)
+
+  * > 指路NeverEnds1.0发布时各大推文报道：
+    >
+    > *  [AI的尽头是美女，一句话生成你的专属“新垣结衣”，“我被美女包围”变为现实啦](https://mp.weixin.qq.com/s/FG9qMIr9TM4tgu7QSZzocw)
+    >
+    > * 谁能想到，仅仅1个月内，NeverEnds2.0就光速上线，**完成了图生视频的更新，并且加强了手机端的便捷体验。**
+    >
+    >   据NeverEnds官方透露，下一阶段将致力于**打通一站式AI视频制作**。将AI视频制作更好地融合文字和语音功能，包括自动生成脚本、音频、视频等，**目标是真正成为一款好用的、好玩的消费者级AI产品。**
+    >
+    >   低成本、低门槛完成AI视频全流程制作，将创意变为现实。
+    >
+    >   **NeverEnds3.0狠狠的期待住了！**
+
+* [超越Pika的AI视频工具来了！NeverEnds2.0视频效果更真实，操作更便捷](https://mp.weixin.qq.com/s?__biz=Mzg2MTIzNDcyNQ==&mid=2247485301&idx=1&sn=967bd2f58dbe636fee7f39662f005e4c&sharer_shareinfo=847d57d278e0dddbba8ef4c2bb0aee2c&sharer_shareinfo_first=847d57d278e0dddbba8ef4c2bb0aee2c#rd)
+
+  > * NeverEnds是一家新加坡的初创企业，主要提供基于大模型进行文本生成视频的服务。平台提供很多种视频模板，可以直接选择模板后输入你的prompt进行视频生成，其视频生成的结果质量相当不错，有相关需求的童鞋欢迎试用体验~
+  >
+  > * NeverEnds的DataLearnerAI专属邀请链接：
+  >
+  >   https://nerverends.life/mobile/register?code=nXhfq0
+  >
+  >   卷疯了，AI视频迭代也太快了！
+  >
+  >   12月1日，AI视频新秀NeverEnds迎来2.0版本重大更新，增加图生视频功能，支持手机端体验。
+
+* [AI视频工具三巨头：NeverEnds、Runway、Pika将创造视听新时代！](https://mp.weixin.qq.com/s/z65G8cCPx9VvTPywZU5uNw)
+
+  * > 甚至有用户开始依托Runway、Pika、Neverends自制一部AI连载动画！
+    >
+    > 如今，模型层已经逐步从纯文字大模型走向多模态大模型的探索，随着多模态领域模型技术和产品应用的飞速发展，可以预料到的是：
+    >
+    > **明年将大概率实现AI视频创作的井喷态势，一个全新的视听时代即将到来！**
+    >
+    > 正如NeverEnds官方所倡导的一样。
+    >
+    > **AI时代，人人都是艺术家！**
+    >
+    > **彩蛋大公开！**
+    >
+    > NeverEnds也赶了一波潮流，**在Discord上线“图生舞蹈”新功能。**
+    >
+    > 舞姿包括最近大火的**科目三、海草舞和江南style**。延续了便捷的操作性，用户只需选择“lets-dance”房间，一键上传图片，就可以想让谁跳，谁就跳！
+
+
 
 
 
@@ -2298,6 +2421,10 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 ## Logging
 
+20240105 Jack Lee 今天目标推进500词，最终推进到了35704词
+
+今天主要增加了Pika的竞品NeverEnds2.0
+
 20240104 Jack Lee 今天目标推进500词，最终推进到了33689词
 
 今天继续根据Unite.AI文章， [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
@@ -2306,7 +2433,7 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 主要增加了Colossyan，还增补了HeyGen、Pictory、Synthesys、Synthesia、DeepBrain AI、Fliki、Colossyan的Features（产品特点），今天整理完了[10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
 
-[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)，下一步的初步思路是找一下Pika、HeyGen等的开源替代品。
+[10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)，下一步的初步思路是找一下Pika、HeyGen等的竞品和开源替代品。
 
 20240103 Jack Lee 今天目标推进500词，最终推进到了28021词
 
