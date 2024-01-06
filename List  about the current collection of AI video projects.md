@@ -251,15 +251,15 @@ Media information 媒体资讯：
 
   * > Gen-2 AI is the second generation of Runway’s AI software, which focuses on generating videos from scratch using text descriptions, images, or existing video clips. 
     > Gen-2 AI 是 Runway 的第二代 AI 软件，专注于使用文本描述、图像或现有视频剪辑从头开始生成视频。
-  >
-    > This cutting-edge technology opens a realm of possibilities for content creators, allowing them to craft distinctive and captivating videos without resorting to costly equipment or lengthy procedures.
-    > 这项尖端技术为内容创作者打开了一个可能性的领域，使他们能够制作独特且引人入胜的视频，而无需诉诸昂贵的设备或冗长的程序。
-  >
-    > The Gen-2 AI model is designed to help users create dreamy videos by harnessing the power of AI and generative algorithms, allowing for an unparalleled level of customization and fidelity in the final output. 
-    > Gen-2 AI 模型旨在帮助用户利用 AI 和生成算法的力量来创建梦幻视频，从而在最终输出中实现无与伦比的定制化和保真度。
-  >
-    > With Gen-2 AI, the days of being limited by available footage or budget constraints are numbered, as this innovative technology brings endless creative possibilities to the table.
-    > 有了第二代人工智能，受可用镜头或预算限制的日子已经屈指可数了，因为这项创新技术带来了无限的创意可能性。
+    
+    >This cutting-edge technology opens a realm of possibilities for content creators, allowing them to craft distinctive and captivating videos without resorting to costly equipment or lengthy procedures.
+      > 这项尖端技术为内容创作者打开了一个可能性的领域，使他们能够制作独特且引人入胜的视频，而无需诉诸昂贵的设备或冗长的程序。
+      > 
+    >The Gen-2 AI model is designed to help users create dreamy videos by harnessing the power of AI and generative algorithms, allowing for an unparalleled level of customization and fidelity in the final output. 
+      > Gen-2 AI 模型旨在帮助用户利用 AI 和生成算法的力量来创建梦幻视频，从而在最终输出中实现无与伦比的定制化和保真度。
+      > 
+    >With Gen-2 AI, the days of being limited by available footage or budget constraints are numbered, as this innovative technology brings endless creative possibilities to the table.
+      > 有了第二代人工智能，受可用镜头或预算限制的日子已经屈指可数了，因为这项创新技术带来了无限的创意可能性。
 
 * [全面开放，无需排队，Runway视频生成工具Gen-2开启免费试用](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650885185&idx=3&sn=d8042976cd29c23e0c0ba8ee1923a645)
   * > Runway 宣布，Gen-1 和 Gen-2 已经彻底开放，任何人都可以注册一个账号免费尝试。生成的视频长度为 4 秒，每秒消耗 5 个积分，利用免费额度可以生成二十几个视频。如果免费积分耗尽，付费标准为 0.01 美元 / 积分，也就是生成一个视频需要 0.2 美元。*2023-07-25 13:24* *机器之心 发表于北京*
@@ -451,15 +451,15 @@ Media information 媒体资讯：
 * [有媒体报道，最近很火... - @宝玉xp的微博 - 微博](https://weibo.com/1727858283/NwMlp5iDZ?type=repost)
 
   * > 宝玉xp
-  >
-    > 23-12-12 13:55
-    > 有媒体报道，最近很火的阿里巴巴的“Animate Anyone”项目，是通过搜集 TikTok 上网红播主的视频进行训练的
-    >
-    > 转译：阿里巴巴的“Animate Anyone”项目，通过搜集著名 TikToker 的视频进行训练 
-  >
-    > 微博文字部分略，详见上面的网页链接
-  >
-    > ——来源：* [Alibaba's 'Animate Anyone' Is Trained on Scraped Videos of Famous TikTokers](https://www.404media.co/alibaba-animate-anyone-ai-generated-tiktok/?continueFlag=4ba8d3bb02db1b4fa268ba0890eadc38)
+
+    >23-12-12 13:55
+      > 有媒体报道，最近很火的阿里巴巴的“Animate Anyone”项目，是通过搜集 TikTok 上网红播主的视频进行训练的
+      > 
+      >转译：阿里巴巴的“Animate Anyone”项目，通过搜集著名 TikToker 的视频进行训练 
+      > 
+    >微博文字部分略，详见上面的网页链接
+      > 
+    >——来源：* [Alibaba's 'Animate Anyone' Is Trained on Scraped Videos of Famous TikTokers](https://www.404media.co/alibaba-animate-anyone-ai-generated-tiktok/?continueFlag=4ba8d3bb02db1b4fa268ba0890eadc38)
 
 * [阿里巴巴智能计算研究院打造Animate Anyone：一种革命性的角色动画技术 | ATYUN.COM 官网-人工智能教程资讯全方位服务平台](https://www.atyun.com/57976.html)
 
@@ -469,11 +469,11 @@ Media information 媒体资讯：
   
 * [盘一下最近爆火刷屏的3大AI视频项目 - 开始加速的未来](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647660629&idx=1&sn=8b48960cd1cc48496bbb57faff2d4e1f&sharer_shareinfo=650ba074a838b636648c3aefa34d35e6&sharer_shareinfo_first=650ba074a838b636648c3aefa34d35e6#rd)
 
-  * **阿里的Animate Anyone**
-
-    **字节跳动的MagicAnimate**
-  
-    **微软的GAIA**
+  * > **阿里的Animate Anyone**
+    >
+    > **字节跳动的MagicAnimate**
+    >
+    > **微软的GAIA**
 
 
 
@@ -506,8 +506,9 @@ Media information 媒体资讯：
 * [抖音跳舞不用真人出镜，一张照片就能生成高质量视频-虎嗅网](https://m.huxiu.com/article/2389861.html?f=rss)
 
   * > 这就是来自新加坡国立大学和字节跳动最新的一项研究，名叫**MagicAnimate**。
-  >
-    > 它的作用简单来说可以总结为一个公式：一张**图片** + 一组**动作** = 毫无违和感的**视频**。
+
+    >
+      > 它的作用简单来说可以总结为一个公式：一张**图片** + 一组**动作** = 毫无违和感的**视频**。
 
 * [新加坡国立大学和字节... - @宝玉xp的微博 - 微博](https://weibo.com/1727858283/NvETcaeD1)
 
@@ -561,27 +562,28 @@ Media information 媒体资讯：
 * [一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制 | 机器之心](https://www.jiqizhixin.com/articles/2023-12-04-4)
 
   * > 视频 PS 可以灵活到什么程度？最近，微软的一项研究提供了答案。
-  >
-    > 在这项研究中，你只要给 AI 一张照片，它就能生成照片中人物的视频，而且人物的表情、动作都是可以通过文字进行控制的。比如，如果你给的指令是「张嘴」，视频中的人物就会真的张开嘴。
-  >
-    > 。。。。。。
-  >
-    > 这项研究名叫 GAIA（Generative AI for Avatar，用于虚拟形象的生成式 AI），其 demo 已经开始在社交媒体传播。不少人对其效果表示赞叹，并希望用它来「复活」逝者。
-  >
-    > 但也有人担心，这些技术的持续进化会让网络视频变得更加真假难辨，或者被不法分子用于诈骗。看来，反诈手段要继续升级了。
-  >
-    > **GAIA 有什么创新点？**
-  >
-    > 会说话的虚拟人物生成旨在根据语音合成自然视频，生成的嘴型、表情和头部姿势应与语音内容一致。以往的研究通过实施特定虚拟人物训练（即为每个虚拟人物训练或调整特定模型），或在推理过程中利用模板视频实现了高质量的结果。最近，人们致力于设计和改进零样本会说话的虚拟人物的生成方法（即仅有一张目标虚拟人物的肖像图片可以用于外貌参考）。不过，这些方法通过采用基于 warping 的运动表示、3D Morphable Model（3DMM）等领域先验来降低任务难度。这些启发式方法虽然有效，但却阻碍了从数据分布中直接学习，并可能导致不自然的结果和有限的多样性。
-  >
-    > 本文中，来自微软的研究者提出了 GAIA（Generative AI for Avatar），其能够从语音和单张肖像图片合成自然的会说话的虚拟人物视频，在生成过程中消除了领域先验。
-  >
-    > 
-  >
-    > GAIA 揭示了两个关键洞见：
-  >
-    > 1. 用语音来驱动虚拟人物运动，而虚拟人物的背景和外貌（appearance）在整个视频中保持不变。受此启发，本文将每一帧的运动和外貌分开，其中外貌在帧之间共享，而运动对每一帧都是唯一的。为了根据语音预测运动，本文将运动序列编码为运动潜在序列，并使用以输入语音为条件的扩散模型来预测潜在序列；
-    > 2. 当一个人在说出给定的内容时，表情和头部姿态存在巨大的多样性，这需要一个大规模和多样化的数据集。因此，该研究收集了一个高质量的能说话的虚拟人物数据集，该数据集由 16K 个不同年龄、性别、皮肤类型和说话风格的独特说话者组成，使生成结果自然且多样化。
+
+    >
+      > 在这项研究中，你只要给 AI 一张照片，它就能生成照片中人物的视频，而且人物的表情、动作都是可以通过文字进行控制的。比如，如果你给的指令是「张嘴」，视频中的人物就会真的张开嘴。
+    >
+      > 。。。。。。
+    >
+      > 这项研究名叫 GAIA（Generative AI for Avatar，用于虚拟形象的生成式 AI），其 demo 已经开始在社交媒体传播。不少人对其效果表示赞叹，并希望用它来「复活」逝者。
+    >
+      > 但也有人担心，这些技术的持续进化会让网络视频变得更加真假难辨，或者被不法分子用于诈骗。看来，反诈手段要继续升级了。
+    >
+      > **GAIA 有什么创新点？**
+    >
+      > 会说话的虚拟人物生成旨在根据语音合成自然视频，生成的嘴型、表情和头部姿势应与语音内容一致。以往的研究通过实施特定虚拟人物训练（即为每个虚拟人物训练或调整特定模型），或在推理过程中利用模板视频实现了高质量的结果。最近，人们致力于设计和改进零样本会说话的虚拟人物的生成方法（即仅有一张目标虚拟人物的肖像图片可以用于外貌参考）。不过，这些方法通过采用基于 warping 的运动表示、3D Morphable Model（3DMM）等领域先验来降低任务难度。这些启发式方法虽然有效，但却阻碍了从数据分布中直接学习，并可能导致不自然的结果和有限的多样性。
+    >
+      > 本文中，来自微软的研究者提出了 GAIA（Generative AI for Avatar），其能够从语音和单张肖像图片合成自然的会说话的虚拟人物视频，在生成过程中消除了领域先验。
+    >
+      > 
+    >
+      > GAIA 揭示了两个关键洞见：
+    >
+      > 1. 用语音来驱动虚拟人物运动，而虚拟人物的背景和外貌（appearance）在整个视频中保持不变。受此启发，本文将每一帧的运动和外貌分开，其中外貌在帧之间共享，而运动对每一帧都是唯一的。为了根据语音预测运动，本文将运动序列编码为运动潜在序列，并使用以输入语音为条件的扩散模型来预测潜在序列；
+      > 2. 当一个人在说出给定的内容时，表情和头部姿态存在巨大的多样性，这需要一个大规模和多样化的数据集。因此，该研究收集了一个高质量的能说话的虚拟人物数据集，该数据集由 16K 个不同年龄、性别、皮肤类型和说话风格的独特说话者组成，使生成结果自然且多样化。
 
 * [一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制-36氪](https://36kr.com/p/2543099800561414)
 
@@ -660,8 +662,9 @@ Media information 媒体资讯：
 * [Universal Guidance for Diffusion Models,arXiv - CS - Machine Learning - X-MOL](https://newsletter.x-mol.com/paper/1626022089827893248?adv)
 
   * > **扩散模型的通用指南**
-  >
-    > 典型的扩散模型经过训练可以接受特定形式的调节，最常见的是文本，并且不能在没有重新训练的情况下以其他形式为条件。在这项工作中，我们提出了一种通用的指导算法，使扩散模型能够由任意指导方式控制，而无需重新训练任何特定于使用的组件。我们展示了我们的算法成功地生成了具有引导功能的高质量图像，包括分割、人脸识别、对象检测和分类器信号。代码可在 https://github.com/arpitbansal297/Universal-Guided-Diffusion 获得。
+
+    >
+      > 典型的扩散模型经过训练可以接受特定形式的调节，最常见的是文本，并且不能在没有重新训练的情况下以其他形式为条件。在这项工作中，我们提出了一种通用的指导算法，使扩散模型能够由任意指导方式控制，而无需重新训练任何特定于使用的组件。我们展示了我们的算法成功地生成了具有引导功能的高质量图像，包括分割、人脸识别、对象检测和分类器信号。代码可在 https://github.com/arpitbansal297/Universal-Guided-Diffusion 获得。
 
 * [扩散模型的通用指导手册\_Zilliz\_InfoQ写作社区](https://xie.infoq.cn/article/c3c7dfb1947a98fddb858a36d)
 
@@ -846,7 +849,7 @@ Summary（总结）：
 >
 > Elai.io 是一个自动化人工智能视频生成平台，允许用户使用文本中的数字化身创建个性化视频。该平台消除了对摄像机、工作室和绿幕的需求，使视频创建变得快速、轻松。
 >
-> Features（主要功能特点）:
+> ###### Features（主要功能特点）:
 >
 > Multi-lingual voice cloning 多语言语音克隆：将您自己的声音克隆成 28 种语言，并利用它将您的所有想法变为现实。只需输入语音文本，头像就会用您的声音进行叙述。
 >
@@ -2104,16 +2107,17 @@ User works 用户作品：
 
 * [AI视频工具三巨头：NeverEnds、Runway、Pika将创造视听新时代！](https://mp.weixin.qq.com/s/z65G8cCPx9VvTPywZU5uNw)
 
-  * 用户实际体验中，NeverEnds在各个领域都展现出巨大潜力。
-
-    - NeverEnds帮助商家生成个性化营销和品牌推广视频，**大幅节约广告制作成本**。
-    - NeverEnds为艺术家和创作者提供创意灵感和技术支持，**创造全新的艺术形式**。
-    - NeverEnds降低了AI泛用户制作创意视频门槛，**给予每个人成为艺术家的机会**。
-
-  * GGAC知名博主、视觉设计师PIAOPIAO展示了一部完全使用NeverEnds2.0创作的AI短片《Emergency Situation》。
-
-    他用NeverEnds完成了一部概念性超现实主义作品，并毫不吝啬的表达了对NeverEnds喜爱之情，因为他借助这一工具极大地缩短了艺术创作时间。
-
+  > * 用户实际体验中，NeverEnds在各个领域都展现出巨大潜力。
+  >
+  >   - NeverEnds帮助商家生成个性化营销和品牌推广视频，**大幅节约广告制作成本**。
+  >   - NeverEnds为艺术家和创作者提供创意灵感和技术支持，**创造全新的艺术形式**。
+  >   - NeverEnds降低了AI泛用户制作创意视频门槛，**给予每个人成为艺术家的机会**。
+  >
+  > * GGAC知名博主、视觉设计师PIAOPIAO展示了一部完全使用NeverEnds2.0创作的AI短片《Emergency Situation》。
+  >
+  >   他用NeverEnds完成了一部概念性超现实主义作品，并毫不吝啬的表达了对NeverEnds喜爱之情，因为他借助这一工具极大地缩短了艺术创作时间。
+  >
+  
   
 
 Tips 温馨提示：
@@ -2189,6 +2193,36 @@ Media information 媒体资讯：
 
 
 
+
+### 27、LaVie
+
+Introducing （介绍）: The LaVie model is a large model that can generate videos based on text prompts. It is also a cascade model connected by three models. The paper on the LaVie model was made public at the end of September. However, the model pre-training results were open sourced in mid-to-early November. This model has a total of 3 billion parameters and is composed of three model cascades.
+
+LaVie demonstrates extremely high quality in generating videos. This is mainly due to its three-part architecture: basic text-to-video (T2V) model, temporal interpolation model and video super-resolution model. This integrated approach allows LaVie to generate temporally coherent and smooth videos while maintaining high visual quality.
+
+LaVie模型是一个可以基于文本提示生成视频的大模型，也是三个模型连接的级联模型。**LaVie模型的论文在9月底就已经公开。但是模型预训练结果是11月中上旬开源，这个模型参数共30亿**，由三个模型级联组成。
+
+LaVie在生成视频方面展现出了极高的质量。这主要得益于它的三部分架构：基础的文本到视频（T2V）模型、时间插值模型和视频超分辨率模型。这种集成方法允许LaVie在保持高视觉质量的同时，生成在时间上连贯和流畅的视频。
+
+
+
+Paper（论文）：2023 [LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://arxiv.org/abs/2309.15103)
+
+GitHub（代码地址）：https://github.com/Vchitect/LaVie
+
+模型HuggingFace链接地址：https://huggingface.co/Vchitect/LaVie
+
+
+
+Media information 媒体资讯：
+
+* [Pika和HeyGen的开源替代品：上海人工智能实验室开源可以生成高质量最长61秒视频的LaVie文本生成视频大模型 | 数据学习者官方网站(Datalearner)](https://www.datalearner.com/blog/1051701781128294)
+
+  * > 可以看到，这个模型最好的情况下可以生成可以生成61秒的1280x2048分辨率的视频。
+    >
+    > 模型的代码和预训练结果均为Apache2.0开源协议，大家自由试用，具体的模型预训练和代码开源地址以及在线演示地址参考DataLearnerAI的模型信息卡：https://www.datalearner.com/ai-models/pretrained-models/LaVie
+
+* [Pika和HeyGen的开源替代品：上海人工智能实验室开源可以生成高质量最长61秒视频的LaVie文本生成视频大模型](https://mp.weixin.qq.com/s?__biz=Mzg2MTIzNDcyNQ==&mid=2247485313&idx=1&sn=6ee70de5d650ecb6b026671cf7505f68&sharer_shareinfo=bd8e73f8f004721d6b0e21ad1cc1aa7e&sharer_shareinfo_first=bd8e73f8f004721d6b0e21ad1cc1aa7e#rd)
 
 
 
@@ -2420,6 +2454,10 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240106 Jack Lee 今天目标推进500词，最终推进到了36350词
+
+今天主要增加了Pika和HeyGen的开源替代品——上海人工智能实验室开源的**文本生成视频大模型LaVie**，接下去开始着手准备第5周完成项目的整体开发和写作，预留第6周做最后的调整、优化。
 
 20240105 Jack Lee 今天目标推进500词，最终推进到了35704词
 
