@@ -2227,6 +2227,58 @@ Media information 媒体资讯：
 
 
 
+
+### 28、CapCut
+
+Introducing （介绍）: TikTok's sister software, CapCut, is a free all-in-one video editor. Anyone with or without experience or expertise in video ad editing can use this editor to create effective TikTok video ads.
+
+TikTok的姐妹软件CapCut 是一款免费的全方位视频编辑器。无论是否具备视频广告编辑经验或专业知识，任何人都能用这款编辑器制作出效果非凡的 TikTok 视频广告。
+
+
+
+Website（官方网站）:  https://www.capcut.com/tools/ai-image-upscaler
+
+About（关于）:   [About CapCut | TikTok Video Editor](https://ads.tiktok.com/help/article/about-capcut?lang=zh)
+
+Official social media account（官方社交媒体账号）：
+
+Tiktok（短视频抖音） ：  [CapCut (@capcut) 官方账号 | TikTok](https://www.tiktok.com/@capcut)
+
+Instagram（ins)： [CapCut (@capcutapp) · Instagram 照片和视频](https://www.instagram.com/capcutapp/)
+
+Youtube（油管）： [CapCut - YouTube](https://www.youtube.com/c/CapCutofficial)
+
+Facebook（脸书）：[ CapCut Facebook](https://www.facebook.com/capcutapp/)
+
+
+
+Media information 媒体资讯：
+
+* [年度最热AI应用TOP 50，除了ChatGPT还有这么多宝藏 ——公众号量子位](https://mp.weixin.qq.com/s/5K_lpRjsyzAPNwZxrIHqlQ)
+
+* [年度最热AI应用TOP 50，除了ChatGPT还有这么多宝藏-36氪](https://36kr.com/p/2587215171921284)
+
+  * > 视频生成领域的访问量“老大”是CapCut，位于第八名。
+
+* [TikTok中国母公司在美国还有一款火爆应用：CapCut - 华尔街日报](https://cn.wsj.com/articles/tiktok%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%BF%98%E6%9C%89%E4%B8%80%E6%AC%BE%E7%81%AB%E7%88%86%E5%BA%94%E7%94%A8-capcut-ada8cb65)
+
+  * > 目前美国最热门的应用程序之一是TikTok不太为人所知的姐妹软件CapCut，也是由中国母公司字节跳动所有。
+
+* [华尔街日报中文网 on X: "#本周热读 TikTok的姐妹软件CapCut让人们能够使用各种模板、滤镜、视觉效果和音乐轻松编辑视频。用户表示，这有助于他们制作看起来更专业的视频片段，并有更好的机会在TikTok和其他平台（如Instagram和YouTube）上传播开来。 https://t.co/oAjJEIht5Z" / X](https://twitter.com/ChineseWSJ/status/1639628479636598785)
+
+  * > TikTok的姐妹软件CapCut让人们能够使用各种模板、滤镜、视觉效果和音乐轻松编辑视频。用户表示，这有助于他们制作看起来更专业的视频片段，并有更好的机会在TikTok和其他平台（如Instagram和YouTube）上传播开来。
+
+* [CapCut - 简要信息，定价及其在2024的替代品](https://openfuture.ai/zh/tool/capcut)
+
+  * > Capcut是一个由人工智能驱动的平台，用于创建高质量的视频和图像，既适用于个人用途，也适用于商业用途。对于视频编辑，它提供了特效和滤镜、贴纸、关键帧动画、速度曲线、基于文本的编辑、视频稳定、放大、色度键、画中画、自动字幕、文本转语音、背景音乐或音效、降噪等功能。图像编辑工具包括图像放大器、肖像生成器、色彩校正、背景去除或生成等功能。CapCut还提供了一系列营销工具，如批量编辑、视频和图像调整大小、产品照片增强、人工智能模型集成等。它适用于内容创作者、社交媒体经理、小型企业主等用户，并有助于在TikTok、YouTube、Instagram、WhatsApp和Facebook上获得知名度！
+
+
+
+
+
+
+
+
 ## AI Funding Rounds
 
 ### 1、SeiSei.ai
@@ -2454,6 +2506,16 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240107 Jack Lee 今天目标推进500词，最终推进到了3XXXX词
+
+今天主要增加了CapCut，信息来自于文章  [年度最热AI应用TOP 50，除了ChatGPT还有这么多宝藏-36氪](https://36kr.com/p/2587215171921284)
+
+发现Unite.AI文章标题有更新，但是文章内容没有变。
+
+* [10 "Best" AI Video Generators (January 2024) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+* [10 个“最佳”AI 视频生成器（2024 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
 
 20240106 Jack Lee 今天目标推进500词，最终推进到了36350词
 
