@@ -1529,7 +1529,7 @@ Media information 媒体资讯：
 
 
 
-### 21、[DeepBrain AI](https://www.unite.ai/goto/deepbrain) 
+### 21、DeepBrain AI
 
 Introducing （介绍）:  An innovative technology company specializing in AI-driven video synthesis solutions. They offer a cloud-based platform that enables users to quickly and efficiently generate realistic AI avatar videos, including ChatGPT-powered content.
 
