@@ -2559,13 +2559,17 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 
+接下去补充
 
+* [小白如何入门AI视频生成？这里总结了近一年的算法和工具](https://mp.weixin.qq.com/s/-mrQwQGHcGORpXlgLf5z_A)
+
+-  GitHub 上面 AI视频生成相关内容
 
 
 
 ## Logging
 
-20240108 Jack Lee 今天目标推进500词，最终推进到了39208词
+20240108 Jack Lee 今天目标推进500词，最终推进到了39254词
 
 今天主要增加了视频生成的产业研究报告
 
