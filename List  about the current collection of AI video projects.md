@@ -26,6 +26,8 @@ List  about the current collection of AI video projects
 
 
 
+## Meta Resources 
+
 ## 元资源
 
 * [Wikipedia Text-to-video model](https://en.wikipedia.org/wiki/Text-to-video_model)
@@ -48,7 +50,9 @@ List  about the current collection of AI video projects
 
 
 
-## AI generated video tool AI生成视频工具
+## AI Generated Video Tool 
+
+## AI生成视频工具
 
 ### 1、Pika
 
@@ -121,8 +125,15 @@ Interesting news 趣闻：
 
 
 
-
 Media information 媒体资讯：
+
+* [Pika, which is building AI tools to generate and edit videos, raises $55M | TechCrunch](https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/)
+
+  * > [Pika 与Runway](https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/)和[Stability AI](https://techcrunch.com/2023/11/21/stability-ai-gets-into-the-video-generating-game/)等生成式 AI 视频工具和模型竞争。但在 Pika 1.0 中，Pika 希望通过几个与众不同的功能来增强其游戏功能。
+    >
+    > 例如，Pika 1.0 附带了一个工具，可以延长现有视频的长度或将其转换为不同的风格，例如“真人”到“动画”，或者扩展视频的画布或宽高比。另一个模块使用人工智能编辑视频内容，比如改变某人的衣服，甚至添加另一个角色。
+    >
+    > 一旦 Pika 1.0 广泛可用，我们就必须对这些功能进行测试。但就其价值而言，Lightspeed（也是 Stability AI 的投资者）对该平台充满信心，尽管[Google](https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/)和[Meta](https://techcrunch.com/2023/11/16/meta-brings-us-a-step-closer-to-ai-generated-movies/) telegraph 等科技巨头也表示他们也在开发视频生成 AI 工具。 
 
 * [我用了2周PIKA1.0后，总结了10个宝藏使用技巧 - 建议收藏公测后用](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647660789&idx=1&sn=756a1ca3f9c3fb7b9edf9f248ee9863e&sharer_shareinfo=a5e572e39b7ac90935b67162d22c0305&sharer_shareinfo_first=a5e572e39b7ac90935b67162d22c0305#rd)
   * > 之前的PIKA1.0首发评测，可以看我的这篇文章：【全网首发】PIKA1.0上手评测 - 你就是传奇
@@ -2276,10 +2287,53 @@ Media information 媒体资讯：
 
 
 
+### 29、Stability AI
+
+Introducing （介绍）:  Stability AI, which this afternoon [announced](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) Stable Video Diffusion, an AI model that generates videos by animating existing images. Based on Stability’s existing [Stable Diffusion](https://techcrunch.com/tag/stable-diffusion/) text-to-image model, Stable Video Diffusion is one of the few video-generating models available in open source — or commercially, for that matter.
+
+Stability AI，今天下午（2023年11月21日）发布了 Stable Video Diffusion，这是一种通过对现有图像进行动画处理来生成视频的 AI 模型。基于 Stability 现有的 Stable Diffusion 文本到图像模型，Stable Video Diffusion 是开源或商业中为数不多的视频生成模型之一。
 
 
 
-## AI Funding Rounds
+Website（官方网站）: https://stability.ai/
+
+Discord（社群）: https://discord.com/invite/stablediffusion
+
+About（关于）:  https://stability.ai/about
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）： [Stability AI: 简介 | LinkedIn](https://www.linkedin.com/company/stability-ai/)
+
+Youtube（油管）： [Stability AI - YouTube](https://www.youtube.com/@Stability_AI)
+
+Twitter（X）（推特）：[Stability AI (@StabilityAI) / X](https://twitter.com/StabilityAI)
+
+
+
+Media information 媒体资讯：
+
+* [Introducing Stable Video Diffusion — Stability AI](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+
+* [Stability AI gets into the video-generating game | TechCrunch](https://techcrunch.com/2023/11/21/stability-ai-gets-into-the-video-generating-game/)
+
+  * > Stability AI recently [raised](https://www.bloomberg.com/news/articles/2023-06-28/stability-ai-secures-convertible-note-after-fundraising-struggle?sref=25o06hnO&in_source=embedded-checkout-banner#xj4y7vzkg) $25 million through a convertible note (i.e. debt that converts to equity), bringing its total raised to over $125 million. But it hasn’t closed new funding at a higher valuation; the startup was last valued at $1 billion. Stability was said to be seeking quadruple that within the next few months, despite stubbornly low revenues and a high burn rate.
+    > Stability AI 最近通过可转换票据（即转换为股权的债务）筹集了 2500 万美元，使其筹集资金总额超过 1.25 亿美元。但它尚未以更高的估值完成新融资；这家初创公司的最新估值为 10 亿美元。据说，尽管收入持续低迷且烧钱率很高，但稳定性仍将在未来几个月内实现四倍增长。
+    >
+    > Stability suffered another blow recently with the [departure](https://www.fastcompany.com/90987146/stability-ais-high-profile-resignation-got-lost-in-the-openai-chaos) of Ed Newton-Rex, who had been VP of audio at the startup for just over a year and played a pivotal role in the launch of Stability’s music-generating tool, [Stable Audio](https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/). In a public letter, Newton-Rex said that he left Stability over a disagreement about copyright and how copyrighted data should — and shouldn’t — be used to train AI models.
+    > 最近，随着 Ed Newton-Rex 的离职，Stability 再次遭受打击。Ed Newton-Rex 曾在这家初创公司担任音频副总裁一年多，并在 Stability 音乐生成工具 Stable Audio 的推出中发挥了关键作用。 Newton-Rex 在一封公开信中表示，他因在版权以及受版权保护的数据应该和不应该如何用于训练人工智能模型方面存在分歧而离开了 Stability。
+
+
+
+
+
+
+
+## AI Funding Rounds 
+
+## 人工智能（公司）融资轮次
 
 ### 1、SeiSei.ai
 
@@ -2507,6 +2561,8 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 ## AI Video Generation Industry Research Report 
 
+## AI视频生成行业研究报告
+
 * [‍⁡‬⁢⁤⁢﻿⁡‌‍‍﻿‬﻿‍⁢‬﻿‌⁣‌⁤‍⁢‍‌⁢⁡⁤‍⁢⁤⁤‬﻿2023年AI视频生成报告汇总-精华笔记 - 飞书云文档](https://y2vhk44qb0.feishu.cn/docx/VmBodc8QBoi3NdxY3FycKV7lnRh)
 
 * [AIGC产业研究报告2023——视频生成篇](https://mp.weixin.qq.com/s/TW6_33UQdQmPs-YNtEVXjA)
@@ -2559,21 +2615,118 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 
-接下去补充
 
-普通人入门AI视频生成指南
+
+
+
+## Guide to AI Video Generation for Ordinary People
+
+## 普通人入门AI视频生成指南
+
+* [2023年，爆发式的AI发展](https://mp.weixin.qq.com/s/tsCwoosVCJiaxY9XglQuRw)
+
+  * > 总结
+    >
+    > 从2023年爆火的各领域AI来看，他们强大的功能正在进一步提升我们日常的工作效率。同时，由于其入手门槛较低，让普通人也能够接触到最为厉害的AI算法和工具，真正的改变我们的生活。
+    >
+    > 而AI的进步可能远远不止于此，它在今年的发展和进步让我们所有人感到了震惊。在未来，AI到底会进化成什么呢？没有人可以预估到。但是可以确信的是，AI将会走向更加强大，到时候将会惠及到更多的人，帮助人类解决更加复杂困难的东西。
 
 * [小白如何入门AI视频生成？这里总结了近一年的算法和工具](https://mp.weixin.qq.com/s/-mrQwQGHcGORpXlgLf5z_A)
 
+  * > 总结
+    >
+    > 上面就是我所分享的，这一年以来出现的比较热门的AI文本视频生成算法或者工具。感兴趣的，对视频创作有热情的读者可以进行上手体验一下。
+    >
+    > 从初步的视频生成效果上来看，目前的视频生成还是比较粗糙，可能需要定义更加精细化的prompt才能够生成好看的视频。同时市场上的工具免费的只能生成几秒的视频，需要付费才能够解锁更好的体验，而且费用不低。
+    >
+    > 同时每个工具生成的质量没有说有明显差距，因此在视频生成工具的市场怎么杀出重围，才是这些创业者们急需考虑的一个问题。
+    >
+
 * [进化神速\~用AI生成真人图片和视频！](https://mp.weixin.qq.com/s/6YRtphcsvaW9jk09mvU4lQ)
 
+  * > 在上一年，Stable Diffusion模型发布以来，
+    >
+    > “AI文本图片生成”真正的变成普通人也能使用的技术。但是最近一些网友利用网上的真人图片，不断喂给模型进行自主学习。其训练出来的效果已经可以做到以假乱真，你甚至不知道哪些图片是AI生成的还是真人拍出来的。
+    >
+    > 最近准备做一个教程，如何从零开始搭建自己的AI生成图片网站。并利用自己生成的图片做AI真人说话视频。
+    >
+    > 主要用到一个工程项目：stable-diffusion-webui
+    > 加上一个AI生成真人说话网站：https://studio.d-id.com/
+    >
+    > 敬请期待~
 
 
- GitHub 上面 AI视频生成相关内容
+
+
+
+## Radar Trends
+
+## 雷达趋势
+
+* [Text to Video: The Next Leap in AI Generation | a16z Podcast](https://a16z.simplecast.com/episodes/text-to-video-the-next-leap-in-ai-generation-oFukm01C)
+
+  * > 00:00 - Text to Video: The Next Leap in AI Generation
+    > 00:00 - 文本到视频：人工智能时代的下一个飞跃
+
+* [SenseAI专访VideoPoet核心作者：揭秘谷歌革命性视频生成技术 - SenseAI播客 | 小宇宙 - 听播客，上小宇宙](https://www.xiaoyuzhoufm.com/episode/65967b2c2e26fb9934848ad8)
+
+  * > SenseAl一直非常关注视频生成方向学术和产业的进展，近期Google发布了名为VideoPoet 的大语言模型，可以文生视频、图像生视频，又能风格迁移，视频转语音，动作生成丰富性和流畅度很惊艳，被很多人认为是革命性zero-shot视频生成工具。
+    >
+    > **核心观点**总结如下：
+    >
+    > ●  对比用LLM架构和Diffusion架构的视频生成模型，视觉质量上可能两者会逐渐饱和，但在未来逻辑一致性上LLM架构可能会比Diffusion类型的更好。两个技术也很可能相互融合，（比如LLM作为latent空间而用diffusion做高质量生成）
+    >
+    > 
+    >
+    > ●  VideoPoet一个巨大的创新格局在于**把多模态的输入转变成**LLM类模型可以接受的**token**，未来LLM的发展进化，VideoPoet都可以利用并提升在视频生成上
+    >
+    > 
+    >
+    > ●  Tokenizer是VideoPoet中的重要模块，它不仅更高效而统一的表达了图片视频，同时也带来了很多产品可能（视频压缩，理解，补图，变换风格）。**Tokenizer仍然有发展空间**，并且会有更多使用场景，任何表达图象视频类的模型产品都可以利用tokenizer带来更好的性能提升（推荐了解MAGVIT-v2）
+    >
+    > 
+    >
+    > ●  核心模型对原始世界的理解决定着未来视频内容的丰富度和合理性，核心模型学习的方式甚至可以不局限于语言类，但目前认为，**核心模型对整个世界的理解**是视频内容变强突破的路径
+    >
+    > 
+    >
+    > ●  使用LLM作为核心模型也带来了发展方向的展望：比如未来强大基础模型在少样本零样本情况下生成的质量，和小代价的适应学习完成新任务。同时生成成本速度也会不断改进，来产生更长更高画质的视频
+    >
+    > 
+    >
+    > ●  **未来视频生成是混合动态的**：拍摄不会被取代，依然是重要素材的来源，但生成是很好的补充、延展、想象具像化；思考决定行动，VideoPoet的设计就是多模态输入，多任务集合的，任务之间也可以相互补偿帮助模型更好理解视频，也说明视频生成模型还在突破上限的通道中
+    >
+    > 
+    >
+    > ●  **模型即产品**：AI应该在人类创作和具像化过程中的每一步去适应人类，辅助人类，这个前提就是模型具备了多模态输入能力和下游生成编辑能力的最小单元，人类要做的事是1）按自己最擅长和自由的方式调用模型，2）提供好的创意和审美
+    >
+    > 
+    >
+    > ●  视频生成交互：和模型的交互是**极简和动态**的，文字表达稀疏和宏观的信息，图片提供细节的guidance，在任意时间维度和生成状态中，都可以灵活的输入和编辑，模型会自己去理解和生成（这给在试图固化流程和操作面板的PM提供了不同的视角）
+    >
+    > 
+    >
+    > ●  短视频先行：消费侧需求时长更短，质量要求更灵活，追求快和重点focus，同时供给侧，受制于现有算法架构和算力消耗，ROI还未商业可行；内容品类上，动漫动画，自然风光，教育方向看好
+
+
+
+
+
+
+
+ GitHub 上面 AI视频生成 相关内容，晚点看情况决定是否要酌情增加
+
+
+
+
 
 
 
 ## Logging
+
+20240109 Jack Lee 今天目标推进500词，最终推进到了41915词
+
+今天主要增加了普通人（小白）入门AI视频生成指南和AI视频生成趋势（via 订阅的 a16z Enterprise Team newsletter 联想到通过播客获取相关信息的角度），通过O'Reilly搜索AI视频生成工具没有结果，转向搜索TechCrunch AI video Generated Tool获取相关信息，增加了Stability AI
 
 20240108 Jack Lee 今天目标推进500词，最终推进到了39284词
 
