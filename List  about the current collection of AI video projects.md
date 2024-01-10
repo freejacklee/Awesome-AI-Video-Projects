@@ -26,7 +26,7 @@ List  about the current collection of AI video projects
 
 
 
-## Meta Resources 
+## 1、Meta Resources 
 
 ## 元资源
 
@@ -50,7 +50,99 @@ List  about the current collection of AI video projects
 
 
 
-## AI Generated Video Tool 
+## 2、What Are AI Video Generators?
+
+## 什么是人工智能视频生成器？
+
+AI video generators use artificial intelligence to create, edit, or scale videos. They can take various forms, including:
+AI 视频生成器使用人工智能来创建、编辑或缩放视频。它们可以采取多种形式，包括：
+
+- **Scalable personalized AI videos:** Generate videos tailored to individual viewers that enhance engagement and audience connection. 
+  可扩展的个性化人工智能视频：生成适合个人观众的视频，以增强参与度和观众联系。
+- **Text-to-video generators:** Convert written text into video content, such as transforming blog posts or articles into video form. 
+  文本转视频生成器：将书面文本转换为视频内容，例如将博客文章或文章转换为视频形式。
+- **AI video editors:** Automate the editing process, making it easier to create professional-looking videos.
+  AI 视频编辑器：自动化编辑过程，更轻松地创建专业的视频。
+- **AI animation video generators:** Create animated videos, perfect for explainer videos or animated marketing content.
+  AI 动画视频生成器：创建动画视频，非常适合讲解视频或动画营销内容。
+
+——  [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+
+
+
+
+
+## 3、What to Consider When Choosing an AI Video Generator Tool 
+
+## 选择人工智能视频生成工具时要考虑什么
+
+Take a look at these key features when determining which AI video tool to try for your business. 
+在确定为您的企业尝试哪种人工智能视频工具时，请查看这些关键功能。
+
+‍
+
+#### The AI 人工智能
+
+One of the most critical features of AI video generators is understanding what the AI can do. Is it like Idomoo and updates images and graphics using data inputs? Or like Runway, which creates AI video art from text and images? 
+人工智能视频生成器最关键的功能之一是了解人工智能可以做什么。它是否像 Idomoo 一样使用数据输入更新图像和图形？或者像《Runway》一样，利用文本和图像创作人工智能视频艺术？
+
+‍
+
+Or, if you’re looking to create personalized videos of people, do you want the AI to mimic you, an actor, or just be an avatar? Determining your goals is going to be really important here. 
+或者，如果您想要创建人物的个性化视频，您希望人工智能模仿您、演员还是只是一个化身？确定你的目标在这里非常重要。
+
+‍
+
+If you’re looking to revolutionize your marketing, sales, recruiting–or any use case that can benefit from more engagement and conversions–Tavus’ AI is the best. Its ability to accurately replicate speech patterns, facial expressions, and body language is unmatched. When you–not an actor or avatar–are speaking to every audience member on a personal level, you’re going beyond outreach to true connection. 
+如果您希望彻底改变您的营销、销售、招聘或任何可以从更多参与和转化中受益的用例，Tavus 的 AI 是最好的选择。它准确复制语音模式、面部表情和肢体语言的能力是无与伦比的。当你——不是演员或化身——在个人层面上与每一位观众交谈时，你就超越了外展，达到了真正的联系。
+
+‍
+
+#### Video Quality 视频质量
+
+Over [50%](https://blog.hubspot.com/marketing/how-video-consumption-is-changing) of consumers state the importance of video production quality for brands. High-quality videos help maintain a professional image and engage your audience more effectively. Look for tools that offer high-definition or even 4K video outputs to ensure your videos look crisp and clear on all devices and platforms.
+超过 50% 的消费者表示视频制作质量对品牌的重要性。高质量视频有助于保持专业形象并更有效地吸引观众。寻找提供高清甚至 4K 视频输出的工具，以确保您的视频在所有设备和平台上看起来清晰明快。
+
+‍
+
+#### Scalability 可扩展性
+
+As your business and video needs grow, you'll want a tool that can keep up. This means it should be able to handle an increasing volume of video creation and offer additional features or capabilities as your needs become more sophisticated.
+随着您的业务和视频需求的增长，您将需要一个能够跟上的工具。这意味着它应该能够处理不断增加的视频创建量，并随着您的需求变得更加复杂而提供额外的特性或功能。
+
+‍
+
+For example, if you’re using an AI video generator that requires lengthy inputs or editing time, it’s going to be challenging to scale. 
+例如，如果您使用的人工智能视频生成器需要较长的输入或编辑时间，那么扩展将具有挑战性。
+
+‍
+
+#### Ease of Use & Onboarding Time 易用性和入门时间
+
+A tool that is easy to use and has a short onboarding time can allow you to start creating videos quickly. Seamless integrations into your current tech stacks will also streamline your workflow and make the video creation process more efficient.
+一个易于使用且上手时间短的工具可以让您快速开始创建视频。无缝集成到您当前的技术堆栈还将简化您的工作流程并使视频创建过程更加高效。
+
+‍
+
+#### Customization Opportunities 定制机会
+
+Tools that offer extensive customization options can enable you to create videos that align with your brand and meet your specific needs. This could include options for custom graphics, text overlays, and music. 
+提供广泛自定义选项的工具可以让您创建符合您的品牌并满足您的特定需求的视频。这可能包括自定义图形、文本覆盖和音乐的选项。
+
+‍
+
+With Tavus, you get the ultimate customization opportunities. Choose whatever variables you want to personalize in each video, create custom CTAs, embed CTA links, and choose dynamic video backgrounds. This level of customization helps you create unique, engaging content that resonates with your audience and leads to higher conversions. 
+借助 Tavus，您可以获得终极定制机会。选择您想要在每个视频中个性化的任何变量、创建自定义 CTA、嵌入 CTA 链接并选择动态视频背景。这种级别的定制可帮助您创建独特、引人入胜的内容，与受众产生共鸣并带来更高的转化率。
+
+——  [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+
+
+
+
+
+
+
+## 4、AI Generated Video Tool 
 
 ## AI生成视频工具
 
@@ -194,7 +286,7 @@ Media information 媒体资讯：
 
 
 
-### 2、Runway Gen-2
+### 2、Runway ML Gen-2
 
 Introducing （介绍）: A multimodal AI system that can generate novel videos with text, images or video clips.
 
@@ -280,7 +372,7 @@ Media information 媒体资讯：
 
 
 
-#### Runway Gen-1
+#### Runway ML Gen-1
 
 Introducing （介绍）: A New AI Model for Video Generation.
 
@@ -1263,7 +1355,7 @@ Media information 媒体资讯：
 
 * [HeyGen AI: Free AI Video Generator Pricing, Features, and Alternatives - Cloudbooklet AI --- HeyGen AI：免费 AI 视频生成器定价、功能和替代方案 - Cloudbooklet AI](https://www.cloudbooklet.com/heygen-ai-video-generator-free/)
 
-* [HeyGen：AI创业，我们如何在7个月内达到100万美元收入｜Z Circle](https://mp.weixin.qq.com/s?__biz=MjM5NDk5MTA0MQ==&mid=2652318720&idx=1&sn=7cba20ec976fe46b0804cd0e6c7e8e5e&sharer_shareinfo=dd0e6f646cdf6d515f9039f37ad27ef4&sharer_shareinfo_first=cb10f561290435b6b00fd4829bd0c9ac#rd)
+* [HeyGen：AI创业，我们如何在7个月内达到100万美元收入｜真格基金 Z Circle](https://mp.weixin.qq.com/s?__biz=MjM5NDk5MTA0MQ==&mid=2652318720&idx=1&sn=7cba20ec976fe46b0804cd0e6c7e8e5e&sharer_shareinfo=dd0e6f646cdf6d515f9039f37ad27ef4&sharer_shareinfo_first=cb10f561290435b6b00fd4829bd0c9ac#rd)
 
   
 
@@ -2324,6 +2416,87 @@ Media information 媒体资讯：
     >
     > Stability suffered another blow recently with the [departure](https://www.fastcompany.com/90987146/stability-ais-high-profile-resignation-got-lost-in-the-openai-chaos) of Ed Newton-Rex, who had been VP of audio at the startup for just over a year and played a pivotal role in the launch of Stability’s music-generating tool, [Stable Audio](https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/). In a public letter, Newton-Rex said that he left Stability over a disagreement about copyright and how copyrighted data should — and shouldn’t — be used to train AI models.
     > 最近，随着 Ed Newton-Rex 的离职，Stability 再次遭受打击。Ed Newton-Rex 曾在这家初创公司担任音频副总裁一年多，并在 Stability 音乐生成工具 Stable Audio 的推出中发挥了关键作用。 Newton-Rex 在一封公开信中表示，他因在版权以及受版权保护的数据应该和不应该如何用于训练人工智能模型方面存在分歧而离开了 Stability。
+  
+* [2023上半年风投资本疯狂追捧的20个AI公司，哪家会成为第一个泡沫？-36氪](https://36kr.com/p/2378559197460480)
+
+  * > **Stability AI：最有争议的AI独角兽**
+    >
+    > 这家公司成立于2020年，目标培育开源AI研究社区，其中在Stable Diffusion这个最重要之一的图像生成扩散模型的背后，Stability AI功不可没。
+    >
+    > **但是要注意的一点，Stable Diffusion和Stabiligy.AI并不是一家公司。**
+    >
+    > Stable Diffusion这个内容生成模如今是Mid-journey的竞争对手，也是文生图市场中最被看好的玩家，但这是一个开源的模型，简单来说，这个模型的技术来源是2022年发表的一篇论文**《High-Resolution Image Synthesis with Latent Diffusion Models》**翻译过来是《基于潜在扩散模型的高分辨率图像合成》，署名作者一共五位，分别来自慕尼黑大学、海德堡大学和 AI视频剪辑技术创业公司Runway。而Stability AI提供了算力，一起开源做出了Stable Diffusion。
+  
+
+
+
+
+
+### 30、Tavus
+
+Introducing （介绍）: Tavus is a developer of artificial intelligence-generated video technology, but unlike Runway's video production for professional movies, Tavus's vision is that users can record a video and create thousands of that video with just a few clicks. Edition, tailored to each specific audience, including their name, information, and more. Such application scenarios can be used in marketing, sales, recruitment and other fields to optimize and improve key indicators such as click-through rate and conversion rate. It feels like it will be a very critical direction in the field of short videos and advertising.
+
+Tavus是一家人工智能生成视频技术开发商，但跟Runway用于专业电影的视频制作上不同，**Tavus的设想是，用户可以录制一个视频，只需点击几下，就可以创建该视频的数千个版本，为每个特定观众量身定制，包括他们的姓名、信息等。**这样的应用场景可以运用在营销、销售、招聘等多个领域，来优化和提升点击率和转化率等关键指标。感觉在短视频和广告领域将会是一个非常关键的方向。
+
+
+
+Website（官方网站）: https://www.tavus.io/
+
+Official blog（官方博客）： https://www.tavus.io/blog
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）： [Tavus: 简介 | LinkedIn](https://www.linkedin.com/company/tavus-io/) 
+
+Instagram（ins)：  [Tavus (@tavus.io) · Instagram 照片和视频](https://www.instagram.com/tavus.io)
+
+Youtube（油管）：[Tavus - YouTube](https://www.youtube.com/@tavus8571)
+
+
+
+Media information 媒体资讯：
+
+* [2023上半年风投资本疯狂追捧的20个AI公司，哪家会成为第一个泡沫？-36氪](https://36kr.com/p/2378559197460480)
+
+  * > **Tavus在2023年3月获得红杉领投的610万美元种子轮融资**，参与本轮融资的还包括Accel Partners、Index Ventures、Lightspeed Ventures和YC Continuity等一大批硅谷主流投资机构。
+
+* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+
+  * > With Tavus, you can make thousands of personalized videos in just a few clicks. [Tavus](https://www.tavus.io/) is an AI video generator that believes in the engaging power of personalized videos to transcend the noise of mass messaging and create meaningful connections with viewers. 
+    > 借助 Tavus，您只需点击几下即可制作数千个个性化视频。 Tavus 是一款人工智能视频生成器，相信个性化视频的吸引力能够超越大众信息的噪音，与观众建立有意义的联系。
+    >
+    > ‍
+    >
+    > With Tavus, you only need to record one video, and then the platform can generate hundreds, thousands, or even millions of personalized videos that are unique to each recipient. You can personalize the recipient's name, company and other content within the video, as well as customizable backgrounds and branded landing pages. Treat each member of your audience like a main character–creating an intimate connection that inspires enthusiasm and drives conversions. 
+    > 使用 Tavus，您只需要录制一个视频，然后该平台就可以生成数百、数千甚至数百万个每个接收者都独一无二的个性化视频。您可以个性化接收者的姓名、公司和视频中的其他内容，以及可定制的背景和品牌登陆页面。将每位观众视为主角，建立亲密的联系，激发热情并推动转化。
+    >
+    > 
+    >
+    > Here’s how it works: 
+    > 它的工作原理如下：
+    >
+    > **1. Record One Video:** Record a video with whatever message you want to share. This one video will serve as your template for Tavus to generate the rest. 
+    >
+    > 1. 录制一个视频：录制一个视频，其中包含您想要分享的任何信息。这一视频将作为 Tavus 生成其余视频的模板。
+    >
+    > **2. Choose Variables:** Choose which variables you’d like to be personalized for each recipient. For example, you could include the viewer's name, a product that’s sitting in their cart, the name of your webinar they just attended…whatever you want!
+    >
+    > 2. 选择变量：选择您想要为每个收件人进行个性化设置的变量。例如，您可以包含观看者的姓名、购物车中的产品、他们刚刚参加的网络研讨会的名称……无论您想要什么！
+    >
+    > **3. AI Generates the Videos:** Now Tavus takes over. It can auto-generate hundreds, thousands, or more videos from your template that are personalized for every recipient. The platform used advanced voice cloning and lip syncing technology that perfectly replicates how you speak, move, and portray emotion. 
+    >
+    > 3. AI 生成视频：现在 Tavus 接管。它可以从您的模板自动生成数百、数千或更多视频，并为每个收件人进行个性化设置。该平台使用先进的语音克隆和口型同步技术，完美复制您说话、移动和描绘情感的方式。
+    >
+    > **4. Analytics & Insights:** Once they’re sent out, Tavus measures and tracks the performance of your videos so you can understand exactly how your audience is responding.
+    >
+    > 4. 分析和洞察：视频发出后，Tavus 会衡量并跟踪视频的表现，以便您准确了解观众的反应。
+    >
+    > ‍
+    >
+    > Ambitious teams use Tavus to create personalized videos that generate ROI at scale. It’s perfect for marketers, sales teams, customer success teams, recruiters…and any other department that wants to establish a [personal and emotional connection](https://www.tavus.io/post/understanding-the-emotional-impact-of-video) with their audience through video. 
+    > 雄心勃勃的团队使用 Tavus 来创建个性化视频，从而大规模产生投资回报率。它非常适合营销人员、销售团队、客户成功团队、招聘人员……以及任何其他希望通过视频与受众建立个人和情感联系的部门。
 
 
 
@@ -2331,7 +2504,7 @@ Media information 媒体资讯：
 
 
 
-## AI Funding Rounds 
+## 5、AI Funding Rounds 
 
 ## 人工智能（公司）融资轮次
 
@@ -2559,7 +2732,7 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 
-## AI Video Generation Industry Research Report 
+## 6、AI Video Generation Industry Research Report 
 
 ## AI视频生成行业研究报告
 
@@ -2619,7 +2792,7 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 
-## Guide to AI Video Generation for Ordinary People
+## 7、Guide to AI Video Generation for Ordinary People
 
 ## 普通人入门AI视频生成指南
 
@@ -2659,7 +2832,7 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 
-## Radar Trends
+## 8、Radar Trends
 
 ## 雷达趋势
 
@@ -2714,15 +2887,11 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 
- GitHub 上面 AI视频生成 相关内容，晚点看情况决定是否要酌情增加
-
-
-
-
-
-
-
 ## Logging
+
+20240110 Jack Lee 今天目标推进500词，最终推进到了4XXXX词
+
+今天主要增加了Tavus、什么是人工智能视频生成器、选择人工智能视频生成工具时要考虑什么，补充了Stability AI媒体资讯，明天继续补充[10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)一文中提到的AI 视频生成工具
 
 20240109 Jack Lee 今天目标推进500词，最终推进到了41915词
 
