@@ -2502,6 +2502,235 @@ Media information 媒体资讯：
 
 
 
+### 31、Idomoo
+
+Introducing （介绍）: Idomoo uses customer data inputs to make personalized videos and graphics, interactive videos, and dynamic video ads. The platform translates the provided information into text, images, graphics, and robotic voices that can be personalized to individual customers. Users can start with plug-and-go templates or make their own. 
+
+Idomoo 使用客户数据输入制作个性化视频和图形、互动视频和动态视频广告。该平台将提供的信息转换为文本、图像、图形和机器人语音，可以针对个人客户进行个性化设置。用户可以从即插即用模板开始，也可以制作自己的模板。
+
+
+
+Website（官方网站）: https://www.idomoo.com/
+
+Official blog（官方博客）：https://www.idomoo.com/blog/
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）：  [Idomoo: 简介 | LinkedIn](https://www.linkedin.com/company/idomoo/)
+
+Twitter（X）（推特）：[Idomoo (@idomoo) / X](https://twitter.com/idomoo)
+
+Youtube（油管）：[Idomoo - YouTube](https://www.youtube.com/channel/UC0DCT1-jrFpQegwxuudRKRg)
+
+Facebook（脸书）：[ Idomoo Facebook](https://www.facebook.com/IdomooVideos)
+
+
+
+Media information 媒体资讯：
+
+* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+
+  * > **Key Features: 主要特征：**
+    >
+    > - Design hub 设计中心
+    > - Experience suite 体验套房
+    > - Gifs and infographics GIF 和信息图表
+    > - Video factory 视频工厂
+    > - Distribution and analytics
+    >   分布和分析
+    > - Automation tools 自动化工具
+    >
+    > ‍
+    >
+    > **Best For: 最适合：**
+    >
+    > Personalized video and graphic generation
+    > 个性化视频和图形生成
+
+* [Meet Lucas: The World’s First AI Video Creator | Idomoo Personalized Video](https://www.idomoo.com/blog/meet-lucas-the-worlds-first-ai-video-creator/)
+
+* [Lucas, AI Video Creator | Text to Video in Seconds](https://www.idomoo.ai/)
+
+  * > 在几秒钟内创建人工智能视频
+    > 文本转视频从未如此简单 - 只需输入您想要的内容，Lucas 即可交付
+
+
+
+
+
+### 32、Lumen5
+
+Introducing （介绍）:  Lumen5 is a video creation platform designed for brands and businesses to produce engaging video content for social posts, stories, and ads.
+Lumen5 是一个视频创作平台，专为品牌和企业设计，为社交帖子、故事和广告制作引人入胜的视频内容。
+
+Our goal is to enable anyone without training or experience to easily create amazing videos in minutes.
+我们的目标是让任何未经培训或经验的人都能在几分钟内轻松创建精彩的视频。
+
+Not only does our platform offer tools to make videos, Lumen5 takes it a step further to supply all the resources needed to make thumb-stopping videos.
+我们的平台不仅提供制作视频的工具，Lumen5 还进一步提供制作精彩视频所需的所有资源。
+
+Our built-in media library offers access to millions of stock footage, photos, and music tracks.
+我们的内置媒体库提供数百万个素材、照片和音乐曲目的访问。
+
+This means that our users have access to everything they need without having to record or purchase any digital assets externally.
+这意味着我们的用户可以访问他们需要的一切，而无需从外部记录或购买任何数字资产。
+
+
+
+Website（官方网站）: https://lumen5.com/
+
+Official blog（官方博客）：https://lumen5.com/learn/
+
+About（关于）: https://lumen5.com/about/
+
+> #### The challenge 挑战
+>
+> ##### Video content has been rapidly transforming the marketing landscape and video content has quickly claimed the spotlight as the single most popular form of storytelling. However, tools for producing video content have not evolved quickly enough to meet this new demand. Many experts are required to produce a video such as scriptwriters, photographers, cinematographers, audio engineers, video editors, and more. The video production process is complicated, time-consuming, and extremely expensive. 视频内容正在迅速改变营销格局，视频内容也迅速成为人们关注的最流行的讲故事的形式。然而，用于制作视频内容的工具的发展速度还不够快，无法满足这种新需求。制作视频需要许多专家，例如编剧、摄影师、电影摄影师、音频工程师、视频编辑等等。视频制作过程复杂、耗时且极其昂贵。
+>
+> #### Our solution 我们的解决方案
+>
+> ##### Video editing is a time-consuming process because it requires a lot of small tweaks and fine tuning. Using Machine Learning, we automate these tasks to help our users create quality videos with minimal time, effort, and training. For example, the duration of each scene is algorithmically determined based on the number of words in the scene, text positioning is intelligently placed to avoid covering important subjects such as human faces, important keywords are automatically emphasized and highlighted with your brand color, and a credit scene is generated at the end of each video to help you stay compliant with copyright laws. 视频编辑是一个耗时的过程，因为它需要大量的小调整和微调。使用机器学习，我们可以自动执行这些任务，帮助我们的用户以最少的时间、精力和培训创建高质量的视频。例如，根据场景中的单词数量通过算法确定每个场景的持续时间，智能放置文本定位以避免覆盖人脸等重要主题，自动强调并使用您的品牌颜色突出显示重要关键字，以及每个视频末尾都会生成片尾字幕，以帮助您遵守版权法。
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）： [Lumen5: 简介 | LinkedIn](https://www.linkedin.com/company/lumen5/?originalSubdomain=ca)
+
+
+
+Media information 媒体资讯：
+
+* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+
+  * > Lumen5 利用人工智能从文本、图像和其他社交媒体内容创建视频。您向 Lumen5 提供博客文章链接，然后它的 AI 将文本和图像转换为类似 Powerpoint 的视频，您可以使用其拖放界面进行编辑。 Lumen5 还帮助创作者编辑带有标注、剪辑和字幕的“头部特写内容”视频。
+    >
+    > **Key Features: 主要特征：**
+    >
+    > - Multi-channel marketing 多渠道营销
+    > - Social media integration 社交媒体整合
+    > - Brand overlay 品牌叠加
+    > - Multi-language support 多语言支持
+    > - Template management 模板管理
+    > - Data import/export 数据导入/导出
+    > - Video capture 视频截取
+    > - Labeling 标签
+    >
+    > ‍
+    >
+    > **Best For:** Drag-and-drop video editing that scales content creation
+    > 最适合：可扩展内容创建的拖放视频编辑
+
+
+
+
+
+### 33、Make-A-Video by Meta AI
+
+Introducing （介绍）: Make-A-Video is a state-of-the-art AI system that generates videos from text.
+Make-A-Video 是一种最先进的人工智能系统，可以从文本生成视频。
+
+
+
+Website（官方网站）:  https://makeavideo.studio/
+
+Paper （论文地址）: 2022 [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792)
+
+
+
+Media information 媒体资讯：
+
+* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+
+  * > [Make-A-Video by Meta AI](https://makeavideo.studio/) generates videos from text prompts. The system uses images with descriptions to learn what the world looks like and how it’s often described, as well as unlabeled videos to learn how the world moves. Make-A-Video then generates videos from a few lines of input text. 
+    > Meta AI 的 Make-A-Video 根据文本提示生成视频。该系统使用带有描述的图像来了解世界是什么样子以及如何描述它，并使用未标记的视频来了解世界如何运动。 Make-A-Video 然后根据几行输入文本生成视频。
+    >
+    > ‍
+    >
+    > Since you can still only make one video at a time, this video generator is really for one-off video creation needs–not scalable campaigns or programmatic workflows. 
+    > 由于您一次仍然只能制作一个视频，因此该视频生成器实际上是为了满足一次性视频创建需求，而不是可扩展的活动或程序化工作流程。
+    >
+    > ‍
+    >
+    > **Key Features: 主要特征：**
+    >
+    > - Text-to-video generation 文本到视频生成
+    > - Add motion to a single image or fill in the in-between motion to two images
+    >   添加运动到单个图像或填充中间运动到两个图像
+    > - Create variations of your video based on the original
+    >   根据原始视频创建视频变体
+    > - High-quality video generation
+    >   高质量视频生成
+    > - Responsible AI development with watermarking on all videos
+    >   负责任的人工智能开发，所有视频均带有水印
+    >
+    > ‍
+    >
+    > **Best For:** Text-to-video generation
+    > 最适合：文本到视频生成
+
+
+
+
+
+### 34、Designs.ai 
+
+Introducing （介绍）: Designs.ai is an online platform that uses AI technology to provide design tools to its users. It offers a platform where users can create marketing portfolios and includes tools for creating graphics, videos, logos, and mockups. It also has a collaboration feature that allows users to work together on projects and an integration function for saving brand assets.
+Designs.ai 是一个利用人工智能技术为其用户提供设计工具的在线平台。它提供了一个平台，用户可以在其中创建营销组合，并包括用于创建图形、视频、徽标和模型的工具。它还具有允许用户在项目上协同工作的协作功能以及用于节省品牌资产的集成功能。
+
+
+
+Website（官方英文网站）: https://designs.ai/
+
+Website（官方中文网站）: https://designs.ai/cn
+
+Official blog（官方博客）：https://blog.designs.ai/
+
+Tutorials（产品教程）：[Designs Ai Official - YouTube](https://www.youtube.com/channel/UCHlJ9ySy3e7gQRQKaa4SUHA)
+
+
+
+Official social media account（官方社交媒体账号）：
+
+LinkedIn（领英）： [Designs.ai: 简介 | LinkedIn](https://www.linkedin.com/company/designs-ai/)
+
+Twitter（X）（推特）：[Designs.ai (@DesignsdotAI) / X](https://twitter.com/DesignsdotAI)
+
+Youtube（油管）：[Designs Ai Official - YouTube](https://www.youtube.com/channel/UCHlJ9ySy3e7gQRQKaa4SUHA)
+
+Facebook（脸书）：[Designs.ai Facebook](https://www.facebook.com/DesignsdotAIOfficial)
+
+Instagram（ins）：[AI-Powered Graphic Design Tool (@designsdotai) · Instagram 照片和视频](https://www.instagram.com/DesignsdotAI/)
+
+
+
+Media information 媒体资讯：
+
+* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+
+  * > **Key Features: 主要特征：**
+    >
+    > - Ability to create marketing portfolios in less than 2 minutes
+    >   能够在 2 分钟内创建营销组合
+    > - Smart mockups 智能模型
+    > - Collaboration feature for team projects
+    >   团队项目的协作功能
+    > - Integration function for saving and using brand assets across creations
+    >   跨创作保存和使用品牌资产的集成功能
+    >
+    > ‍
+    >
+    > **Best For: 最适合：**
+    >
+    > AI video art generation and graphics
+    > AI 视频艺术生成和图形
+
+
+
+
+
 
 
 ## 5、AI Funding Rounds 
@@ -2888,6 +3117,10 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240111 Jack Lee 今天目标推进500词，最终推进到了47346词
+
+今天主要增加了Idomoo、Lumen5、Make-A-Video by Meta AI、Designs.ai，明天0112到周末0114根据阳志平老师之前给我的建议就关于本文档中信息的准确性、分析的深度以及对读者的实际用处对内容的质量进行最后的完善，下一周就进行最后的打磨工作。
 
 20240110 Jack Lee 今天目标推进500词，最终推进到了44996词
 
