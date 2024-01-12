@@ -16,13 +16,15 @@
 
 ## 提交内容：List  about the current collection of AI video projects.md
 
-This is an awesome GitHub list of information about the current collection of AI video projects
+Here’s an awesome GitHub list with some inventory information for a collection of AI video projects
 
-List  about the current collection of AI video projects
-
-
+This repository mainly collects some mainstream AI video projects currently on the market. For details, please see List about the current collection of AI video projects.md in this repository.
 
 
+
+这是一个很棒的 GitHub 列表，其中包含一些 AI 视频项目集合的清单信息
+
+本仓库主要收集了一些目前市场上主流的 AI 视频项目，具体内容详见 本仓库中的 List  about the current collection of AI video projects.md
 
 
 
@@ -66,7 +68,7 @@ AI 视频生成器使用人工智能来创建、编辑或缩放视频。它们�
 - **AI animation video generators:** Create animated videos, perfect for explainer videos or animated marketing content.
   AI 动画视频生成器：创建动画视频，非常适合讲解视频或动画营销内容。
 
-——  [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+——  [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
 
 
 
@@ -134,7 +136,7 @@ Tools that offer extensive customization options can enable you to create videos
 With Tavus, you get the ultimate customization opportunities. Choose whatever variables you want to personalize in each video, create custom CTAs, embed CTA links, and choose dynamic video backgrounds. This level of customization helps you create unique, engaging content that resonates with your audience and leads to higher conversions. 
 借助 Tavus，您可以获得终极定制机会。选择您想要在每个视频中个性化的任何变量、创建自定义 CTA、嵌入 CTA 链接并选择动态视频背景。这种级别的定制可帮助您创建独特、引人入胜的内容，与受众产生共鸣并带来更高的转化率。
 
-——  [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+——  [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
 
 
 
@@ -284,6 +286,14 @@ Media information 媒体资讯：
 
 
 
+Pricing（订阅价格）：
+
+* [Pika推出付费订阅模式 - 智东西快讯](https://zhidx.com/news/40920.html)
+
+  - > 智东西1月8日消息，AI视频创作工具Pika今日推出订阅计划，分为免费的基础模式、每月10美元的标准模式和60美元的专业模式两种。其中，基础版提供每月300积分，支持高清分辨率；标准版提供每月1050积分，支持高清分辨率、无水印视频；专业版提供每月3000积分，在标准版的基础上提供无限Chill生成，且积分不会过期。据介绍，每秒的快速视频生成需要5积分，基线视频长度为3秒，因此每生成一个视频需要消耗15积分。此外与快速生成相比，扩展视频消耗的资源较少，因此每秒只花费1积分。专业版用户的积分耗尽后，将从快速生成模式切换到速度较慢的Chill生成模式，无次数限制；专业版用户也可以购买更多积分，价格为每积分0.01美元。
+
+![image-20240112151214735](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401121512166.png)
+
 
 
 ### 2、Runway ML Gen-2
@@ -368,6 +378,14 @@ Media information 媒体资讯：
   * > Runway 宣布，Gen-1 和 Gen-2 已经彻底开放，任何人都可以注册一个账号免费尝试。生成的视频长度为 4 秒，每秒消耗 5 个积分，利用免费额度可以生成二十几个视频。如果免费积分耗尽，付费标准为 0.01 美元 / 积分，也就是生成一个视频需要 0.2 美元。*2023-07-25 13:24* *机器之心 发表于北京*
 
 * [图像涂哪就动哪，Gen-2新功能“神笔马良”爆火，网友：急急急-36氪](https://36kr.com/p/2515454214115330)
+
+
+
+Pricing（订阅价格）：
+
+对比AI视频“鼻祖”Runway的收费，Pika的定价相对低一点。Runway的付费模式分为3档，标准版、Pro版和无限版，价格分别为12美元/月、28美元/月、76美元/月。
+
+![image-20240112151441886](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401121514540.png)
 
 
 
@@ -996,6 +1014,26 @@ Media information 媒体资讯：
 
 * Forbes：2021年，初创公司Elai.io开发了一款将文本转换为视频内容的产品。作为输出，用户会收到由人工智能化身显示和发声的演示文稿。
 
+* [10 "Best" AI Video Generators (January 2024) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+* [10 个“最佳”AI 视频生成器（2024 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+
+  * > Elai.io 由全球人工智能技术专家团队运营，是另一个领先的人工智能视频生成器，使用户能够从文本创建各种视频内容。 使用Elai.io，您可以轻松地大规模生成视频。 
+    >
+    > 您只需单击三下即可使用该平台从文章或博客文章的链接生成专业视频。 您首先复制并粘贴博客文章 URL 或 HTML 文本，然后从库中选择模板之一。 剩下要做的就是检查视频、进行更改、渲染和下载。 
+    >
+    > Elai.io 对于希望在没有演员、配音或后期制作的情况下创建培训视频的用户特别有用。 您还可以通过人工智能驱动的引人注目的产品视频来改善您的营销。 
+    >
+    > 有超过 60 种语言和超过 25 个头像可供选择。 除了从库中选择演示者外，您还可以请求个人头像。 
+    >
+    > 以下是Elai.io的一些主要功能： 
+    >
+    > - 大规模生成视频
+    > - 从博客或文章创建视频
+    > - 超过 60 种语言和超过 25 个头像
+    > - 培训视频 
+  
+  
   
 
 
@@ -1339,7 +1377,7 @@ Discord（社群）：[(Discord | #🚀︱start | HeyGen](https://discord.com/ch
 
 Media information 媒体资讯：
 
-* [HeyGen Review: The Best AI Video Generator for Businesses?](https://www.unite.ai/heygen-review/#:~:text=HeyGen%20Review%3A%20Final%20Thoughts&text=HeyGen%20has%20significantly%20improved%20my,wide%20range%20of%20customization%20options.)
+* [HeyGen Review: The Best AI Video Generator for Businesses?](https://www.unite.ai/heygen-review/)
 
 * [HeyGen 评论：最适合企业的人工智能视频生成器？](https://www.unite.ai/zh-CN/%E6%B5%B7%E6%A0%B9%E8%AF%84%E8%AE%BA/)
 
@@ -1357,6 +1395,8 @@ Media information 媒体资讯：
 
 * [HeyGen：AI创业，我们如何在7个月内达到100万美元收入｜真格基金 Z Circle](https://mp.weixin.qq.com/s?__biz=MjM5NDk5MTA0MQ==&mid=2652318720&idx=1&sn=7cba20ec976fe46b0804cd0e6c7e8e5e&sharer_shareinfo=dd0e6f646cdf6d515f9039f37ad27ef4&sharer_shareinfo_first=cb10f561290435b6b00fd4829bd0c9ac#rd)
 
+  
+  
   
 
 
@@ -1461,9 +1501,9 @@ Facebook（脸书）： [Pictory Facebook](https://www.facebook.com/profile.php?
 
 Media information 媒体资讯：
 
-* [10 "Best" AI Video Generators (December 2023) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+* [10 "Best" AI Video Generators (January 2024) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
 
-* [10 个“最佳”AI 视频生成器（2023 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
+* [10 个“最佳”AI 视频生成器（2024 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
 
   * > Pictory是一款AI视频生成器，可让您轻松创建和编辑高质量视频。 该工具最好的方面之一是您不需要任何视频编辑或设计经验。 
     >
@@ -1480,9 +1520,10 @@ Media information 媒体资讯：
     > - 创建可共享的视频精彩片段
     > - 自动为视频添加字幕和摘要
 
-* [Pictory Review (December 2023): The Best AI Video Generator? - Unite.AI](https://www.unite.ai/pictory-review/)
 
-* [Pictory Review（2023 年 XNUMX 月）：最好的 AI 视频生成器？ - 联合人工智能](https://www.unite.ai/zh-CN/%E5%9B%BE%E7%89%87%E8%AF%84%E8%AE%BA/)
+* [Pictory Review (January 2024): The Best AI Video Generator? - Unite.AI](https://www.unite.ai/pictory-review/)
+
+* [Pictory 评论（2024 年 XNUMX 月）：最好的 AI 视频生成器？ - 联合人工智能](https://www.unite.ai/zh-CN/%E5%9B%BE%E7%89%87%E8%AF%84%E8%AE%BA/)
 
   * > 简而言之： Pictory是轻松视频营销的终极解决方案！
 
@@ -1527,9 +1568,9 @@ Facebook（脸书）：  [Synthesys AI Studio | Facebook](https://www.facebook.c
 
 Media information 媒体资讯：
 
-* [Synthesys Review: The Best AI Video Generator? (December 2023)](https://www.unite.ai/synthesys-review/)
+* [Synthesys Review: The Best AI Video Generator? (January 2024)](https://www.unite.ai/synthesys-review/)
 
-* [Synthesys 评论：最好的人工智能视频生成器？ （2023 年 XNUMX 月）](https://www.unite.ai/zh-CN/%E7%BB%BC%E5%90%88%E8%AF%84%E8%AE%BA/)
+* [Synthesys 评论：最好的人工智能视频生成器？ （2024 年 XNUMX 月）](https://www.unite.ai/zh-CN/%E7%BB%BC%E5%90%88%E8%AF%84%E8%AE%BA/)
 
   > * 这个强大的工具拥有一个庞大的库，包含 300 种语言的 140 多种语音。 您可以通过选择情绪（例如快乐、愤怒或悲伤）并调整音调、强调和停顿来完全根据您的喜好自定义声音。
   >
@@ -1598,9 +1639,9 @@ Twitter（X）（推特）： [Synthesia (@synthesiaIO) / X](https://twitter.com
 
 Media information 媒体资讯：
 
-* [Synthesia Review: The #1 AI Video Generator in December 2023? - Unite.AI](https://www.unite.ai/synthesia-review/)
+* [Synthesia Review: The #1 AI Video Generator in January 2024? - Unite.AI](https://www.unite.ai/synthesia-review/)
 
-* [Synthesia 评论：1 年 2023 月排名第一的人工智能视频生成器？ - 联合人工智能](https://www.unite.ai/zh-CN/%E7%BB%BC%E5%90%88%E8%AF%84%E8%AE%BA-a/)
+* [Synthesia 评论：1 月 2024 年 排名第一的人工智能视频生成器？ - 联合人工智能](https://www.unite.ai/zh-CN/%E7%BB%BC%E5%90%88%E8%AF%84%E8%AE%BA-a/)
 
   > * [Synthesia](https://www.unite.ai/zh-CN/转到/综合性)[ AI](https://www.unite.ai/zh-CN/转到/综合性)于2017年成立 [维克多·里帕贝利（Victor Riparbelli）](https://www.linkedin.com/in/victorriparbelli/) 以及一群来自知名机构的人工智能研究人员和企业家，使个人能够在不需要相机、麦克风或工作室的情况下创建专业品质的视频内容。
   >
@@ -1735,9 +1776,9 @@ Instagram（ins)： [DEEPBRAIN\_AI (@deepbrain\_ai) · Instagram 照片和视频
 
 Media information 媒体资讯：
 
-* [DeepBrain AI Review: The Best AI Avatar Generator? (2023)](https://www.unite.ai/deepbrain-ai-review/)
+* [DeepBrain AI Review: The Best AI Avatar Generator? (2024)](https://www.unite.ai/deepbrain-ai-review/)
 
-* [DeepBrain AI 评论：最好的 AI 头像生成器？ (2023)](https://www.unite.ai/zh-CN/%E6%B7%B1%E8%84%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AF%84%E8%AE%BA/)
+* [DeepBrain AI 评论：最好的 AI 头像生成器？ (2024)](https://www.unite.ai/zh-CN/%E6%B7%B1%E8%84%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AF%84%E8%AE%BA/)
 
   > * 可以从 100 多个由真人开发的头像中进行选择，他们会说 80 多种语言，涵盖不同的种族和年龄。 这意味着您的人工智能头像将与您的品牌形象完美契合。 您可以生成所有类型的内容，从教育材料到培训视频等等。
   >
@@ -1783,9 +1824,9 @@ Facebook（脸书）： [Invideo Facebook](https://www.facebook.com/invideo.io/)
 
 Media information 媒体资讯：
 
-* [InVideo Review: The Best AI Video Generator in December 2023?](https://www.unite.ai/invideo-review/)
+* [InVideo Review: The Best AI Video Generator in January 2024?](https://www.unite.ai/invideo-review/)
 
-* [InVideo评测：2023年XNUMX月最好的AI视频生成器？](https://www.unite.ai/zh-CN/%E8%A7%86%E9%A2%91%E8%AF%84%E8%AE%BA/)
+* [InVideo 评测：2024 年 XNUMX 月最好的 AI 视频生成器？](https://www.unite.ai/zh-CN/%E8%A7%86%E9%A2%91%E8%AF%84%E8%AE%BA/)
 
   > * [InVideo](https://www.unite.ai/zh-CN/转到/影片内) 是最好的人工智能视频生成器之一，可以快速轻松地生成高质量视频。 这是一个革命性的执行工具 [社会化媒体](https://www.unite.ai/zh-CN/10-个最佳社交媒体人工智能工具/) 内容策略， [商业](https://www.unite.ai/zh-CN/最佳商业人工智能工具/) 视频营销等等。
   >
@@ -1857,6 +1898,8 @@ Media information 媒体资讯：
   >   
   > * Veed 为您提供多种格式
   >
+  
+* [10 "Best" AI Video Generators (January 2024) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
 
 
 * [10 个“最佳”AI 视频生成器（2024 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
@@ -1987,6 +2030,8 @@ Media information 媒体资讯：
   >   ##### **Fliki 对用户友好吗？**
   >
   >   它采用用户友好的界面设计，以确保广大用户的可访问性。然而，与任何工具一样，可能存在学习曲线，用户可以探索 Fliki 提供的教程或文档，以最大限度地发挥其潜力。
+
+* [10 "Best" AI Video Generators (January 2024) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
 
 * [10 个“最佳”AI 视频生成器（2024 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
 
@@ -3117,6 +3162,18 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240112 Jack Lee 今天完成了以下工作
+
+1、今天主要增加了pika开始需要付费订阅，考虑明天给文档中的视频生成工具补充订阅价格
+
+2、今日撰写完成本仓库README.zh-cn.md、README.md说明（下周看看要不要继续完善一下，顺便精简一下文档），本周日计划检查一遍文档（包括README.zh-cn.md、README.md）
+
+3、今日更新完成本文档中Unite.AI等文章标题最新链接，2023年变成2024年（但其实文章内容是一样的）
+
+* [10 "Best" AI Video Generators (January 2024) - Unite.AI](https://www.unite.ai/best-ai-video-generators/)
+
+* [10 个“最佳”AI 视频生成器（2024 年 XNUMX 月） - Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/)
 
 20240111 Jack Lee 今天目标推进500词，最终推进到了47346词
 
