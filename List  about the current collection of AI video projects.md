@@ -291,8 +291,14 @@ Pricing（订阅价格）：
 * [Pika推出付费订阅模式 - 智东西快讯](https://zhidx.com/news/40920.html)
 
   - > 智东西1月8日消息，AI视频创作工具Pika今日推出订阅计划，分为免费的基础模式、每月10美元的标准模式和60美元的专业模式两种。其中，基础版提供每月300积分，支持高清分辨率；标准版提供每月1050积分，支持高清分辨率、无水印视频；专业版提供每月3000积分，在标准版的基础上提供无限Chill生成，且积分不会过期。据介绍，每秒的快速视频生成需要5积分，基线视频长度为3秒，因此每生成一个视频需要消耗15积分。此外与快速生成相比，扩展视频消耗的资源较少，因此每秒只花费1积分。专业版用户的积分耗尽后，将从快速生成模式切换到速度较慢的Chill生成模式，无次数限制；专业版用户也可以购买更多积分，价格为每积分0.01美元。
+  
+* 2024年1月13日Pika官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
 
-![image-20240112151214735](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401121512166.png)
+* Pika的付费模式分为3档，标准版、无限版和Pro版，月付方案标准版、无限版和Pro版分别为10美元/月、35美元/月、70美元/月。
+
+![image-20240113130618358](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131306064.png)
+
+
 
 
 
@@ -383,9 +389,12 @@ Media information 媒体资讯：
 
 Pricing（订阅价格）：
 
-对比AI视频“鼻祖”Runway的收费，Pika的定价相对低一点。Runway的付费模式分为3档，标准版、Pro版和无限版，价格分别为12美元/月、28美元/月、76美元/月。
+对比AI视频“鼻祖”Runway的收费，Pika的定价相对低一点。Runway的付费模式分为3档，标准版、Pro版和无限版，价格分别为15美元/月、35美元/月、95美元/月。
 
-![image-20240112151441886](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401121514540.png)
+* 2024年1月13日Runway官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+* Runway的付费模式分为3档，标准版、Pro版和无限版，月付方案标准版、Pro版和无限版分别为15美元/月、35美元/月、95美元/月。
+
+![image-20240113120447246](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131204066.png)
 
 
 
@@ -1033,8 +1042,17 @@ Media information 媒体资讯：
     > - 超过 60 种语言和超过 25 个头像
     > - 培训视频 
   
-  
-  
+
+
+
+Pricing（订阅价格）：
+
+* 2024年1月13日Elai.io官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+* Elai.io的付费模式分为3档，标准版、高级版和企业定制版，月付方案标准版、高级版分别为29美元/月、125美元/月。
+
+![image-20240113121654231](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131216913.png)
+
+
 
 
 
@@ -1054,35 +1072,30 @@ Date（日期）：2022年11月3日
 
 Summary（总结）：
 
-> Tal Stramer has announced a new project, https://t.co/4hhV3KfNZi , which is a practical tool to generate images and videos with AI. The project was advised by Andrej Karpathy.
+> 以下援引自上述URL中项目作者Tal Stramer发言
 >
-> Tal Stramer 宣布了一个新项目https://t.co/4hhV3KfNZi ，这是一个利用 AI 生成图像和视频的实用工具。该项目由安德烈·卡帕蒂 (Andrej Karpathy) 提供建议。
->
-> > 以下援引自上述URL中项目作者Tal Stramer发言
-> >
-> > Tal Stramer：Why another generative AI service? To create the perfect image with AI, you often need to generate hundreds of variations, but existing tools only let you generate a few images at a time. Stableboost is built from the ground up to let you quickly generate a lot of images.
-> > 为什么需要另一种生成式人工智能服务？要使用 AI 创建完美的图像，您通常需要生成数百种变体，但现有工具只能让您一次生成几张图像。 Stableboost 是从头开始构建的，可让您快速生成大量图像。
-> >
-> > After generating many images for a prompt, Stableboost lets you interactively discover your favorites. It learns your preferences based on selecting a few images you like and recommends you similar images.
-> > 在为提示生成许多图像后，Stableboost 可以让您以交互方式发现您最喜欢的图像。它通过选择您喜欢的一些图像来了解您的偏好，并向您推荐类似的图像。
-> >
-> > Crafting a prompt to generate the images you want can involve a lot of trial and error. Stableboost speeds this up by letting you try out different variations of your prompt all at once.
-> > 制作提示来生成您想要的图像可能需要大量的试验和错误。 Stableboost 通过让您同时尝试不同的提示变体来加快速度。
-> >
-> > For fun, Stableboost also lets you generate hypnotic video animations that smoothly interpolate between text prompts.
-> > 为了好玩，Stableboost 还可以让您生成催眠视频动画，在文本提示之间平滑插入。
-> >
-> > Stableboost also supports many of the standard features people have come to expect from these types of services: Image-to-image, inpainting, face restoration, upscaling, etc.
-> > Stableboost 还支持人们期望从这些类型的服务中获得的许多标准功能：图像到图像、修复、面部恢复、升级等。
-> >
-> > Try Stableboost for free at [https://stableboost.ai](https://t.co/zWIG6ZwxsI) . You get 500 free credits every month and its 1 cent per image after that (the price is minimal so I can cover my costs). Enjoy!
-> > 访问 [https://stableboost.ai](https://t.co/zWIG6ZwxsI) 免费试用 Stableboost。您每月可以获得 500 个免费积分，之后每张图片 1 美分（价格很低，所以我可以支付我的费用）。享受！
-> >
-> > yes, you can upload an image to use as a reference and  set the style you want as the prompt. play with the guidance scale and initial image similarity settings to get good results. like this
-> > 是的，您可以上传图像作为参考，并设置您想要的样式作为提示。使用引导比例和初始图像相似度设置以获得良好的结果。像这样
-> >
-> > ![example](https://gitee.com/junhaoyu/work20221111/raw/master/img/202312191351540.jpg)
->
+> Tal Stramer：Why another generative AI service? To create the perfect image with AI, you often need to generate hundreds of variations, but existing tools only let you generate a few images at a time. Stableboost is built from the ground up to let you quickly generate a lot of images.
+>为什么需要另一种生成式人工智能服务？要使用 AI 创建完美的图像，您通常需要生成数百种变体，但现有工具只能让您一次生成几张图像。 Stableboost 是从头开始构建的，可让您快速生成大量图像。
+> 
+> After generating many images for a prompt, Stableboost lets you interactively discover your favorites. It learns your preferences based on selecting a few images you like and recommends you similar images.
+> 在为提示生成许多图像后，Stableboost 可以让您以交互方式发现您最喜欢的图像。它通过选择您喜欢的一些图像来了解您的偏好，并向您推荐类似的图像。
+> 
+> Crafting a prompt to generate the images you want can involve a lot of trial and error. Stableboost speeds this up by letting you try out different variations of your prompt all at once.
+> 制作提示来生成您想要的图像可能需要大量的试验和错误。 Stableboost 通过让您同时尝试不同的提示变体来加快速度。
+> 
+> For fun, Stableboost also lets you generate hypnotic video animations that smoothly interpolate between text prompts.
+> 为了好玩，Stableboost 还可以让您生成催眠视频动画，在文本提示之间平滑插入。
+> 
+> Stableboost also supports many of the standard features people have come to expect from these types of services: Image-to-image, inpainting, face restoration, upscaling, etc.
+> Stableboost 还支持人们期望从这些类型的服务中获得的许多标准功能：图像到图像、修复、面部恢复、升级等。
+> 
+> Try Stableboost for free at [https://stableboost.ai](https://t.co/zWIG6ZwxsI) . You get 500 free credits every month and its 1 cent per image after that (the price is minimal so I can cover my costs). Enjoy!
+> 访问 [https://stableboost.ai](https://t.co/zWIG6ZwxsI) 免费试用 Stableboost。您每月可以获得 500 个免费积分，之后每张图片 1 美分（价格很低，所以我可以支付我的费用）。享受！
+> 
+> yes, you can upload an image to use as a reference and  set the style you want as the prompt. play with the guidance scale and initial image similarity settings to get good results. like this
+> 是的，您可以上传图像作为参考，并设置您想要的样式作为提示。使用引导比例和初始图像相似度设置以获得良好的结果。像这样
+> 
+> ![example](https://gitee.com/junhaoyu/work20221111/raw/master/img/202312191351540.jpg)
 
 
 
@@ -1397,7 +1410,15 @@ Media information 媒体资讯：
 
   
   
-  
+
+Pricing（订阅价格）：
+
+* 2024年1月13日HeyGen官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+* HeyGen的付费模式分为3档，个人版、商业版和企业定制版，月付方案个人版、商业版分别为29美元/月、89美元/月。
+
+![image-20240113121427968](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131214591.png)
+
+
 
 
 
@@ -1529,6 +1550,15 @@ Media information 媒体资讯：
 
 
 
+Pricing（订阅价格）：
+
+* 2024年1月13日Pictory官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+* Pictory的付费模式分为3档，标准版、Pro版和团队版，月付方案标准版、Pro版和团队版分别为23美元/月、47美元/月、119美元/月。
+
+![image-20240113121944157](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131219828.png)
+
+
+
 
 
 ### 19、Synthesys
@@ -1590,6 +1620,15 @@ Media information 媒体资讯：
   >   人工智能图像生成器
   >
   > * 总的来说，我对 Synthesys 的 AI 图像生成器的体验非常好，结果给我留下了深刻的印象！ 界面干净且易于导航，生成图像轻而易举。
+
+
+
+Pricing（订阅价格）：
+
+* 2024年1月13日Synthesys官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+* Synthesys的付费模式分为2档，个人版和商业版，月付方案个人版和商业版分别为59美元/月、99美元/月。
+
+![image-20240113125828887](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131258616.png)
 
 
 
@@ -1668,6 +1707,15 @@ Media information 媒体资讯：
   > * Synthesia有什么缺点？
   >
   >   Synthesia 是一款令人难以置信的人工智能视频生成器。 然而，我发现的主要缺点之一是您无法在生成视频之前预览手势。 此外，尽管有手势，但与真人制作的视频相比，仍然缺乏情感深度和个人联系。
+
+
+
+Pricing（订阅价格）：
+
+- 2024年1月13日Synthesia官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- Synthesia的付费模式分为3档，入门版、个人版和企业定制版，月付方案入门版、个人版分别为29美元/月、89美元/月。
+
+![image-20240113130352886](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131303610.png)
 
 
 
@@ -1790,6 +1838,15 @@ Media information 媒体资讯：
 
 
 
+Pricing（订阅价格）：
+
+- 2024年1月13日DeepBrain AI官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- DeepBrain AI的付费模式分为3档，入门版、Pro版和企业定制版，月付方案入门版、Pro版分别为30美元/月、225美元/月。
+
+![image-20240113131722233](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131317970.png)
+
+
+
 
 
 ### 22、InVideo
@@ -1847,6 +1904,15 @@ Media information 媒体资讯：
   >   将人工智能生产力工具 InVideo 融入您的工作流程可以显着增强您的内容创建过程。 该平台提供了广泛的功能，使任何行业的创作者都可以轻松高效地进行视频制作，以便立即为任何社交媒体平台生成视频。
   >
   >   如果您正在寻找一款兼具易用性和强大功能的 AI 视频生成器，InVideo 是您的完美选择。 今天就尝试一下，以前所未有的方式释放您的创造力。
+
+
+
+Pricing（订阅价格）：
+
+- 2024年1月13日InVideo官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- InVideo的付费模式分为2档，Plus版和Max版，月付方案Plus版和Max版分别为25美元/月、60美元/月。
+
+![image-20240113131530779](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131315926.png)
 
 
 
@@ -1916,6 +1982,15 @@ Media information 媒体资讯：
     > 不同的主题
     > 一键转录视频
     > 无需视频编辑经验
+
+
+
+Pricing（订阅价格）：
+
+- 2024年1月13日VEED官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- VEED的付费模式分为3档，标准版、Pro版和商业版，月付方案标准版、Pro版和商业版分别为25美元/月、38美元/月、70美元/月。
+
+![image-20240113131846289](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131318033.png)
 
 
 
@@ -2041,6 +2116,15 @@ Media information 媒体资讯：
     > - 2000 种逼真的文本转语音声音
     > - 75 +语言
     > - 无需视频编辑经验
+
+
+
+Pricing（订阅价格）：
+
+- 2024年1月13日Fliki官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- Fliki的付费模式分为2档，标准版和高级版，月付方案标准版和高级版分别为28美元/月、88美元/月。
+
+![image-20240113132101445](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131321188.png)
 
 
 
@@ -2216,6 +2300,15 @@ Media information 媒体资讯：
 
 
 
+Pricing（订阅价格）：
+
+- 2024年1月13日Colossyan官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- Colossyan的付费模式分为3档，入门版、Pro版和企业定制版，月付方案入门版、Pro版分别为35美元/月、120美元/月。
+
+![image-20240113132347873](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131323028.png)
+
+
+
 
 
 ### 26、NeverEnds（2.0）
@@ -2337,6 +2430,15 @@ Media information 媒体资讯：
     > NeverEnds也赶了一波潮流，**在Discord上线“图生舞蹈”新功能。**
     >
     > 舞姿包括最近大火的**科目三、海草舞和江南style**。延续了便捷的操作性，用户只需选择“lets-dance”房间，一键上传图片，就可以想让谁跳，谁就跳！
+
+
+
+Pricing（订阅价格）：
+
+- 2024年1月13日NeverEnds官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- NeverEnds的付费模式分为3档，尝鲜版、标准版、尊享版和限量优惠版，尝鲜版、标准版、尊享版和限量优惠版分别为9.9元/月、99元/月、1999元/月、999元/月。
+
+![image-20240113132539053](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131325822.png)
 
 
 
@@ -2475,6 +2577,17 @@ Media information 媒体资讯：
 
 
 
+Pricing（订阅价格）：
+
+- 2024年1月13日Stability AI官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- Stability AI的付费模式分为2档，Pro版和企业定制版，月付方案Pro版为20美元/月。
+
+![image-20240113114300987](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131143773.png)
+
+API价格详见 * [Stability AI - 开发者平台 --- Stability AI - Developer Platform](https://platform.stability.ai/pricing)
+
+
+
 
 
 ### 30、Tavus
@@ -2507,7 +2620,7 @@ Media information 媒体资讯：
 
   * > **Tavus在2023年3月获得红杉领投的610万美元种子轮融资**，参与本轮融资的还包括Accel Partners、Index Ventures、Lightspeed Ventures和YC Continuity等一大批硅谷主流投资机构。
 
-* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+* [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
 
   * > With Tavus, you can make thousands of personalized videos in just a few clicks. [Tavus](https://www.tavus.io/) is an AI video generator that believes in the engaging power of personalized videos to transcend the noise of mass messaging and create meaningful connections with viewers. 
     > 借助 Tavus，您只需点击几下即可制作数千个个性化视频。 Tavus 是一款人工智能视频生成器，相信个性化视频的吸引力能够超越大众信息的噪音，与观众建立有意义的联系。
@@ -2545,6 +2658,18 @@ Media information 媒体资讯：
 
 
 
+Pricing（订阅价格）：
+
+- 2024年1月13日Tavus官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- Tavus的付费模式提供了企业定制计划。
+
+Experience the power of AI video generation with Tavus' Enterprise plan. With unlimited users, AI models, API access, and native integrations, Tavus offers the tools you need to take your marketing to the next level. Pricing is shared when you request a demo.
+通过 Tavus 企业计划体验 AI 视频生成的力量。凭借无限的用户、AI 模型、API 访问和本机集成，Tavus 提供您所需的工具，将您的营销提升到新的水平。当您请求演示时，会共享定价。
+
+![image-20240113134253569](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131342356.png)
+
+
+
 
 
 ### 31、Idomoo
@@ -2575,7 +2700,7 @@ Facebook（脸书）：[ Idomoo Facebook](https://www.facebook.com/IdomooVideos)
 
 Media information 媒体资讯：
 
-* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+*  [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
 
   * > **Key Features: 主要特征：**
     >
@@ -2600,6 +2725,13 @@ Media information 媒体资讯：
 
   * > 在几秒钟内创建人工智能视频
     > 文本转视频从未如此简单 - 只需输入您想要的内容，Lucas 即可交付
+
+
+
+Pricing（订阅价格）：
+
+Pricing information is not available on the Idomoo website.
+Idomoo 网站上未提供定价信息。
 
 
 
@@ -2648,7 +2780,7 @@ LinkedIn（领英）： [Lumen5: 简介 | LinkedIn](https://www.linkedin.com/com
 
 Media information 媒体资讯：
 
-* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+* [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
 
   * > Lumen5 利用人工智能从文本、图像和其他社交媒体内容创建视频。您向 Lumen5 提供博客文章链接，然后它的 AI 将文本和图像转换为类似 Powerpoint 的视频，您可以使用其拖放界面进行编辑。 Lumen5 还帮助创作者编辑带有标注、剪辑和字幕的“头部特写内容”视频。
     >
@@ -2670,6 +2802,15 @@ Media information 媒体资讯：
 
 
 
+Pricing（订阅价格）：
+
+- 2024年1月13日Lumen5官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- Lumen5的付费模式分为3档，标准版、入门版、Pro版和企业定制版，月付方案标准版、入门版、Pro版分别为29美元/月、79美元/月、199美元/月。
+
+![image-20240113134655202](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131346564.png)
+
+
+
 
 
 ### 33、Make-A-Video by Meta AI
@@ -2687,7 +2828,7 @@ Paper （论文地址）: 2022 [Make-A-Video: Text-to-Video Generation without T
 
 Media information 媒体资讯：
 
-* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+* [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
 
   * > [Make-A-Video by Meta AI](https://makeavideo.studio/) generates videos from text prompts. The system uses images with descriptions to learn what the world looks like and how it’s often described, as well as unlabeled videos to learn how the world moves. Make-A-Video then generates videos from a few lines of input text. 
     > Meta AI 的 Make-A-Video 根据文本提示生成视频。该系统使用带有描述的图像来了解世界是什么样子以及如何描述它，并使用未标记的视频来了解世界如何运动。 Make-A-Video 然后根据几行输入文本生成视频。
@@ -2717,6 +2858,11 @@ Media information 媒体资讯：
     > 最适合：文本到视频生成
 
 
+
+Pricing（订阅价格）：
+
+Pricing information is not available on the Make-A-Video website.
+Make-A-Video网站上未提供定价信息。
 
 
 
@@ -2753,7 +2899,7 @@ Instagram（ins）：[AI-Powered Graphic Design Tool (@designsdotai) · Instagra
 
 Media information 媒体资讯：
 
-* [10+ 个最佳 AI 视频生成工具 [2023] --- 10+ Best AI Video Generator Tools [2023]](https://www.tavus.io/post/ai-video-generator-tools)
+* [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
 
   * > **Key Features: 主要特征：**
     >
@@ -2771,6 +2917,15 @@ Media information 媒体资讯：
     >
     > AI video art generation and graphics
     > AI 视频艺术生成和图形
+
+
+
+Pricing（订阅价格）：
+
+- 2024年1月13日Designs.ai官网显示的付费订阅价格，仅供参考，不排除后期有变化的可能。
+- Designs.ai的付费模式分为3档，标准版、Pro版和企业版，月付方案标准版、Pro版和企业版分别为29美元/月、69美元/月、119美元/月。
+
+![image-20240113135156828](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131351596.png)
 
 
 
@@ -3162,6 +3317,10 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240113 Jack Lee 今天完成了以下工作
+
+今天主要给文档中的视频生成工具补充了订阅价格，更新了链接  [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
 
 20240112 Jack Lee 今天完成了以下工作
 
