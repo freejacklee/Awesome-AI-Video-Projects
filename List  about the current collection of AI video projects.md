@@ -4,13 +4,9 @@
 
 
 
-
-
 ## 仓库地址：freejacklee/Awesome-AI-Video-Projects: This is an awesome GitHub list of information about the current collection of AI video projects
 
 * [freejacklee/Awesome-AI-Video-Projects: This is an awesome GitHub list of information about the current collection of AI video projects] https://github.com/freejacklee/Awesome-AI-Video-Projects
-
-
 
 
 
@@ -22,9 +18,9 @@ This repository mainly collects some mainstream AI video projects currently on t
 
 
 
-这是一个很棒的 GitHub 列表，其中包含一些 AI 视频项目集合的清单信息
+这是一个很棒的 GitHub 清单，其中包含一些 AI 视频项目集合的清单信息
 
-本仓库主要收集了一些目前市场上主流的 AI 视频项目，具体内容详见 本仓库中的 List  about the current collection of AI video projects.md
+本仓库主要收集了一些目前市场上主流的 AI 视频项目，具体内容详见本仓库中的 List  about the current collection of AI video projects.md
 
 
 
@@ -69,6 +65,8 @@ AI 视频生成器使用人工智能来创建、编辑或缩放视频。它们�
   AI 动画视频生成器：创建动画视频，非常适合讲解视频或动画营销内容。
 
 ——  [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
+
+
 
 
 
@@ -2866,6 +2864,8 @@ Make-A-Video网站上未提供定价信息。
 
 
 
+
+
 ### 34、Designs.ai 
 
 Introducing （介绍）: Designs.ai is an online platform that uses AI technology to provide design tools to its users. It offers a platform where users can create marketing portfolios and includes tools for creating graphics, videos, logos, and mockups. It also has a collaboration feature that allows users to work together on projects and an integration function for saving brand assets.
@@ -2926,6 +2926,8 @@ Pricing（订阅价格）：
 - Designs.ai的付费模式分为3档，标准版、Pro版和企业版，月付方案标准版、Pro版和企业版分别为29美元/月、69美元/月、119美元/月。
 
 ![image-20240113135156828](https://gitee.com/junhaoyu/work20221111/raw/master/img/202401131351596.png)
+
+
 
 
 
@@ -3261,6 +3263,8 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 
+
+
 ## 8、Radar Trends
 
 ## 雷达趋势
@@ -3317,6 +3321,8 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240114 Jack Lee 今天检查了一遍文档
 
 20240113 Jack Lee 今天完成了以下工作
 
