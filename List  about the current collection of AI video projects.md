@@ -252,14 +252,6 @@ Media information 媒体资讯：
     > 套用一句老生常谈，人们对技术的态度永远是高估短期，低估长期，AI视频也并不例外。 
 
 
-* [Pika on X: "We’re beginning to let people in off the waitlist, and want to welcome our first Pika 1.0 users! Here’s how to start creating with text-to-video. Sign up at https://t.co/nqzjGy82Lx https://t.co/GXVx9WhM2i" / X](https://twitter.com/pika_labs/status/1734311655771673040)
-
-  * > 我们开始让人们进入候补名单，并希望欢迎我们的第一个Pika 1.0用户！
-  >
-    > 这是开始使用文本到视频创建的方法。
-  >
-    > 请注册https://pika.art/waitlist
-
 * [AI生成视频工具Pika爆火，估值超2亿美元-虎嗅网](https://m.huxiu.com/article/2361484.html#:~:text=%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%8D%8E%E4%BA%BA%E5%AD%A6%E7%94%9F%E9%80%80%E5%AD%A6%E5%88%9B%E5%8A%9E,%E7%BC%96%E8%BE%91%E5%92%8C%E9%87%8D%E6%96%B0%E6%9E%84%E6%83%B3%E5%9C%BA%E6%99%AF%E3%80%82&text=%F0%9F%92%A5%20Pika%201.0%E4%BD%BF%E7%94%A8AI,%E7%AE%80%E5%8D%95%E4%B8%94%E9%A3%8E%E6%A0%BC%E5%A4%9A%E5%8F%98%E3%80%82)
   * > 斯坦福华人学生退学创办的AI视频生成工具Pika 1.0正式推出，估值超过2亿美元。 该工具可以通过文字、图片和视频生成高质量的各种风格视频，并且支持用户上传视频片段进行编辑和重新构想场景。 💥 Pika 1.0使用AI模型生成非常贴近生动的视频，使用简单且风格多变。
 
@@ -273,6 +265,7 @@ Media information 媒体资讯：
 
 
 * [斯坦福华人博士文生视频Pika 1.0爆火！4人公司估值2亿，OpenAI联创参投](https://mp.weixin.qq.com/s?__biz=MzU0OTkwNTM2Mw==&mid=2247653802&idx=1&sn=d8597cc271043b01541ff96aa561fc22&sharer_shareinfo=2d57f4d178c2f63c3692057c22223146&sharer_shareinfo_first=2d57f4d178c2f63c3692057c22223146#rd)
+  
   * > 在获取Pika 1.0试用资格之前，和Midjourney一样，用户现在通过Discord获取Pika Labs的视频生成服务。用户只需在聊天框输入文字，比如「一个机器人在日落沙滩上行走」，就能收到一个由AI生成的视频。
     > 周二，Pika把这一体验带到了网页上，面向更广泛的主流群体，让他们可以在编辑视频、自定义物体。这里还有一段，Pika创意总监前几天放出的，用Pika文本转视频AI功能制作的「3D动画预告片」，效果萌到爆。
 * [4个人，Pika估值10亿](https://mp.weixin.qq.com/s?__biz=Mzk0ODUwNjUxNQ==&mid=2247484633&idx=1&sn=bf28878224f5ef7205214401a7d5669a&sharer_shareinfo=9978076d64328890c7eb7018395ec70d&sharer_shareinfo_first=9978076d64328890c7eb7018395ec70d#rd)
@@ -714,10 +707,6 @@ Media information 媒体资讯：
       > 2. 当一个人在说出给定的内容时，表情和头部姿态存在巨大的多样性，这需要一个大规模和多样化的数据集。因此，该研究收集了一个高质量的能说话的虚拟人物数据集，该数据集由 16K 个不同年龄、性别、皮肤类型和说话风格的独特说话者组成，使生成结果自然且多样化。
 
 * [一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制-36氪](https://36kr.com/p/2543099800561414)
-
-* [盘一下最近爆火刷屏的3大AI视频项目 - 开始加速的未来](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647660629&idx=1&sn=8b48960cd1cc48496bbb57faff2d4e1f&sharer_shareinfo=650ba074a838b636648c3aefa34d35e6&sharer_shareinfo_first=650ba074a838b636648c3aefa34d35e6#rd)
-
-  * > 文字部分略，详见上面的网页链接
 
 * [微软的这个项目厉害了... - @互联网的那点事的微博 - 微博](https://weibo.com/1627825392/Nv8Ya23gw?type=repost)
 
@@ -3246,19 +3235,6 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
     > 同时每个工具生成的质量没有说有明显差距，因此在视频生成工具的市场怎么杀出重围，才是这些创业者们急需考虑的一个问题。
     >
 
-* [进化神速\~用AI生成真人图片和视频！](https://mp.weixin.qq.com/s/6YRtphcsvaW9jk09mvU4lQ)
-
-  * > 在上一年，Stable Diffusion模型发布以来，
-    >
-    > “AI文本图片生成”真正的变成普通人也能使用的技术。但是最近一些网友利用网上的真人图片，不断喂给模型进行自主学习。其训练出来的效果已经可以做到以假乱真，你甚至不知道哪些图片是AI生成的还是真人拍出来的。
-    >
-    > 最近准备做一个教程，如何从零开始搭建自己的AI生成图片网站。并利用自己生成的图片做AI真人说话视频。
-    >
-    > 主要用到一个工程项目：stable-diffusion-webui
-    > 加上一个AI生成真人说话网站：https://studio.d-id.com/
-    >
-    > 敬请期待~
-
 
 
 
@@ -3321,6 +3297,8 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 ## Logging
+
+20240115 Jack Lee 今天精简了一下文档内容
 
 20240114 Jack Lee 今天检查了一遍文档
 
