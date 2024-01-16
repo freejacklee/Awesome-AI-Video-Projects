@@ -51,6 +51,7 @@
     - 32、Lumen5
     - 33、Make-A-Video by Meta AI
     - 34、Designs.ai 
+- [月付方案一览](#月付方案一览)
 - [人工智能（公司）融资轮次](#人工智能（公司）融资轮次)
     - 1、SeiSei.ai
     - 2、VCAT.AI

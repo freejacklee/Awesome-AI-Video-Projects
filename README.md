@@ -51,6 +51,7 @@ This repository mainly collects some mainstream AI video projects currently on t
     - 32、Lumen5
     - 33、Make-A-Video by Meta AI
     - 34、Designs.ai 
+- [List of Monthly Payment Plans](#List of Monthly Payment Plans)
 - [AI Funding Rounds](#AI Funding Rounds)
     - 1、SeiSei.ai
     - 2、VCAT.AI
