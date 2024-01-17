@@ -267,12 +267,12 @@ Media information 媒体资讯：
 * [斯坦福华人博士文生视频Pika 1.0爆火！4人公司估值2亿，OpenAI联创参投](https://mp.weixin.qq.com/s?__biz=MzU0OTkwNTM2Mw==&mid=2247653802&idx=1&sn=d8597cc271043b01541ff96aa561fc22&sharer_shareinfo=2d57f4d178c2f63c3692057c22223146&sharer_shareinfo_first=2d57f4d178c2f63c3692057c22223146#rd)
   
   * > 在获取Pika 1.0试用资格之前，和Midjourney一样，用户现在通过Discord获取Pika Labs的视频生成服务。用户只需在聊天框输入文字，比如「一个机器人在日落沙滩上行走」，就能收到一个由AI生成的视频。
-    > 周二，Pika把这一体验带到了网页上，面向更广泛的主流群体，让他们可以在编辑视频、自定义物体。这里还有一段，Pika创意总监前几天放出的，用Pika文本转视频AI功能制作的「3D动画预告片」，效果萌到爆。
-* [4个人，Pika估值10亿](https://mp.weixin.qq.com/s?__biz=Mzk0ODUwNjUxNQ==&mid=2247484633&idx=1&sn=bf28878224f5ef7205214401a7d5669a&sharer_shareinfo=9978076d64328890c7eb7018395ec70d&sharer_shareinfo_first=9978076d64328890c7eb7018395ec70d#rd)
-  * > 要了解关于Pika的最新信息，请关注X上的@pika_labs，加入pika的Discord社区并在这里访问我们的测试版产品，并在https://pika.art加入新Pika 1.0的等待名单。
+    > 周二，Pika把这一体验带到了网页上，面向更广泛的主流群体，让他们可以在编辑视频、自定义物体。这里还有一段，Pika创意总监前几天放出的，用Pika文本转视频AI功能制作的「3D动画预告片」，效果萌到爆
+  
 * [中国天才少女硅谷创立AI公司，半年估值超10亿](https://mp.weixin.qq.com/s?__biz=MTI3NTQ1MTY0MQ==&mid=2650603935&idx=1&sn=368bd29cbf96b8095e5541ae6689b229&sharer_shareinfo=eda2394bbef20b16a62fb59bd91e59ac&sharer_shareinfo_first=eda2394bbef20b16a62fb59bd91e59ac#rd)
   * > 目前，Pika1.0正式的网页版需要排队预约，尚未有用户实际测评过。有人借此质疑，横空出世的Pika一夜爆红，是否为一场营销骗局？毕竟，在11月之前，Pika还只是一个无名之辈。事实上，Pika的第一个版本今年4月下旬就在Discord上进行了公测。7月，在Discord正式推出服务器，并在几个月时间内收获了50万用户。由于Pika团队精简，寄生在Discord平台，能够最大限度地减少开发量。
     > 最初，Pika只支持文本生视频，后来逐渐支持图片转视频、相机控制、文字和Logo嵌入视频中等。Pika1.0宣传片中的许多功能，目前Discord上的版本并不支持，只能等网页版开放测评后验证。Pika也并非第一次在众人前亮相。今年11月初，《流浪地球3》的发布会上，电影工业化实验室G!Lab官宣成立。郭帆导演介绍了一批战略合作的科技公司，包括商汤科技、小米、华为等，还有Pika Labs。至今，成立仅6个月的Pika已经完成了三轮融资，总金额5500万美元，估值超10亿元人民币。投资人阵容也可谓豪华——包括OpenAI董事会成员Adam D'Angelo与前特斯拉AI总监Andrej Karpathy、前Github CEO Nat Friedman、YC合伙人Daniel Gross，以及硅谷著名投资人Elad Gil等。
+  
 * [Pika, which is building AI tools to generate and edit videos, raises $55M | TechCrunch --- Pika 正在构建用于生成和编辑视频的 AI 工具，筹集了 5500 万美元 | TechCrunch](https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/)
 
 
@@ -3346,7 +3346,9 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 ## Logging
 
-20240115 Jack Lee 今天增加月付方案一览
+20240117 Jack Lee 今天精简了一下文档内容
+
+20240116 Jack Lee 今天增加月付方案一览
 
 20240115 Jack Lee 今天精简了一下文档内容
 
