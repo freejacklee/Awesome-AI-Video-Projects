@@ -3353,7 +3353,7 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 #### Logging
 
-20240120 Jack Lee 今天进行最终的文档检查
+20240120 Jack Lee 今天完成最终的文档检查
 
 20240119 Jack Lee 今天精简了一下文档内容
 
