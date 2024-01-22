@@ -3264,7 +3264,16 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
     > 从初步的视频生成效果上来看，目前的视频生成还是比较粗糙，可能需要定义更加精细化的prompt才能够生成好看的视频。同时市场上的工具免费的只能生成几秒的视频，需要付费才能够解锁更好的体验，而且费用不低。
     >
     > 同时每个工具生成的质量没有说有明显差距，因此在视频生成工具的市场怎么杀出重围，才是这些创业者们急需考虑的一个问题。
-    >
+  
+* 开智学堂校友00同学的文章 [如何创作 AI 视频？给新手创作者的微指南](https://mp.weixin.qq.com/s/afCOGQj6DCDwGudV6EqWKw)
+
+  * AI视频新手创作者微指南-图零学院.pdf
+    https://www.alipan.com/s/QdgiCRXRZv3
+
+    提取码: w3l4
+
+    图零学院 https://www.xueyuan.ai
+
 
 
 
