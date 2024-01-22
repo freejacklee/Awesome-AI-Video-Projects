@@ -3571,7 +3571,7 @@ Foresight News - Foresight Wiki. Foresight News 是亚太地区最具影响力�
 
 今天受到首届东木人生发展挑战赛微信群开智校友（川子同学和jack同学）启发，然后主动搜索到了公众号数字生命卡兹克的《盘一下最近爆火刷屏的3大AI视频项目 - 开始加速的未来》一文。明天继续整理**Ben's Bites**两个每天更新的数据库中的内容
 
-今天主要增加了阿里的Animate Anyone、字节跳动的MagicAnimate**、**微软的GAIA，还补充了一下pika部分的相关内容。
+今天主要增加了阿里的Animate Anyone、字节跳动的MagicAnimate、微软的GAIA，还补充了一下pika部分的相关内容。
 
 20231213 Jack Lee 今天目标推进500词，最终推进到了4509词
 
