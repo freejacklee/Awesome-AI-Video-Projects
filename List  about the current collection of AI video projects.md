@@ -3274,6 +3274,12 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
     图零学院 https://www.xueyuan.ai
 
+* [AIGC｜Runway Gen-2推出多重运动笔刷功能（体验经验分享）](https://mp.weixin.qq.com/s/CsBm_80TbxNg2I7_OKeqng)
+  * 体验地址：
+    https://app.runwayml.com/ai-tools/ai-tools/gen-2
+
+* [挑战用AI拍视频推荐一本好书](https://mp.weixin.qq.com/s/gI8JKPYQZdf9vAqkxzCMLw)
+
 
 
 
