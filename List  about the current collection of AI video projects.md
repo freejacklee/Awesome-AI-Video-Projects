@@ -3279,10 +3279,12 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
   * 体验地址：
     https://app.runwayml.com/ai-tools/ai-tools/gen-2
   
-
 * [AI 鲜测｜Runway 的“神笔马良”功能又升级了，甚至能还原《黑客帝国》子弹时间效果？](https://mp.weixin.qq.com/s/L2aygAnUH17F28eXZVAs5w)
 
 * [挑战用AI拍视频推荐一本好书](https://mp.weixin.qq.com/s/gI8JKPYQZdf9vAqkxzCMLw)
+
+
+* [How to make AI videos from text using Pika | Digital Trends](https://www.digitaltrends.com/computing/how-to-make-ai-videos-pika/)
 
 
 
