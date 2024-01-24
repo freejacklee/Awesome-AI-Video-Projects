@@ -185,7 +185,7 @@ User reviews 用户测评：
 - @阑夕
   - AI视频生产，新兴产品Pika和老牌产品Runway的对比，同一张图片、同样的设置，可以看得出来已经各有千秋了。来自阑夕的微博视频号 https://weibo.com/tv/show/1034:4977370101383191?from=old_pc_videoshow
 
-- 我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。我在Pika Labs的Discord上用一张图片生成的视频中人物的脸会变形。2023年12月22日 11:05  2023年12月25日 17:10邮件和discord都获得了体验资格，个别试验效果还是差强人意。
+- 我的个人体验：20231210已申请加入waitlist，暂未获得邀请资格，继续期待。我在Pika Labs的Discord上用一张图片生成的视频中人物的脸会变形。2023年12月22日 11:05  2023年12月25日 17:10邮件和discord都获得了体验资格，个别试验效果还是差强人意，但是总体还是不错的。
 
 
 
@@ -3275,8 +3275,12 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
     图零学院 https://www.xueyuan.ai
 
 * [AIGC｜Runway Gen-2推出多重运动笔刷功能（体验经验分享）](https://mp.weixin.qq.com/s/CsBm_80TbxNg2I7_OKeqng)
+  
   * 体验地址：
     https://app.runwayml.com/ai-tools/ai-tools/gen-2
+  
+
+* [AI 鲜测｜Runway 的“神笔马良”功能又升级了，甚至能还原《黑客帝国》子弹时间效果？](https://mp.weixin.qq.com/s/L2aygAnUH17F28eXZVAs5w)
 
 * [挑战用AI拍视频推荐一本好书](https://mp.weixin.qq.com/s/gI8JKPYQZdf9vAqkxzCMLw)
 
