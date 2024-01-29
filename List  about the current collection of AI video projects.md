@@ -3249,8 +3249,6 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 * [一文了解生成式AI视频](https://mp.weixin.qq.com/s/Bvu1i03mRVIik51mct_rZA)
 
-* [视频数据是开发下一代 AI 的关键吗？](https://mp.weixin.qq.com/s/rXK7J28IUDdS7V61ctRRIw)
-
 * [2023年，爆发式的AI发展](https://mp.weixin.qq.com/s/tsCwoosVCJiaxY9XglQuRw)
 
   * > 总结
@@ -3345,6 +3343,8 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
     > 
     >
     > ●  短视频先行：消费侧需求时长更短，质量要求更灵活，追求快和重点focus，同时供给侧，受制于现有算法架构和算力消耗，ROI还未商业可行；内容品类上，动漫动画，自然风光，教育方向看好
+
+* [视频数据是开发下一代 AI 的关键吗？](https://mp.weixin.qq.com/s/rXK7J28IUDdS7V61ctRRIw)
 
 
 
