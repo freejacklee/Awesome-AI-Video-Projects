@@ -3247,6 +3247,10 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 ## 普通人入门AI视频生成指南
 
+* [一文了解生成式AI视频](https://mp.weixin.qq.com/s/Bvu1i03mRVIik51mct_rZA)
+
+* [视频数据是开发下一代 AI 的关键吗？](https://mp.weixin.qq.com/s/rXK7J28IUDdS7V61ctRRIw)
+
 * [2023年，爆发式的AI发展](https://mp.weixin.qq.com/s/tsCwoosVCJiaxY9XglQuRw)
 
   * > 总结
@@ -3264,7 +3268,7 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
     > 从初步的视频生成效果上来看，目前的视频生成还是比较粗糙，可能需要定义更加精细化的prompt才能够生成好看的视频。同时市场上的工具免费的只能生成几秒的视频，需要付费才能够解锁更好的体验，而且费用不低。
     >
     > 同时每个工具生成的质量没有说有明显差距，因此在视频生成工具的市场怎么杀出重围，才是这些创业者们急需考虑的一个问题。
-  
+
 * 开智学堂校友00同学的文章 [如何创作 AI 视频？给新手创作者的微指南](https://mp.weixin.qq.com/s/afCOGQj6DCDwGudV6EqWKw)
 
   * AI视频新手创作者微指南-图零学院.pdf
@@ -3275,10 +3279,10 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
     图零学院 https://www.xueyuan.ai
 
 * [AIGC｜Runway Gen-2推出多重运动笔刷功能（体验经验分享）](https://mp.weixin.qq.com/s/CsBm_80TbxNg2I7_OKeqng)
-  
+
   * 体验地址：
     https://app.runwayml.com/ai-tools/ai-tools/gen-2
-  
+
 * [AI 鲜测｜Runway 的“神笔马良”功能又升级了，甚至能还原《黑客帝国》子弹时间效果？](https://mp.weixin.qq.com/s/L2aygAnUH17F28eXZVAs5w)
 
 * [挑战用AI拍视频推荐一本好书](https://mp.weixin.qq.com/s/gI8JKPYQZdf9vAqkxzCMLw)
