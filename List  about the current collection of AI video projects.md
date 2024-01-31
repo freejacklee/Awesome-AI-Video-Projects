@@ -3273,14 +3273,18 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
     >
     > 同时每个工具生成的质量没有说有明显差距，因此在视频生成工具的市场怎么杀出重围，才是这些创业者们急需考虑的一个问题。
 
-* 开智学堂校友00同学的文章 [如何创作 AI 视频？给新手创作者的微指南](https://mp.weixin.qq.com/s/afCOGQj6DCDwGudV6EqWKw)
+* 开智学堂校友00同学的文章
 
-  * AI视频新手创作者微指南-图零学院.pdf
-    https://www.alipan.com/s/QdgiCRXRZv3
+  * [如何创作 AI 视频？给新手创作者的微指南](https://mp.weixin.qq.com/s/NCzTUiunv4WipW5XYpU_HQ?poc_token=HOA5umWjVZvJuOgMLpU0bDnG9z3DBjbroUcvs3Z6)
 
-    提取码: w3l4
+  *  [如何创作 AI 视频？给新手创作者的微指南](https://mp.weixin.qq.com/s/afCOGQj6DCDwGudV6EqWKw)
 
-    图零学院 https://www.xueyuan.ai
+    * AI视频新手创作者微指南-图零学院.pdf
+      https://www.alipan.com/s/QdgiCRXRZv3
+
+      提取码: w3l4
+
+      图零学院 https://www.xueyuan.ai
 
 * [AIGC｜Runway Gen-2推出多重运动笔刷功能（体验经验分享）](https://mp.weixin.qq.com/s/CsBm_80TbxNg2I7_OKeqng)
 
