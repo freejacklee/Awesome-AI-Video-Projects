@@ -2902,6 +2902,12 @@ Pricing（订阅价格）：
 
 
 
+Stay tuned for more.
+
+- [[PixVerse：免费且强大的 AI 视频生成工具](https://mp.weixin.qq.com/s/t9AF4-ifdyW2Co5Pk4F5zw)](https://mp.weixin.qq.com/s/t9AF4-ifdyW2Co5Pk4F5zw)
+
+
+
 ### List of Monthly Payment Plans
 
 ### 月付方案一览
@@ -3287,8 +3293,6 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 * [How to make AI videos from text using Pika | Digital Trends](https://www.digitaltrends.com/computing/how-to-make-ai-videos-pika/)
-
-* [PixVerse：免费且强大的 AI 视频生成工具](https://mp.weixin.qq.com/s/t9AF4-ifdyW2Co5Pk4F5zw)
 
 
 
