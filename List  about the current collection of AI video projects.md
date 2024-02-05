@@ -2914,8 +2914,11 @@ Stay tuned for more.
   效果震惊
 
   [文本生视频最强SOTA! Lumiere:一种逼真视频生成时空扩散模型](https://mp.weixin.qq.com/s/HakwnyDvzb4WIp2J0JdmLQ)	
-  
-  
+
+- 智源白羽中 1月2日
+  - 115个 AI生成视频工具，拿走不谢  [HeyGen And 122 Other AI Alternatives For Video generation](https://theresanaiforthat.com/ai/heygen?continueFlag=9bb2469915fcdd28f59058be1bfede8b)
+
+
 
 
 
