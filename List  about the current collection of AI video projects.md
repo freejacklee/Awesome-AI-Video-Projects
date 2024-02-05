@@ -2906,7 +2906,7 @@ Stay tuned for more.
 
 - [[PixVerse：免费且强大的 AI 视频生成工具](https://mp.weixin.qq.com/s/t9AF4-ifdyW2Co5Pk4F5zw)](https://mp.weixin.qq.com/s/t9AF4-ifdyW2Co5Pk4F5zw)
 
-- 智源白羽中
+- 智源白羽中 1月26日
   最先进的视频生成器
 
   谷歌新推出的时空扩散模型 Lumiere，AI视频生成器 Lumiere https://lumiere-video.github.io/ 集齐了常见视频生成和编辑功能，迄今为止我们所见过的最先进的视频生成器。
@@ -2914,6 +2914,8 @@ Stay tuned for more.
   效果震惊
 
   [文本生视频最强SOTA! Lumiere:一种逼真视频生成时空扩散模型](https://mp.weixin.qq.com/s/HakwnyDvzb4WIp2J0JdmLQ)	
+  
+  
 
 
 
@@ -3367,6 +3369,17 @@ Product Hunt （产品寻宝链接）：https://www.producthunt.com/products/boo
 
 
 * [2024年的AI视频，究竟何去何从](https://mp.weixin.qq.com/s/GhGWrU29HW1kFVJyqzUx_A)
+
+* 智源白羽中 1月5日
+
+
+  * 专访VideoPoet作者：大模型能带来真正的视觉智能 
+
+    视频生成领域的“ChatGPT 时刻”预计会在 24 年底或 25 年中实现，到那个时候视频生成已经可以达到好莱坞样片级别的效果。
+
+    * [专访VideoPoet作者：大模型能带来真正的视觉智能 - 智源社区](https://hub.baai.ac.cn/view/34070)
+    * [专访VideoPoet作者：LLM能带来真正的视觉智能](https://mp.weixin.qq.com/s/Hamz5XMT1tSZHKdPaCBTKg)
+
 
 
 
