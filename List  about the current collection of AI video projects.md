@@ -2917,6 +2917,13 @@ Stay tuned for more.
 
 - 智源白羽中 1月2日
   - 115个 AI生成视频工具，拿走不谢  [HeyGen And 122 Other AI Alternatives For Video generation](https://theresanaiforthat.com/ai/heygen?continueFlag=9bb2469915fcdd28f59058be1bfede8b)
+  
+- [我在模拟世界！OpenAI刚刚公布Sora技术细节：是数据驱动物理引擎](https://mp.weixin.qq.com/s/VIrjTun8Z2paikBeb3uUog)
+  
+  - 20240216今天，我们都在感受 Sora 的带来的魅力。
+  
+    OpenAI 的首个视频生成模型 Sora，让「一句话生成视频」的前沿 AI 技术向上突破了一大截，引发了业界对于生成式 AI 技术方向的大讨论。
+  
 
 
 
