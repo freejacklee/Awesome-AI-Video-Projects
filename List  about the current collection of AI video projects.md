@@ -2925,6 +2925,26 @@ Stay tuned for more.
     OpenAI 的首个视频生成模型 Sora，让「一句话生成视频」的前沿 AI 技术向上突破了一大截，引发了业界对于生成式 AI 技术方向的大讨论。
   
 
+* [Sora 的第一波受害者出现了。](https://mp.weixin.qq.com/s/d1swm7zYMQIF0dtfSFNtvQ)
+
+  * 三、Sora 开放内测
+    据说 Sora 模型目前已通过 Red Teaming 的方式开放内测申请，大家可以尝试。
+  * 申请地址：
+
+    https://openai.com/form/red-teaming-network
+* [Sora技术详解及影响分析！](https://mp.weixin.qq.com/s/4SaH74Xi39qUZIPQL_4IWw)
+* [中学生能看懂：Sora 原理解读](https://mp.weixin.qq.com/s/KUnXlDlg-Rs_6D5RFpQbnQ)
+* [AIGC | 「视频生成」系列之SVD1.1官方正式开放公测（体验经验分享）](https://mp.weixin.qq.com/s/ceKxGMw0wc-5XYrYhszJbQ)
+* [Stable Diffusion 3 开放申请！](https://mp.weixin.qq.com/s/K5aqy236UnSNDEBZa6ENkQ)
+
+  * 内测申请地址：
+    https://stability.ai/stablediffusion3
+* [从Sora谈起：OpenAI的AGI路线是什么](https://mp.weixin.qq.com/s/h40gLqB6O7aaXPuWsVH1Yg)
+* [适合3岁宝宝的 Sora 绘本](https://mp.weixin.qq.com/s/t4sXkaWxY_lGdQuomuf9sA)
+* [哆啦A梦：与 Sora 同行](https://mp.weixin.qq.com/s/E7fcLUkE_ihJ_2eaiSyGqw)
+* [窥探 OpenAI Forum， 一个邀请制的社区](https://mp.weixin.qq.com/s/0BLish-c4ll1PBLpbkcCKw)
+* [别只关心Sora，来看看Groq的新芯片给AI的提速有多么恐怖](https://mp.weixin.qq.com/s/uqe__4-Qdbes6VGLdLtoQw)
+
 
 
 
