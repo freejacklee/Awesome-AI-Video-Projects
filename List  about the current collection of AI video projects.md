@@ -2945,6 +2945,9 @@ Stay tuned for more.
 * [窥探 OpenAI Forum， 一个邀请制的社区](https://mp.weixin.qq.com/s/0BLish-c4ll1PBLpbkcCKw)
 * [别只关心Sora，来看看Groq的新芯片给AI的提速有多么恐怖](https://mp.weixin.qq.com/s/uqe__4-Qdbes6VGLdLtoQw)
 
+* [2024AIGC视频生成：走向AI创生时代｜甲子光年智库](https://mp.weixin.qq.com/s/flx_yDpqXIvFc2qw3_QNJw)
+  * 感谢关注「甲子光年」，点击链接【https://www.jazzyear.com/study_info.html?id=133】进入甲子光年官网下载《2024AIGC视频生成：走向AI创生时代》高清完整版PDF
+
 
 
 
