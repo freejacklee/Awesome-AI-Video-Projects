@@ -2948,6 +2948,8 @@ Stay tuned for more.
 * [2024AIGC视频生成：走向AI创生时代｜甲子光年智库](https://mp.weixin.qq.com/s/flx_yDpqXIvFc2qw3_QNJw)
   * 感谢关注「甲子光年」，点击链接【https://www.jazzyear.com/study_info.html?id=133】进入甲子光年官网下载《2024AIGC视频生成：走向AI创生时代》高清完整版PDF
 
+* [Sora 凌晨发布：与艺术家一起，解锁奇幻纪元](https://mp.weixin.qq.com/s/EQazvDKT2OCKdy9i_VM46g)
+
 
 
 
