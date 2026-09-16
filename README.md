@@ -116,7 +116,9 @@ This repository mainly collects some mainstream AI video projects currently on t
 - 31、Idomoo
 - 32、Lumen5
 - 33、Make-A-Video by Meta AI
-- 34、Designs.ai 
+- 34、Designs.ai
+- 35、[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, generation, and assembly from editable plan.json timelines.
+
 
 ## AI Funding Rounds
 
