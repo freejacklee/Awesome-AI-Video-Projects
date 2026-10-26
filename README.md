@@ -75,6 +75,7 @@ This repository mainly collects some mainstream AI video projects currently on t
 
 ## What Are AI Video Generators
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - [10+ Best AI Video Generator Tools [2024]](https://www.tavus.io/post/ai-video-generator-tools)
 
 ## What to Consider When Choosing an AI Video Generator Tool 
